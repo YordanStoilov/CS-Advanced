@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SquareWithMaximumSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26e0360dc48eac257c9ee784a86d92868edd478e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95bdd171b65c2f9cbdc2979066780eccbca7847f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SquareWithMaximumSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SquareWithMaximumSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
