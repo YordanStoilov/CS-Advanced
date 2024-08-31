@@ -12,7 +12,6 @@
 
             ExtractOddLines(inputFilePath, outputFilePath);
 
-
             void ExtractOddLines(string inputFilePath, string outputFilePath)
             {
                 int count = 0;
