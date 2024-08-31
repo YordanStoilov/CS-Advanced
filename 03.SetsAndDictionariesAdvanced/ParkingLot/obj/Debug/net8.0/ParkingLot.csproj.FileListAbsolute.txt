@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/ParkingLot/bin/Debug/net8.0/ParkingLot
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/ParkingLot/bin/Debug/net8.0/ParkingLot.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/ParkingLot/bin/Debug/net8.0/ParkingLot.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/ParkingLot/bin/Debug/net8.0/ParkingLot.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/ParkingLot/bin/Debug/net8.0/ParkingLot.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/ParkingLot/obj/Debug/net8.0/ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/ParkingLot/obj/Debug/net8.0/ParkingLot.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/ParkingLot/obj/Debug/net8.0/ParkingLot.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/ParkingLot/obj/Debug/net8.0/ParkingLot.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/ParkingLot/obj/Debug/net8.0/ParkingLot.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/ParkingLot/obj/Debug/net8.0/ParkingLot.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/ParkingLot/obj/Debug/net8.0/refint/ParkingLot.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/ParkingLot/obj/Debug/net8.0/ParkingLot.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/ParkingLot/obj/Debug/net8.0/ParkingLot.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/ParkingLot/obj/Debug/net8.0/ref/ParkingLot.dll

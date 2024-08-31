@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FashionBotique/bin/Debug/net8.0/FashionBotique
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FashionBotique/bin/Debug/net8.0/FashionBotique.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FashionBotique/bin/Debug/net8.0/FashionBotique.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FashionBotique/bin/Debug/net8.0/FashionBotique.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FashionBotique/bin/Debug/net8.0/FashionBotique.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FashionBotique/obj/Debug/net8.0/FashionBotique.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FashionBotique/obj/Debug/net8.0/FashionBotique.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FashionBotique/obj/Debug/net8.0/FashionBotique.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FashionBotique/obj/Debug/net8.0/FashionBotique.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FashionBotique/obj/Debug/net8.0/FashionBotique.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FashionBotique/obj/Debug/net8.0/FashionBotique.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FashionBotique/obj/Debug/net8.0/refint/FashionBotique.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FashionBotique/obj/Debug/net8.0/FashionBotique.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FashionBotique/obj/Debug/net8.0/FashionBotique.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FashionBotique/obj/Debug/net8.0/ref/FashionBotique.dll

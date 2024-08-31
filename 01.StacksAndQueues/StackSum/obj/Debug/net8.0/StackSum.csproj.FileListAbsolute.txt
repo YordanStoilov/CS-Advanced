@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/StackSum/bin/Debug/net8.0/StackSum
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/StackSum/bin/Debug/net8.0/StackSum.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/StackSum/bin/Debug/net8.0/StackSum.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/StackSum/bin/Debug/net8.0/StackSum.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/StackSum/bin/Debug/net8.0/StackSum.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/StackSum/obj/Debug/net8.0/StackSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/StackSum/obj/Debug/net8.0/StackSum.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/StackSum/obj/Debug/net8.0/StackSum.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/StackSum/obj/Debug/net8.0/StackSum.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/StackSum/obj/Debug/net8.0/StackSum.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/StackSum/obj/Debug/net8.0/StackSum.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/StackSum/obj/Debug/net8.0/refint/StackSum.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/StackSum/obj/Debug/net8.0/StackSum.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/StackSum/obj/Debug/net8.0/StackSum.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/StackSum/obj/Debug/net8.0/ref/StackSum.dll

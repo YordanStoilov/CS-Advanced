@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wardrobe", "03.SetsAndDicti
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.StreamsFilesAndDirectories", "04.StreamsFilesAndDirectories", "{E0D9F553-D969-4EAA-84D6-728C00606781}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddLines", "04.StreamsFilesAndDirectories\OddLines\OddLines.csproj", "{91969F20-0D8D-43F7-826E-69DBAB179352}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -305,6 +307,10 @@ Global
 		{8EFCA2A0-2A49-4C06-A767-DA0013584232}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EFCA2A0-2A49-4C06-A767-DA0013584232}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EFCA2A0-2A49-4C06-A767-DA0013584232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91969F20-0D8D-43F7-826E-69DBAB179352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91969F20-0D8D-43F7-826E-69DBAB179352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91969F20-0D8D-43F7-826E-69DBAB179352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91969F20-0D8D-43F7-826E-69DBAB179352}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -358,5 +364,6 @@ Global
 		{D6CFDD88-543B-4054-803B-3D5FACB74E2C} = {12F0904B-6639-4A0C-8708-AF2290CB6935}
 		{1F6C8DF6-FB47-48F8-AB2B-D58569A10D55} = {12F0904B-6639-4A0C-8708-AF2290CB6935}
 		{8EFCA2A0-2A49-4C06-A767-DA0013584232} = {12F0904B-6639-4A0C-8708-AF2290CB6935}
+		{91969F20-0D8D-43F7-826E-69DBAB179352} = {E0D9F553-D969-4EAA-84D6-728C00606781}
 	EndGlobalSection
 EndGlobal

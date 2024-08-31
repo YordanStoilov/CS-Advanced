@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/KnightGame/bin/Debug/net8.0/KnightGame
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/KnightGame/bin/Debug/net8.0/KnightGame.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/KnightGame/bin/Debug/net8.0/KnightGame.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/KnightGame/bin/Debug/net8.0/KnightGame.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/KnightGame/bin/Debug/net8.0/KnightGame.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/KnightGame/obj/Debug/net8.0/KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/KnightGame/obj/Debug/net8.0/KnightGame.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/KnightGame/obj/Debug/net8.0/KnightGame.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/KnightGame/obj/Debug/net8.0/KnightGame.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/KnightGame/obj/Debug/net8.0/KnightGame.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/KnightGame/obj/Debug/net8.0/KnightGame.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/KnightGame/obj/Debug/net8.0/refint/KnightGame.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/KnightGame/obj/Debug/net8.0/KnightGame.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/KnightGame/obj/Debug/net8.0/KnightGame.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/KnightGame/obj/Debug/net8.0/ref/KnightGame.dll

@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CitiesByContinentAndCount/bin/Debug/net8.0/CitiesByContinentAndCount
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CitiesByContinentAndCount/bin/Debug/net8.0/CitiesByContinentAndCount.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CitiesByContinentAndCount/bin/Debug/net8.0/CitiesByContinentAndCount.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CitiesByContinentAndCount/bin/Debug/net8.0/CitiesByContinentAndCount.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CitiesByContinentAndCount/bin/Debug/net8.0/CitiesByContinentAndCount.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CitiesByContinentAndCount/obj/Debug/net8.0/CitiesByContinentAndCount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CitiesByContinentAndCount/obj/Debug/net8.0/CitiesByContinentAndCount.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CitiesByContinentAndCount/obj/Debug/net8.0/CitiesByContinentAndCount.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CitiesByContinentAndCount/obj/Debug/net8.0/CitiesByContinentAndCount.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CitiesByContinentAndCount/obj/Debug/net8.0/CitiesByContinentAndCount.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CitiesByContinentAndCount/obj/Debug/net8.0/CitiesByContinentAndCount.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CitiesByContinentAndCount/obj/Debug/net8.0/refint/CitiesByContinentAndCount.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CitiesByContinentAndCount/obj/Debug/net8.0/CitiesByContinentAndCount.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CitiesByContinentAndCount/obj/Debug/net8.0/CitiesByContinentAndCount.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CitiesByContinentAndCount/obj/Debug/net8.0/ref/CitiesByContinentAndCount.dll

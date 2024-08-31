@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/HotPotato/bin/Debug/net8.0/HotPotato
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/HotPotato/bin/Debug/net8.0/HotPotato.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/HotPotato/bin/Debug/net8.0/HotPotato.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/HotPotato/bin/Debug/net8.0/HotPotato.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/HotPotato/bin/Debug/net8.0/HotPotato.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/HotPotato/obj/Debug/net8.0/HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/HotPotato/obj/Debug/net8.0/HotPotato.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/HotPotato/obj/Debug/net8.0/HotPotato.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/HotPotato/obj/Debug/net8.0/HotPotato.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/HotPotato/obj/Debug/net8.0/HotPotato.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/HotPotato/obj/Debug/net8.0/HotPotato.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/HotPotato/obj/Debug/net8.0/refint/HotPotato.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/HotPotato/obj/Debug/net8.0/HotPotato.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/HotPotato/obj/Debug/net8.0/HotPotato.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/HotPotato/obj/Debug/net8.0/ref/HotPotato.dll

@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CountSameValuesInArray/bin/Debug/net8.0/CountSameValuesInArray
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CountSameValuesInArray/bin/Debug/net8.0/CountSameValuesInArray.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CountSameValuesInArray/bin/Debug/net8.0/CountSameValuesInArray.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CountSameValuesInArray/bin/Debug/net8.0/CountSameValuesInArray.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CountSameValuesInArray/bin/Debug/net8.0/CountSameValuesInArray.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CountSameValuesInArray/obj/Debug/net8.0/CountSameValuesInArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CountSameValuesInArray/obj/Debug/net8.0/CountSameValuesInArray.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CountSameValuesInArray/obj/Debug/net8.0/CountSameValuesInArray.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CountSameValuesInArray/obj/Debug/net8.0/CountSameValuesInArray.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CountSameValuesInArray/obj/Debug/net8.0/CountSameValuesInArray.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CountSameValuesInArray/obj/Debug/net8.0/CountSameValuesInArray.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CountSameValuesInArray/obj/Debug/net8.0/refint/CountSameValuesInArray.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CountSameValuesInArray/obj/Debug/net8.0/CountSameValuesInArray.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CountSameValuesInArray/obj/Debug/net8.0/CountSameValuesInArray.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/CountSameValuesInArray/obj/Debug/net8.0/ref/CountSameValuesInArray.dll

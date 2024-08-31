@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniExamResults/bin/Debug/net8.0/SoftUniExamResults
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniExamResults/bin/Debug/net8.0/SoftUniExamResults.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniExamResults/bin/Debug/net8.0/SoftUniExamResults.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniExamResults/bin/Debug/net8.0/SoftUniExamResults.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniExamResults/bin/Debug/net8.0/SoftUniExamResults.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniExamResults/obj/Debug/net8.0/SoftUniExamResults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniExamResults/obj/Debug/net8.0/SoftUniExamResults.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniExamResults/obj/Debug/net8.0/SoftUniExamResults.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniExamResults/obj/Debug/net8.0/SoftUniExamResults.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniExamResults/obj/Debug/net8.0/SoftUniExamResults.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniExamResults/obj/Debug/net8.0/SoftUniExamResults.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniExamResults/obj/Debug/net8.0/refint/SoftUniExamResults.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniExamResults/obj/Debug/net8.0/SoftUniExamResults.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniExamResults/obj/Debug/net8.0/SoftUniExamResults.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniExamResults/obj/Debug/net8.0/ref/SoftUniExamResults.dll

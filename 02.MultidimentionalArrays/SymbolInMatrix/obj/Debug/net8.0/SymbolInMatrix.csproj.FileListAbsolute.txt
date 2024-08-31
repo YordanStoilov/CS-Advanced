@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SymbolInMatrix/bin/Debug/net8.0/SymbolInMatrix
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SymbolInMatrix/bin/Debug/net8.0/SymbolInMatrix.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SymbolInMatrix/bin/Debug/net8.0/SymbolInMatrix.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SymbolInMatrix/bin/Debug/net8.0/SymbolInMatrix.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SymbolInMatrix/bin/Debug/net8.0/SymbolInMatrix.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SymbolInMatrix/obj/Debug/net8.0/SymbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SymbolInMatrix/obj/Debug/net8.0/SymbolInMatrix.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SymbolInMatrix/obj/Debug/net8.0/SymbolInMatrix.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SymbolInMatrix/obj/Debug/net8.0/SymbolInMatrix.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SymbolInMatrix/obj/Debug/net8.0/SymbolInMatrix.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SymbolInMatrix/obj/Debug/net8.0/SymbolInMatrix.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SymbolInMatrix/obj/Debug/net8.0/refint/SymbolInMatrix.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SymbolInMatrix/obj/Debug/net8.0/SymbolInMatrix.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SymbolInMatrix/obj/Debug/net8.0/SymbolInMatrix.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SymbolInMatrix/obj/Debug/net8.0/ref/SymbolInMatrix.dll

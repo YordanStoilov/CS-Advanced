@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/JaggedArrayManipulator/bin/Debug/net8.0/JaggedArrayManipulator
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/JaggedArrayManipulator/bin/Debug/net8.0/JaggedArrayManipulator.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/JaggedArrayManipulator/bin/Debug/net8.0/JaggedArrayManipulator.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/JaggedArrayManipulator/bin/Debug/net8.0/JaggedArrayManipulator.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/JaggedArrayManipulator/bin/Debug/net8.0/JaggedArrayManipulator.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/JaggedArrayManipulator/obj/Debug/net8.0/JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/JaggedArrayManipulator/obj/Debug/net8.0/JaggedArrayManipulator.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/JaggedArrayManipulator/obj/Debug/net8.0/JaggedArrayManipulator.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/JaggedArrayManipulator/obj/Debug/net8.0/JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/JaggedArrayManipulator/obj/Debug/net8.0/JaggedArrayManipulator.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/JaggedArrayManipulator/obj/Debug/net8.0/JaggedArrayManipulator.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/JaggedArrayManipulator/obj/Debug/net8.0/refint/JaggedArrayManipulator.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/JaggedArrayManipulator/obj/Debug/net8.0/JaggedArrayManipulator.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/JaggedArrayManipulator/obj/Debug/net8.0/JaggedArrayManipulator.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/JaggedArrayManipulator/obj/Debug/net8.0/ref/JaggedArrayManipulator.dll

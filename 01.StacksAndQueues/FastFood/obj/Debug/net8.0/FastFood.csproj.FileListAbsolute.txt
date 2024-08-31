@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FastFood/bin/Debug/net8.0/FastFood
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FastFood/bin/Debug/net8.0/FastFood.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FastFood/bin/Debug/net8.0/FastFood.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FastFood/bin/Debug/net8.0/FastFood.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FastFood/bin/Debug/net8.0/FastFood.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FastFood/obj/Debug/net8.0/FastFood.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FastFood/obj/Debug/net8.0/FastFood.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FastFood/obj/Debug/net8.0/FastFood.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FastFood/obj/Debug/net8.0/FastFood.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FastFood/obj/Debug/net8.0/FastFood.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FastFood/obj/Debug/net8.0/FastFood.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FastFood/obj/Debug/net8.0/refint/FastFood.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FastFood/obj/Debug/net8.0/FastFood.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FastFood/obj/Debug/net8.0/FastFood.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/FastFood/obj/Debug/net8.0/ref/FastFood.dll

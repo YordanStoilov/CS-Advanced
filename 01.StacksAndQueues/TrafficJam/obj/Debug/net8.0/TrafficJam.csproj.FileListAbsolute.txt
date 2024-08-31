@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/TrafficJam/bin/Debug/net8.0/TrafficJam
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/TrafficJam/bin/Debug/net8.0/TrafficJam.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/TrafficJam/bin/Debug/net8.0/TrafficJam.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/TrafficJam/bin/Debug/net8.0/TrafficJam.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/TrafficJam/bin/Debug/net8.0/TrafficJam.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/TrafficJam/obj/Debug/net8.0/TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/TrafficJam/obj/Debug/net8.0/TrafficJam.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/TrafficJam/obj/Debug/net8.0/TrafficJam.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/TrafficJam/obj/Debug/net8.0/TrafficJam.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/TrafficJam/obj/Debug/net8.0/TrafficJam.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/TrafficJam/obj/Debug/net8.0/TrafficJam.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/TrafficJam/obj/Debug/net8.0/refint/TrafficJam.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/TrafficJam/obj/Debug/net8.0/TrafficJam.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/TrafficJam/obj/Debug/net8.0/TrafficJam.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/TrafficJam/obj/Debug/net8.0/ref/TrafficJam.dll

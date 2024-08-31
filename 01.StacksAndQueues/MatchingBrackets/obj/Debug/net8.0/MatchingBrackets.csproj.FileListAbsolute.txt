@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/MatchingBrackets/bin/Debug/net8.0/MatchingBrackets
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/MatchingBrackets/bin/Debug/net8.0/MatchingBrackets.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/MatchingBrackets/bin/Debug/net8.0/MatchingBrackets.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/MatchingBrackets/bin/Debug/net8.0/MatchingBrackets.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/MatchingBrackets/bin/Debug/net8.0/MatchingBrackets.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/MatchingBrackets/obj/Debug/net8.0/MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/MatchingBrackets/obj/Debug/net8.0/MatchingBrackets.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/MatchingBrackets/obj/Debug/net8.0/MatchingBrackets.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/MatchingBrackets/obj/Debug/net8.0/MatchingBrackets.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/MatchingBrackets/obj/Debug/net8.0/MatchingBrackets.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/MatchingBrackets/obj/Debug/net8.0/MatchingBrackets.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/MatchingBrackets/obj/Debug/net8.0/refint/MatchingBrackets.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/MatchingBrackets/obj/Debug/net8.0/MatchingBrackets.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/MatchingBrackets/obj/Debug/net8.0/MatchingBrackets.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/MatchingBrackets/obj/Debug/net8.0/ref/MatchingBrackets.dll

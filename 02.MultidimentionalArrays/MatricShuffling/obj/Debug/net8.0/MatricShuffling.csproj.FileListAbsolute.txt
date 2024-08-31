@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/MatricShuffling/bin/Debug/net8.0/MatricShuffling
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/MatricShuffling/bin/Debug/net8.0/MatricShuffling.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/MatricShuffling/bin/Debug/net8.0/MatricShuffling.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/MatricShuffling/bin/Debug/net8.0/MatricShuffling.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/MatricShuffling/bin/Debug/net8.0/MatricShuffling.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/MatricShuffling/obj/Debug/net8.0/MatricShuffling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/MatricShuffling/obj/Debug/net8.0/MatricShuffling.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/MatricShuffling/obj/Debug/net8.0/MatricShuffling.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/MatricShuffling/obj/Debug/net8.0/MatricShuffling.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/MatricShuffling/obj/Debug/net8.0/MatricShuffling.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/MatricShuffling/obj/Debug/net8.0/MatricShuffling.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/MatricShuffling/obj/Debug/net8.0/refint/MatricShuffling.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/MatricShuffling/obj/Debug/net8.0/MatricShuffling.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/MatricShuffling/obj/Debug/net8.0/MatricShuffling.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/MatricShuffling/obj/Debug/net8.0/ref/MatricShuffling.dll

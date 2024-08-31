@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/BasicStackOperations/bin/Debug/net8.0/BasicQueueOperations
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/BasicStackOperations/bin/Debug/net8.0/BasicQueueOperations.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/BasicStackOperations/bin/Debug/net8.0/BasicQueueOperations.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/BasicStackOperations/bin/Debug/net8.0/BasicQueueOperations.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/BasicStackOperations/bin/Debug/net8.0/BasicQueueOperations.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/BasicStackOperations/obj/Debug/net8.0/BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/BasicStackOperations/obj/Debug/net8.0/BasicQueueOperations.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/BasicStackOperations/obj/Debug/net8.0/BasicQueueOperations.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/BasicStackOperations/obj/Debug/net8.0/BasicQueueOperations.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/BasicStackOperations/obj/Debug/net8.0/BasicQueueOperations.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/BasicStackOperations/obj/Debug/net8.0/BasicQueueOperations.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/BasicStackOperations/obj/Debug/net8.0/refint/BasicQueueOperations.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/BasicStackOperations/obj/Debug/net8.0/BasicQueueOperations.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/BasicStackOperations/obj/Debug/net8.0/BasicQueueOperations.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/BasicStackOperations/obj/Debug/net8.0/ref/BasicQueueOperations.dll

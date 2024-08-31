@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SumMatrixElements/bin/Debug/net8.0/SumMatrixElements
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SumMatrixElements/bin/Debug/net8.0/SumMatrixElements.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SumMatrixElements/bin/Debug/net8.0/SumMatrixElements.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SumMatrixElements/bin/Debug/net8.0/SumMatrixElements.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SumMatrixElements/bin/Debug/net8.0/SumMatrixElements.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SumMatrixElements/obj/Debug/net8.0/SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SumMatrixElements/obj/Debug/net8.0/SumMatrixElements.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SumMatrixElements/obj/Debug/net8.0/SumMatrixElements.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SumMatrixElements/obj/Debug/net8.0/SumMatrixElements.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SumMatrixElements/obj/Debug/net8.0/SumMatrixElements.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SumMatrixElements/obj/Debug/net8.0/SumMatrixElements.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SumMatrixElements/obj/Debug/net8.0/refint/SumMatrixElements.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SumMatrixElements/obj/Debug/net8.0/SumMatrixElements.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SumMatrixElements/obj/Debug/net8.0/SumMatrixElements.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SumMatrixElements/obj/Debug/net8.0/ref/SumMatrixElements.dll

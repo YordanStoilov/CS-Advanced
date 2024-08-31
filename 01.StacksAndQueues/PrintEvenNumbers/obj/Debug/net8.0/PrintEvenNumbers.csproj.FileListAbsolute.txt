@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/PrintEvenNumbers/bin/Debug/net8.0/PrintEvenNumbers
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/PrintEvenNumbers/bin/Debug/net8.0/PrintEvenNumbers.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/PrintEvenNumbers/bin/Debug/net8.0/PrintEvenNumbers.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/PrintEvenNumbers/bin/Debug/net8.0/PrintEvenNumbers.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/PrintEvenNumbers/bin/Debug/net8.0/PrintEvenNumbers.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/PrintEvenNumbers/obj/Debug/net8.0/PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/PrintEvenNumbers/obj/Debug/net8.0/PrintEvenNumbers.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/PrintEvenNumbers/obj/Debug/net8.0/PrintEvenNumbers.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/PrintEvenNumbers/obj/Debug/net8.0/PrintEvenNumbers.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/PrintEvenNumbers/obj/Debug/net8.0/PrintEvenNumbers.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/PrintEvenNumbers/obj/Debug/net8.0/PrintEvenNumbers.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/PrintEvenNumbers/obj/Debug/net8.0/refint/PrintEvenNumbers.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/PrintEvenNumbers/obj/Debug/net8.0/PrintEvenNumbers.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/PrintEvenNumbers/obj/Debug/net8.0/PrintEvenNumbers.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/PrintEvenNumbers/obj/Debug/net8.0/ref/PrintEvenNumbers.dll

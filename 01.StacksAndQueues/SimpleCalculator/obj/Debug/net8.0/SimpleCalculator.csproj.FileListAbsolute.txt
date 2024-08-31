@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleCalculator/bin/Debug/net8.0/SimpleCalculator
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleCalculator/bin/Debug/net8.0/SimpleCalculator.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleCalculator/bin/Debug/net8.0/SimpleCalculator.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleCalculator/bin/Debug/net8.0/SimpleCalculator.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleCalculator/bin/Debug/net8.0/SimpleCalculator.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleCalculator/obj/Debug/net8.0/refint/SimpleCalculator.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleCalculator/obj/Debug/net8.0/ref/SimpleCalculator.dll

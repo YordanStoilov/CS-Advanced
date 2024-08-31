@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleTextEditor/bin/Debug/net8.0/SimpleTextEditor
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleTextEditor/bin/Debug/net8.0/SimpleTextEditor.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleTextEditor/bin/Debug/net8.0/SimpleTextEditor.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleTextEditor/bin/Debug/net8.0/SimpleTextEditor.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleTextEditor/bin/Debug/net8.0/SimpleTextEditor.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleTextEditor/obj/Debug/net8.0/SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleTextEditor/obj/Debug/net8.0/SimpleTextEditor.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleTextEditor/obj/Debug/net8.0/SimpleTextEditor.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleTextEditor/obj/Debug/net8.0/SimpleTextEditor.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleTextEditor/obj/Debug/net8.0/SimpleTextEditor.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleTextEditor/obj/Debug/net8.0/SimpleTextEditor.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleTextEditor/obj/Debug/net8.0/refint/SimpleTextEditor.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleTextEditor/obj/Debug/net8.0/SimpleTextEditor.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleTextEditor/obj/Debug/net8.0/SimpleTextEditor.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/01.StacksAndQueues/SimpleTextEditor/obj/Debug/net8.0/ref/SimpleTextEditor.dll

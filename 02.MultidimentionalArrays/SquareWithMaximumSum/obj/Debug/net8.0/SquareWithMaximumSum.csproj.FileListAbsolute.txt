@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SquareWithMaximumSum/bin/Debug/net8.0/SquareWithMaximumSum
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SquareWithMaximumSum/bin/Debug/net8.0/SquareWithMaximumSum.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SquareWithMaximumSum/bin/Debug/net8.0/SquareWithMaximumSum.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SquareWithMaximumSum/bin/Debug/net8.0/SquareWithMaximumSum.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SquareWithMaximumSum/bin/Debug/net8.0/SquareWithMaximumSum.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SquareWithMaximumSum/obj/Debug/net8.0/SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SquareWithMaximumSum/obj/Debug/net8.0/SquareWithMaximumSum.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SquareWithMaximumSum/obj/Debug/net8.0/SquareWithMaximumSum.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SquareWithMaximumSum/obj/Debug/net8.0/SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SquareWithMaximumSum/obj/Debug/net8.0/SquareWithMaximumSum.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SquareWithMaximumSum/obj/Debug/net8.0/SquareWithMaximumSum.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SquareWithMaximumSum/obj/Debug/net8.0/refint/SquareWithMaximumSum.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SquareWithMaximumSum/obj/Debug/net8.0/SquareWithMaximumSum.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SquareWithMaximumSum/obj/Debug/net8.0/SquareWithMaximumSum.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/02.MultidimentionalArrays/SquareWithMaximumSum/obj/Debug/net8.0/ref/SquareWithMaximumSum.dll
