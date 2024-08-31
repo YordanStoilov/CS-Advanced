@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddLines", "04.StreamsFiles
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineNumber", "04.StreamsFilesAndDirectories\LineNumber\LineNumber.csproj", "{DF3586CB-505B-44C0-91AA-180AF471646F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCount", "04.StreamsFilesAndDirectories\WordCount\WordCount.csproj", "{5DFD2EFC-436B-43DA-846D-073B356A45E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -317,6 +319,10 @@ Global
 		{DF3586CB-505B-44C0-91AA-180AF471646F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF3586CB-505B-44C0-91AA-180AF471646F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF3586CB-505B-44C0-91AA-180AF471646F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DFD2EFC-436B-43DA-846D-073B356A45E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFD2EFC-436B-43DA-846D-073B356A45E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFD2EFC-436B-43DA-846D-073B356A45E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFD2EFC-436B-43DA-846D-073B356A45E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -372,5 +378,6 @@ Global
 		{8EFCA2A0-2A49-4C06-A767-DA0013584232} = {12F0904B-6639-4A0C-8708-AF2290CB6935}
 		{91969F20-0D8D-43F7-826E-69DBAB179352} = {E0D9F553-D969-4EAA-84D6-728C00606781}
 		{DF3586CB-505B-44C0-91AA-180AF471646F} = {E0D9F553-D969-4EAA-84D6-728C00606781}
+		{5DFD2EFC-436B-43DA-846D-073B356A45E7} = {E0D9F553-D969-4EAA-84D6-728C00606781}
 	EndGlobalSection
 EndGlobal

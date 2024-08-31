@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/LineNumber/LineNumber.csproj": {}
+    "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/WordCount/WordCount.csproj": {}
   },
   "projects": {
-    "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/LineNumber/LineNumber.csproj": {
+    "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/WordCount/WordCount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/LineNumber/LineNumber.csproj",
-        "projectName": "LineNumber",
-        "projectPath": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/LineNumber/LineNumber.csproj",
+        "projectUniqueName": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/WordCount/WordCount.csproj",
+        "projectName": "WordCount",
+        "projectPath": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/WordCount/WordCount.csproj",
         "packagesPath": "/Users/yordanstoilov/.nuget/packages/",
-        "outputPath": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/LineNumber/obj/",
+        "outputPath": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/WordCount/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yordanstoilov/.nuget/NuGet/NuGet.Config"
