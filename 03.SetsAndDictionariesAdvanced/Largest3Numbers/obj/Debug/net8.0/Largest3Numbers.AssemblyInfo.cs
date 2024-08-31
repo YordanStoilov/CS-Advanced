@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Largest3Numbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+690181a0280240fc1dc9c8871ac24d099263950a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Largest3Numbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Largest3Numbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

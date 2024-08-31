@@ -13,7 +13,7 @@
             ExtractOddLines(inputFilePath, outputFilePath);
 
 
-            void ExtractOddLines(string inputFilePath, string outputFilePath)
+            static void ExtractOddLines(string inputFilePath, string outputFilePath)
             {
                 int count = 0;
                 using (StreamReader reader = new StreamReader(inputFilePath))
@@ -37,3 +37,5 @@
         }
     }
 }
+
+//Test
