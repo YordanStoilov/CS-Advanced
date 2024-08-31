@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SquaresInMatrix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf76b49db840003fe80dda9addc666c460e26e31")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+>>>>>>> origin/main
 [assembly: System.Reflection.AssemblyProductAttribute("SquaresInMatrix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SquaresInMatrix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
