@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/ExtractSpecialBytes/bin/Debug/net8.0/ExtractSpecialBytes
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/ExtractSpecialBytes/bin/Debug/net8.0/ExtractSpecialBytes.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/ExtractSpecialBytes/bin/Debug/net8.0/ExtractSpecialBytes.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/ExtractSpecialBytes/bin/Debug/net8.0/ExtractSpecialBytes.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/ExtractSpecialBytes/bin/Debug/net8.0/ExtractSpecialBytes.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/ExtractSpecialBytes/obj/Debug/net8.0/ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/ExtractSpecialBytes/obj/Debug/net8.0/ExtractSpecialBytes.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/ExtractSpecialBytes/obj/Debug/net8.0/ExtractSpecialBytes.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/ExtractSpecialBytes/obj/Debug/net8.0/ExtractSpecialBytes.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/ExtractSpecialBytes/obj/Debug/net8.0/ExtractSpecialBytes.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/ExtractSpecialBytes/obj/Debug/net8.0/ExtractSpecialBytes.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/ExtractSpecialBytes/obj/Debug/net8.0/refint/ExtractSpecialBytes.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/ExtractSpecialBytes/obj/Debug/net8.0/ExtractSpecialBytes.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/ExtractSpecialBytes/obj/Debug/net8.0/ExtractSpecialBytes.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/ExtractSpecialBytes/obj/Debug/net8.0/ref/ExtractSpecialBytes.dll
