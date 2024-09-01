@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/SplitMergeBinaryFiles.csproj": {}
+    "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/FolderSize.csproj": {}
   },
   "projects": {
-    "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/SplitMergeBinaryFiles.csproj": {
+    "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/FolderSize.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/SplitMergeBinaryFiles.csproj",
-        "projectName": "SplitMergeBinaryFiles",
-        "projectPath": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/SplitMergeBinaryFiles.csproj",
+        "projectUniqueName": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/FolderSize.csproj",
+        "projectName": "FolderSize",
+        "projectPath": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/FolderSize.csproj",
         "packagesPath": "/Users/yordanstoilov/.nuget/packages/",
-        "outputPath": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/obj/",
+        "outputPath": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yordanstoilov/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

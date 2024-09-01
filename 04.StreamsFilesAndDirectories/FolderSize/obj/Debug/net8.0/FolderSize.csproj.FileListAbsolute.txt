@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/bin/Debug/net8.0/FolderSize
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/bin/Debug/net8.0/FolderSize.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/bin/Debug/net8.0/FolderSize.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/bin/Debug/net8.0/FolderSize.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/bin/Debug/net8.0/FolderSize.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/obj/Debug/net8.0/FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/obj/Debug/net8.0/FolderSize.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/obj/Debug/net8.0/FolderSize.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/obj/Debug/net8.0/FolderSize.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/obj/Debug/net8.0/FolderSize.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/obj/Debug/net8.0/FolderSize.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/obj/Debug/net8.0/refint/FolderSize.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/obj/Debug/net8.0/FolderSize.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/obj/Debug/net8.0/FolderSize.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/FolderSize/obj/Debug/net8.0/ref/FolderSize.dll
