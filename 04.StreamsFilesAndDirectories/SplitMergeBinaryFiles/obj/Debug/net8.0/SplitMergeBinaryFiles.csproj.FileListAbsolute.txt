@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/bin/Debug/net8.0/SplitMergeBinaryFiles
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/bin/Debug/net8.0/SplitMergeBinaryFiles.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/bin/Debug/net8.0/SplitMergeBinaryFiles.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/bin/Debug/net8.0/SplitMergeBinaryFiles.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/bin/Debug/net8.0/SplitMergeBinaryFiles.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/obj/Debug/net8.0/SplitMergeBinaryFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/obj/Debug/net8.0/SplitMergeBinaryFiles.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/obj/Debug/net8.0/SplitMergeBinaryFiles.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/obj/Debug/net8.0/SplitMergeBinaryFiles.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/obj/Debug/net8.0/SplitMergeBinaryFiles.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/obj/Debug/net8.0/SplitMergeBinaryFiles.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/obj/Debug/net8.0/refint/SplitMergeBinaryFiles.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/obj/Debug/net8.0/SplitMergeBinaryFiles.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/obj/Debug/net8.0/SplitMergeBinaryFiles.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/SplitMergeBinaryFiles/obj/Debug/net8.0/ref/SplitMergeBinaryFiles.dll
