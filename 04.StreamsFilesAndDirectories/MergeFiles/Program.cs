@@ -5,9 +5,6 @@ namespace MergeFiles
     {
         static void Main()
         {
-            // var firstInputFilePath = @"..\..\..\Files\input1.txt";
-            // var secondInputFilePath = @"..\..\..\Files\input2.txt";
-            // var outputFilePath = @"..\..\..\Files\output.txt";
             string firstInputFilePath = @"./input1.txt";
             string secondInputFilePath = @"./input2.txt";
             string outputFilePath = @"./output.txt";

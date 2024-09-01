@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExtractSpecialBytes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+006a409834ff34bc51ffa1b26a81cad247bdb608")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4229fef7a450d25f9f7d013896eaf556e6c5da1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExtractSpecialBytes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExtractSpecialBytes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

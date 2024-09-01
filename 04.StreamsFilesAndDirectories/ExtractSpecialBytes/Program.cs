@@ -14,7 +14,7 @@ namespace ExtractSpecialBytes
 
         public static void ExtractBytesFromBinaryFile(string binaryFilePath, string bytesFilePath, string outputPath)
         {
-            // TODO: write your code here…
+
         }
     }
 }
