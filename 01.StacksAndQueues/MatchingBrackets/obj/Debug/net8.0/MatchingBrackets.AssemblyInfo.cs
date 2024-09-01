@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MatchingBrackets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70bf7a6f0453459c3bf10aa6e480565aac0e29da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f923769c5fbed49916f48630b07fd7c6cf5ba145")]
 [assembly: System.Reflection.AssemblyProductAttribute("MatchingBrackets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MatchingBrackets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
