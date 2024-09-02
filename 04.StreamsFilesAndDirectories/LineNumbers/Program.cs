@@ -15,28 +15,34 @@
 
         public static void ProcessLines(string inputFilePath, string outputFilePath)
         {
+            int count = 0;
             using (StreamReader reader = new StreamReader(inputFilePath))
+            using (StreamWriter writer = new StreamWriter(outputFilePath))
             {
-                char[] punctuationMarks = new char[] { '.', ',', '!', '?', '-', ';', ':', '(', ')', '\'', '"' };
-                int count = 1;
-                string line = reader.ReadLine();
-                int punctuationCount = 0;
-                int charsCount = 0;
-
-                foreach (char character in line)
+                while (!reader.EndOfStream)
                 {
-                    if (character == ' ')
+                    char[] punctuationMarks = new char[] { '.', ',', '!', '?', '-', ';', ':', '(', ')', '\'', '"' };
+                    string line = reader.ReadLine();
+                    int punctuationCount = 0;
+                    int charsCount = 0;
+
+                    foreach (char character in line)
                     {
-                        continue;
+                        if (character == ' ')
+                        {
+                            continue;
+                        }
+                        if (punctuationMarks.Contains(character))
+                        {
+                            punctuationCount++;
+                        }
+                        else
+                        {
+                            charsCount++;
+                        }
                     }
-                    if (punctuationMarks.Contains(character))
-                    {
-                        punctuationCount++;
-                    }
-                    else
-                    {
-                        charsCount++;
-                    }
+                    count++;
+                    writer.WriteLine($"Line {count}: {line} ({charsCount})({punctuationCount})");
                 }
             }
         }
