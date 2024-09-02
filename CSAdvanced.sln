@@ -131,6 +131,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryTraversal", "04.St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyDirectory", "04.StreamsFilesAndDirectories\CopyDirectory\CopyDirectory.csproj", "{16DBBDA8-9DAC-4695-992A-51A4897CFFE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipAndExtracts", "04.StreamsFilesAndDirectories\ZipAndExtracts\ZipAndExtracts.csproj", "{C6F55F08-D095-4401-AE30-48A648B67B0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -377,6 +379,10 @@ Global
 		{16DBBDA8-9DAC-4695-992A-51A4897CFFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16DBBDA8-9DAC-4695-992A-51A4897CFFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16DBBDA8-9DAC-4695-992A-51A4897CFFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F55F08-D095-4401-AE30-48A648B67B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F55F08-D095-4401-AE30-48A648B67B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F55F08-D095-4401-AE30-48A648B67B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F55F08-D095-4401-AE30-48A648B67B0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -442,5 +448,6 @@ Global
 		{DF4E4A24-D4B6-4755-85E0-DD17A1366762} = {E0D9F553-D969-4EAA-84D6-728C00606781}
 		{EB388F49-50DF-47EA-B0F4-D3ADB14A3321} = {E0D9F553-D969-4EAA-84D6-728C00606781}
 		{16DBBDA8-9DAC-4695-992A-51A4897CFFE5} = {E0D9F553-D969-4EAA-84D6-728C00606781}
+		{C6F55F08-D095-4401-AE30-48A648B67B0C} = {E0D9F553-D969-4EAA-84D6-728C00606781}
 	EndGlobalSection
 EndGlobal
