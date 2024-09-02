@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/obj/Debug/net6.0/CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/obj/Debug/net6.0/CopyBinaryFile.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/obj/Debug/net6.0/CopyBinaryFile.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/obj/Debug/net6.0/CopyBinaryFile.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/obj/Debug/net6.0/CopyBinaryFile.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/bin/Debug/net6.0/CopyBinaryFile
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/bin/Debug/net6.0/CopyBinaryFile.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/bin/Debug/net6.0/CopyBinaryFile.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/bin/Debug/net6.0/CopyBinaryFile.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/bin/Debug/net6.0/CopyBinaryFile.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/obj/Debug/net6.0/CopyBinaryFile.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/obj/Debug/net6.0/refint/CopyBinaryFile.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/obj/Debug/net6.0/CopyBinaryFile.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/obj/Debug/net6.0/CopyBinaryFile.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/obj/Debug/net6.0/ref/CopyBinaryFile.dll

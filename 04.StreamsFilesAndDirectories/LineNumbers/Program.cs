@@ -5,8 +5,6 @@
     {
         static void Main()
         {
-            // string inputFilePath = @"..\..\..\text.txt";
-            // string outputFilePath = @"..\..\..\output.txt";
             string inputFilePath = @"./text.txt";
             string outputFilePath = @"./output.txt";
 
