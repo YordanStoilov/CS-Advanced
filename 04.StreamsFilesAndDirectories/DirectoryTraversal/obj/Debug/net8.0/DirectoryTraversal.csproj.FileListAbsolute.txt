@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/DirectoryTraversal/bin/Debug/net8.0/DirectoryTraversal
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/DirectoryTraversal/bin/Debug/net8.0/DirectoryTraversal.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/DirectoryTraversal/bin/Debug/net8.0/DirectoryTraversal.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/DirectoryTraversal/bin/Debug/net8.0/DirectoryTraversal.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/DirectoryTraversal/bin/Debug/net8.0/DirectoryTraversal.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/DirectoryTraversal/obj/Debug/net8.0/DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/DirectoryTraversal/obj/Debug/net8.0/DirectoryTraversal.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/DirectoryTraversal/obj/Debug/net8.0/DirectoryTraversal.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/DirectoryTraversal/obj/Debug/net8.0/DirectoryTraversal.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/DirectoryTraversal/obj/Debug/net8.0/DirectoryTraversal.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/DirectoryTraversal/obj/Debug/net8.0/DirectoryTraversal.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/DirectoryTraversal/obj/Debug/net8.0/refint/DirectoryTraversal.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/DirectoryTraversal/obj/Debug/net8.0/DirectoryTraversal.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/DirectoryTraversal/obj/Debug/net8.0/DirectoryTraversal.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/DirectoryTraversal/obj/Debug/net8.0/ref/DirectoryTraversal.dll
