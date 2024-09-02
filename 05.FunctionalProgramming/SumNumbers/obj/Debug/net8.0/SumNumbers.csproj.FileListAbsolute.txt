@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/SumNumbers/bin/Debug/net8.0/SumNumbers
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/SumNumbers/bin/Debug/net8.0/SumNumbers.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/SumNumbers/bin/Debug/net8.0/SumNumbers.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/SumNumbers/bin/Debug/net8.0/SumNumbers.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/SumNumbers/bin/Debug/net8.0/SumNumbers.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/SumNumbers/obj/Debug/net8.0/SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/SumNumbers/obj/Debug/net8.0/SumNumbers.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/SumNumbers/obj/Debug/net8.0/SumNumbers.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/SumNumbers/obj/Debug/net8.0/SumNumbers.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/SumNumbers/obj/Debug/net8.0/SumNumbers.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/SumNumbers/obj/Debug/net8.0/SumNumbers.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/SumNumbers/obj/Debug/net8.0/refint/SumNumbers.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/SumNumbers/obj/Debug/net8.0/SumNumbers.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/SumNumbers/obj/Debug/net8.0/SumNumbers.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/SumNumbers/obj/Debug/net8.0/ref/SumNumbers.dll
