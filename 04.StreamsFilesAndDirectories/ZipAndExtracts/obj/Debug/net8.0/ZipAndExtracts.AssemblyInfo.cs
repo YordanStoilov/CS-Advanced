@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZipAndExtracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5d5f61ea12077509535a99eaf8cc20fac845a6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81a545a95d117e4255ae8768b87678e1ece28bce")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZipAndExtracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZipAndExtracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

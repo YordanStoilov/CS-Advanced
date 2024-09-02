@@ -1,2 +1,21 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+namespace ZipAndExtract
+{
+    using System;
+    using System.IO;
+
+    public class ZipAndExtract
+    {
+        static void Main()
+        {
+        }
+
+        public static void ZipFileToArchive(string inputFilePath, string zipArchiveFilePath)
+        {
+        }
+
+        public static void ExtractFileFromArchive(string zipArchiveFilePath, string fileName, string outputFilePath)
+        {
+        }
+    }
+}
