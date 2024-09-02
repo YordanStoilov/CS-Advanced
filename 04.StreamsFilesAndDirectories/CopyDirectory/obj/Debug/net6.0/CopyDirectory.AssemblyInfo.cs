@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CopyDirectory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+703c9d7ce27a220fb31bb6dac612eb02eb76ce0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e2b93b9ec12ad212f2d335bb3de58502db1517c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CopyDirectory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CopyDirectory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

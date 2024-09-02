@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CopyBinaryFile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d6d88e4903e152fb638ea953bc00b85ca6bdefb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e2b93b9ec12ad212f2d335bb3de58502db1517c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CopyBinaryFile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CopyBinaryFile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
