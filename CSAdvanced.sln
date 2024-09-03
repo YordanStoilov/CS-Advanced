@@ -155,6 +155,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindEvensOrOdds", "05.Funct
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppliedArithmetics", "05.FunctionalProgramming\AppliedArithmetics\AppliedArithmetics.csproj", "{DF1C16C1-820B-4621-805A-A9D23895C741}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseAndExclude", "05.FunctionalProgramming\ReverseAndExclude\ReverseAndExclude.csproj", "{0FA560B2-F997-42E9-A7C9-EEF6FB4D3C19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -445,6 +447,10 @@ Global
 		{DF1C16C1-820B-4621-805A-A9D23895C741}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF1C16C1-820B-4621-805A-A9D23895C741}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF1C16C1-820B-4621-805A-A9D23895C741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA560B2-F997-42E9-A7C9-EEF6FB4D3C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA560B2-F997-42E9-A7C9-EEF6FB4D3C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA560B2-F997-42E9-A7C9-EEF6FB4D3C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA560B2-F997-42E9-A7C9-EEF6FB4D3C19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -521,5 +527,6 @@ Global
 		{5BBCB5A3-DF3C-4C4F-9A95-3ED4BCD1FE4C} = {7033A2F2-907C-448B-BD9F-766FF672679C}
 		{DEE9D9E9-78B8-41EC-9A06-F1847FB1ACF3} = {7033A2F2-907C-448B-BD9F-766FF672679C}
 		{DF1C16C1-820B-4621-805A-A9D23895C741} = {7033A2F2-907C-448B-BD9F-766FF672679C}
+		{0FA560B2-F997-42E9-A7C9-EEF6FB4D3C19} = {7033A2F2-907C-448B-BD9F-766FF672679C}
 	EndGlobalSection
 EndGlobal
