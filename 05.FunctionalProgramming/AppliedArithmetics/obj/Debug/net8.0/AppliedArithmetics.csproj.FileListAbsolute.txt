@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/AppliedArithmetics/bin/Debug/net8.0/AppliedArithmetics
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/AppliedArithmetics/bin/Debug/net8.0/AppliedArithmetics.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/AppliedArithmetics/bin/Debug/net8.0/AppliedArithmetics.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/AppliedArithmetics/bin/Debug/net8.0/AppliedArithmetics.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/AppliedArithmetics/bin/Debug/net8.0/AppliedArithmetics.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/AppliedArithmetics/obj/Debug/net8.0/AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/AppliedArithmetics/obj/Debug/net8.0/AppliedArithmetics.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/AppliedArithmetics/obj/Debug/net8.0/AppliedArithmetics.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/AppliedArithmetics/obj/Debug/net8.0/AppliedArithmetics.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/AppliedArithmetics/obj/Debug/net8.0/AppliedArithmetics.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/AppliedArithmetics/obj/Debug/net8.0/AppliedArithmetics.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/AppliedArithmetics/obj/Debug/net8.0/refint/AppliedArithmetics.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/AppliedArithmetics/obj/Debug/net8.0/AppliedArithmetics.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/AppliedArithmetics/obj/Debug/net8.0/AppliedArithmetics.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/AppliedArithmetics/obj/Debug/net8.0/ref/AppliedArithmetics.dll
