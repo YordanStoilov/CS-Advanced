@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KnightsOfHonor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22c3375b51bfbebece88f8db1f1f8d36f43de137")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ce7204ecbe34d715857e05487372efe147e7acc")]
 [assembly: System.Reflection.AssemblyProductAttribute("KnightsOfHonor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KnightsOfHonor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

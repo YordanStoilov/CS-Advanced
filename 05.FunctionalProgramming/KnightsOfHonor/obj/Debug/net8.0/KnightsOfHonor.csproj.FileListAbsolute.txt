@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/KnightsOfHonor/bin/Debug/net8.0/KnightsOfHonor
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/KnightsOfHonor/bin/Debug/net8.0/KnightsOfHonor.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/KnightsOfHonor/bin/Debug/net8.0/KnightsOfHonor.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/KnightsOfHonor/bin/Debug/net8.0/KnightsOfHonor.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/KnightsOfHonor/bin/Debug/net8.0/KnightsOfHonor.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/KnightsOfHonor/obj/Debug/net8.0/KnightsOfHonor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/KnightsOfHonor/obj/Debug/net8.0/KnightsOfHonor.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/KnightsOfHonor/obj/Debug/net8.0/KnightsOfHonor.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/KnightsOfHonor/obj/Debug/net8.0/KnightsOfHonor.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/KnightsOfHonor/obj/Debug/net8.0/KnightsOfHonor.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/KnightsOfHonor/obj/Debug/net8.0/KnightsOfHonor.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/KnightsOfHonor/obj/Debug/net8.0/refint/KnightsOfHonor.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/KnightsOfHonor/obj/Debug/net8.0/KnightsOfHonor.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/KnightsOfHonor/obj/Debug/net8.0/KnightsOfHonor.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/KnightsOfHonor/obj/Debug/net8.0/ref/KnightsOfHonor.dll
