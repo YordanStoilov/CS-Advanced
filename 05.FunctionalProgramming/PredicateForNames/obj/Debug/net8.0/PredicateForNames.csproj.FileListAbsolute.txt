@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/PredicateForNames/bin/Debug/net8.0/PredicateForNames
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/PredicateForNames/bin/Debug/net8.0/PredicateForNames.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/PredicateForNames/bin/Debug/net8.0/PredicateForNames.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/PredicateForNames/bin/Debug/net8.0/PredicateForNames.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/PredicateForNames/bin/Debug/net8.0/PredicateForNames.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/PredicateForNames/obj/Debug/net8.0/PredicateForNames.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/PredicateForNames/obj/Debug/net8.0/PredicateForNames.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/PredicateForNames/obj/Debug/net8.0/PredicateForNames.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/PredicateForNames/obj/Debug/net8.0/PredicateForNames.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/PredicateForNames/obj/Debug/net8.0/PredicateForNames.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/PredicateForNames/obj/Debug/net8.0/PredicateForNames.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/PredicateForNames/obj/Debug/net8.0/refint/PredicateForNames.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/PredicateForNames/obj/Debug/net8.0/PredicateForNames.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/PredicateForNames/obj/Debug/net8.0/PredicateForNames.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/PredicateForNames/obj/Debug/net8.0/ref/PredicateForNames.dll
