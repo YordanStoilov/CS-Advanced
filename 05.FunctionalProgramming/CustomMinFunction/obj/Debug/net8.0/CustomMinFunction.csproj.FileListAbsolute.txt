@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CustomMinFunction/bin/Debug/net8.0/CustomMinFunction
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CustomMinFunction/bin/Debug/net8.0/CustomMinFunction.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CustomMinFunction/bin/Debug/net8.0/CustomMinFunction.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CustomMinFunction/bin/Debug/net8.0/CustomMinFunction.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CustomMinFunction/bin/Debug/net8.0/CustomMinFunction.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CustomMinFunction/obj/Debug/net8.0/CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CustomMinFunction/obj/Debug/net8.0/CustomMinFunction.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CustomMinFunction/obj/Debug/net8.0/CustomMinFunction.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CustomMinFunction/obj/Debug/net8.0/CustomMinFunction.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CustomMinFunction/obj/Debug/net8.0/CustomMinFunction.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CustomMinFunction/obj/Debug/net8.0/CustomMinFunction.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CustomMinFunction/obj/Debug/net8.0/refint/CustomMinFunction.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CustomMinFunction/obj/Debug/net8.0/CustomMinFunction.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CustomMinFunction/obj/Debug/net8.0/CustomMinFunction.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CustomMinFunction/obj/Debug/net8.0/ref/CustomMinFunction.dll
