@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CountUppercaseWords/bin/Debug/net8.0/CountUppercaseWords
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CountUppercaseWords/bin/Debug/net8.0/CountUppercaseWords.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CountUppercaseWords/bin/Debug/net8.0/CountUppercaseWords.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CountUppercaseWords/bin/Debug/net8.0/CountUppercaseWords.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CountUppercaseWords/bin/Debug/net8.0/CountUppercaseWords.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CountUppercaseWords/obj/Debug/net8.0/CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CountUppercaseWords/obj/Debug/net8.0/CountUppercaseWords.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CountUppercaseWords/obj/Debug/net8.0/CountUppercaseWords.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CountUppercaseWords/obj/Debug/net8.0/CountUppercaseWords.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CountUppercaseWords/obj/Debug/net8.0/CountUppercaseWords.sourcelink.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CountUppercaseWords/obj/Debug/net8.0/CountUppercaseWords.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CountUppercaseWords/obj/Debug/net8.0/refint/CountUppercaseWords.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CountUppercaseWords/obj/Debug/net8.0/CountUppercaseWords.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CountUppercaseWords/obj/Debug/net8.0/CountUppercaseWords.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/CountUppercaseWords/obj/Debug/net8.0/ref/CountUppercaseWords.dll
