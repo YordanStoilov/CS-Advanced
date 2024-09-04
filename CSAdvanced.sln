@@ -159,6 +159,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseAndExclude", "05.Fun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredicateForNames", "05.FunctionalProgramming\PredicateForNames\PredicateForNames.csproj", "{F7847513-7F20-42DC-8350-DA7A25E0DDD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfPredicates", "05.FunctionalProgramming\ListOfPredicates\ListOfPredicates.csproj", "{67ABC071-B93F-43D8-A2C5-E8832F13E7BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -457,6 +459,10 @@ Global
 		{F7847513-7F20-42DC-8350-DA7A25E0DDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7847513-7F20-42DC-8350-DA7A25E0DDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7847513-7F20-42DC-8350-DA7A25E0DDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67ABC071-B93F-43D8-A2C5-E8832F13E7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67ABC071-B93F-43D8-A2C5-E8832F13E7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67ABC071-B93F-43D8-A2C5-E8832F13E7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67ABC071-B93F-43D8-A2C5-E8832F13E7BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -535,5 +541,6 @@ Global
 		{DF1C16C1-820B-4621-805A-A9D23895C741} = {7033A2F2-907C-448B-BD9F-766FF672679C}
 		{0FA560B2-F997-42E9-A7C9-EEF6FB4D3C19} = {7033A2F2-907C-448B-BD9F-766FF672679C}
 		{F7847513-7F20-42DC-8350-DA7A25E0DDD7} = {7033A2F2-907C-448B-BD9F-766FF672679C}
+		{67ABC071-B93F-43D8-A2C5-E8832F13E7BB} = {7033A2F2-907C-448B-BD9F-766FF672679C}
 	EndGlobalSection
 EndGlobal
