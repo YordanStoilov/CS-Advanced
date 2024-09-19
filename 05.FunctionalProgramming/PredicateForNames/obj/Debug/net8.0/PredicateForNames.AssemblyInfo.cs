@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PredicateForNames")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc17b14eb953cd0bf50a57fe141fae49dc23e1ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95af9f6bcdeb362c8e49353bd1faae8a2c862b7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PredicateForNames")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PredicateForNames")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

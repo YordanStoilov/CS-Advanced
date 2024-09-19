@@ -167,6 +167,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePartyReservationFilterMo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriFunction", "05.FunctionalProgramming\TriFunction\TriFunction.csproj", "{6A74C704-4348-4703-B9BA-2D3303F7CA12}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.DefiningClasses", "06.DefiningClasses", "{00BBB1B5-E6F7-4DA9-B583-732DF74FCF4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarManafacturer", "06.DefiningClasses\CarManafacturer\CarManafacturer.csproj", "{8D7A8AEA-5E19-46C3-9DD2-66B4BE82EC02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -481,6 +485,10 @@ Global
 		{6A74C704-4348-4703-B9BA-2D3303F7CA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A74C704-4348-4703-B9BA-2D3303F7CA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A74C704-4348-4703-B9BA-2D3303F7CA12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D7A8AEA-5E19-46C3-9DD2-66B4BE82EC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7A8AEA-5E19-46C3-9DD2-66B4BE82EC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7A8AEA-5E19-46C3-9DD2-66B4BE82EC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7A8AEA-5E19-46C3-9DD2-66B4BE82EC02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -563,5 +571,6 @@ Global
 		{D0A64A94-3D20-48D2-A875-037E3A4467F3} = {7033A2F2-907C-448B-BD9F-766FF672679C}
 		{0B7E5846-0124-4683-835B-C97FBBDD66DC} = {7033A2F2-907C-448B-BD9F-766FF672679C}
 		{6A74C704-4348-4703-B9BA-2D3303F7CA12} = {7033A2F2-907C-448B-BD9F-766FF672679C}
+		{8D7A8AEA-5E19-46C3-9DD2-66B4BE82EC02} = {00BBB1B5-E6F7-4DA9-B583-732DF74FCF4A}
 	EndGlobalSection
 EndGlobal

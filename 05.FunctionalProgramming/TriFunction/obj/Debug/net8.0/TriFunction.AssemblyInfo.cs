@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TriFunction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51ce53bf111591dcdd37c87e12339ff5f5e94e70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95af9f6bcdeb362c8e49353bd1faae8a2c862b7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TriFunction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TriFunction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
