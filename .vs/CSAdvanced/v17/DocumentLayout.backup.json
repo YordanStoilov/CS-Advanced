@@ -3,10 +3,16 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Mac\\Home\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\06.DefiningClasses\\CarManafacturers\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}|CarManafacturer\\CarManafacturer.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\carmanafacturer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}|CarManafacturer\\CarManafacturer.csproj|solutionrelative:carmanafacturer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Mac\\Home\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\06.DefiningClasses\\CarManafacturers\\StartUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}|CarManafacturer\\CarManafacturer.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\carmanafacturer\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}|CarManafacturer\\CarManafacturer.csproj|solutionrelative:carmanafacturer\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}|CarManafacturer\\CarManafacturer.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\carmanafacturer\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}|CarManafacturer\\CarManafacturer.csproj|solutionrelative:carmanafacturer\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,28 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\06.DefiningClasses\\CarManafacturers\\Program.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\06.DefiningClasses\\CarManafacturers\\Program.cs",
-              "ViewState": "AgIAABMAAADAy8zMzAwswA8AAAApAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\Car.cs",
+              "RelativeDocumentMoniker": "CarManafacturer\\Car.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\Car.cs",
+              "RelativeToolTip": "CarManafacturer\\Car.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAASwBsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T15:47:50.282Z",
+              "WhenOpened": "2024-09-19T15:55:03.933Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\06.DefiningClasses\\CarManafacturers\\StartUp.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\06.DefiningClasses\\CarManafacturers\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Tire.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\Tire.cs",
+              "RelativeDocumentMoniker": "CarManafacturer\\Tire.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\Tire.cs",
+              "RelativeToolTip": "CarManafacturer\\Tire.cs",
+              "ViewState": "AgIAAAMAAABAZmZmZuYcwBMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T15:47:41.593Z",
+              "WhenOpened": "2024-09-19T16:16:52.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\StartUp.cs",
+              "RelativeDocumentMoniker": "CarManafacturer\\StartUp.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\StartUp.cs",
+              "RelativeToolTip": "CarManafacturer\\StartUp.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:58:07.423Z",
               "EditorCaption": ""
             }
           ]

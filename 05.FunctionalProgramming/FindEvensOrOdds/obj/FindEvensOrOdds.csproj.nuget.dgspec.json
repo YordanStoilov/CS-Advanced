@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\05.FunctionalProgramming\\FindEvensOrOdds\\FindEvensOrOdds.csproj": {}
+    "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/FindEvensOrOdds/FindEvensOrOdds.csproj": {}
   },
   "projects": {
-    "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\05.FunctionalProgramming\\FindEvensOrOdds\\FindEvensOrOdds.csproj": {
+    "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/FindEvensOrOdds/FindEvensOrOdds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\05.FunctionalProgramming\\FindEvensOrOdds\\FindEvensOrOdds.csproj",
+        "projectUniqueName": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/FindEvensOrOdds/FindEvensOrOdds.csproj",
         "projectName": "FindEvensOrOdds",
-        "projectPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\05.FunctionalProgramming\\FindEvensOrOdds\\FindEvensOrOdds.csproj",
-        "packagesPath": "C:\\Users\\yordanstoilov\\.nuget\\packages\\",
-        "outputPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\05.FunctionalProgramming\\FindEvensOrOdds\\obj\\",
+        "projectPath": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/FindEvensOrOdds/FindEvensOrOdds.csproj",
+        "packagesPath": "/Users/yordanstoilov/.nuget/packages/",
+        "outputPath": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/05.FunctionalProgramming/FindEvensOrOdds/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yordanstoilov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/yordanstoilov/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
