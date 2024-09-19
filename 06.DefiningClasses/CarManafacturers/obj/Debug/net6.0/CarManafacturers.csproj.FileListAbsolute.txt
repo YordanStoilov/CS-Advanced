@@ -1,0 +1,15 @@
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/06.DefiningClasses/CarManafacturer/CarManafacturers/obj/Debug/net6.0/CarManafacturers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/06.DefiningClasses/CarManafacturer/CarManafacturers/obj/Debug/net6.0/CarManafacturers.AssemblyInfoInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/06.DefiningClasses/CarManafacturer/CarManafacturers/obj/Debug/net6.0/CarManafacturers.AssemblyInfo.cs
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/06.DefiningClasses/CarManafacturer/CarManafacturers/obj/Debug/net6.0/CarManafacturers.csproj.CoreCompileInputs.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/06.DefiningClasses/CarManafacturer/CarManafacturers/bin/Debug/net6.0/CarManafacturers
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/06.DefiningClasses/CarManafacturer/CarManafacturers/bin/Debug/net6.0/CarManafacturers.deps.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/06.DefiningClasses/CarManafacturer/CarManafacturers/bin/Debug/net6.0/CarManafacturers.runtimeconfig.json
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/06.DefiningClasses/CarManafacturer/CarManafacturers/bin/Debug/net6.0/CarManafacturers.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/06.DefiningClasses/CarManafacturer/CarManafacturers/bin/Debug/net6.0/CarManafacturers.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/06.DefiningClasses/CarManafacturer/CarManafacturers/obj/Debug/net6.0/CarManafacturers.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/06.DefiningClasses/CarManafacturer/CarManafacturers/obj/Debug/net6.0/refint/CarManafacturers.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/06.DefiningClasses/CarManafacturer/CarManafacturers/obj/Debug/net6.0/CarManafacturers.pdb
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/06.DefiningClasses/CarManafacturer/CarManafacturers/obj/Debug/net6.0/CarManafacturers.genruntimeconfig.cache
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/06.DefiningClasses/CarManafacturer/CarManafacturers/obj/Debug/net6.0/ref/CarManafacturers.dll
+/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/06.DefiningClasses/CarManafacturer/CarManafacturers/obj/Debug/net6.0/CarManafacturers.sourcelink.json

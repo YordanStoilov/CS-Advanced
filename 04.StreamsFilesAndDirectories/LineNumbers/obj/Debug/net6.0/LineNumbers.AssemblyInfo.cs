@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LineNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95af9f6bcdeb362c8e49353bd1faae8a2c862b7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56ec380ea1413aa3b0287ccac50cbae31c237476")]
 [assembly: System.Reflection.AssemblyProductAttribute("LineNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LineNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

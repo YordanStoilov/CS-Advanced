@@ -1,4 +1,33 @@
 ﻿<Properties StartupConfiguration="{43A04872-9660-4F4C-A134-80704AC55CEE}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.DefiningClasses/CarManafacturer/CarManafacturers/CarManafacturers/StartUp.cs">
+    <Files>
+      <File FileName="06.DefiningClasses/CarManafacturer/CarManafacturers/CarManafacturers/CarManafacturer.cs" Line="13" Column="1" />
+      <File FileName="06.DefiningClasses/CarManafacturer/CarManafacturers/CarManafacturers/StartUp.cs" Line="19" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSAdvanced" expanded="True">
+            <Node name="06.DefiningClasses" expanded="True">
+              <Node name="CarManafacturer" expanded="True">
+                <Node name="CarManafacturers">
+                  <Node name="StartUp.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.02.MultidimentionalArrays.AverageStudentGrades PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <DisabledProjects>
+    <String>06.DefiningClasses/CarManafacturer/CarManafacturers/CarManafacturers.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
