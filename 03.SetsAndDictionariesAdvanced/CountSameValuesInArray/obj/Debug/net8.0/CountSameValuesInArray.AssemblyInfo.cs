@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountSameValuesInArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7131838c028a7a9e07fa5728e2eba89148d6b54e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54e1bc677e1ad07abdc8c04812af0e1423d5f9ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountSameValuesInArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountSameValuesInArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
