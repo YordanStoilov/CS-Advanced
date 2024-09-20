@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            Family newFamily = new Family();
+            List<Person> list = new List<Person>();
 
             for (int i = 0; i < n; i++)
             {
@@ -14,9 +14,14 @@
                 int age = int.Parse(line[1]);
 
                 Person currentPersn = new Person(age, name);
-                newFamily.AddMember(currentPersn);
+                list.Add(currentPersn);
             }
-            Console.WriteLine(newFamily.GetOldestMember());
+            var sorted = list.Where(person => person.Age > 30).OrderBy(person => person.Name).ToList();
+
+            foreach (Person person in sorted)
+            {
+                Console.WriteLine(person);
+            }
         }
     }
 }
