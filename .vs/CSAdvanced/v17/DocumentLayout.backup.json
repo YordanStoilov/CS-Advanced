@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FDBCC381-2BC4-42B1-A6AF-11C84BC272E0}|SpeedRacing\\SpeedRacing.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\speedracing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBCC381-2BC4-42B1-A6AF-11C84BC272E0}|SpeedRacing\\SpeedRacing.csproj|solutionrelative:speedracing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBCC381-2BC4-42B1-A6AF-11C84BC272E0}|SpeedRacing\\SpeedRacing.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\speedracing\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBCC381-2BC4-42B1-A6AF-11C84BC272E0}|SpeedRacing\\SpeedRacing.csproj|solutionrelative:speedracing\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C6BC3C3-CB54-4235-9D49-4A2631D9DEE9}|DateModifier\\DateModifier.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\datemodifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C6BC3C3-CB54-4235-9D49-4A2631D9DEE9}|DateModifier\\DateModifier.csproj|solutionrelative:datemodifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\SpeedRacing\\Car.cs",
+              "RelativeDocumentMoniker": "SpeedRacing\\Car.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\SpeedRacing\\Car.cs",
+              "RelativeToolTip": "SpeedRacing\\Car.cs",
+              "ViewState": "AgIAABgAAACABAAAAAAEwCQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:10:55.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\SpeedRacing\\Program.cs",
+              "RelativeDocumentMoniker": "SpeedRacing\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\SpeedRacing\\Program.cs",
+              "RelativeToolTip": "SpeedRacing\\Program.cs",
+              "ViewState": "AgIAABMAAADQZ2ZmZiYwwCMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:10:38.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DateModifier.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DateModifier\\DateModifier.cs",
               "RelativeDocumentMoniker": "DateModifier\\DateModifier.cs",
@@ -30,12 +64,11 @@
               "RelativeToolTip": "DateModifier\\DateModifier.cs",
               "ViewState": "AgIAAAQAAABgaGZmZuYswBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T14:07:17.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T14:07:17.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DateModifier\\Program.cs",
               "RelativeDocumentMoniker": "DateModifier\\Program.cs",
@@ -43,8 +76,7 @@
               "RelativeToolTip": "DateModifier\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T14:06:32.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T14:06:32.425Z"
             }
           ]
         }

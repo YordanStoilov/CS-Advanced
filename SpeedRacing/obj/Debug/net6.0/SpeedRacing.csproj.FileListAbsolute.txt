@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\SpeedRacing\bin\Debug\net6.0\SpeedRacing.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\SpeedRacing\bin\Debug\net6.0\SpeedRacing.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\SpeedRacing\bin\Debug\net6.0\SpeedRacing.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\SpeedRacing\bin\Debug\net6.0\SpeedRacing.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\SpeedRacing\bin\Debug\net6.0\SpeedRacing.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\SpeedRacing\obj\Debug\net6.0\SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\SpeedRacing\obj\Debug\net6.0\SpeedRacing.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\SpeedRacing\obj\Debug\net6.0\SpeedRacing.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\SpeedRacing\obj\Debug\net6.0\SpeedRacing.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\SpeedRacing\obj\Debug\net6.0\refint\SpeedRacing.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\SpeedRacing\obj\Debug\net6.0\SpeedRacing.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\SpeedRacing\obj\Debug\net6.0\SpeedRacing.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\SpeedRacing\obj\Debug\net6.0\ref\SpeedRacing.dll
