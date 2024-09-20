@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AverageStudentGrades")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ab3f70aa084cee542de4832ff61a7bee067be0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+982d51e2e9852131c5926c2d22390fb05f3387ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("AverageStudentGrades")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AverageStudentGrades")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

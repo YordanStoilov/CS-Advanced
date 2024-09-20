@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\DefiningClasses\bin\Debug\net6.0\DefiningClasses.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\DefiningClasses\bin\Debug\net6.0\DefiningClasses.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\DefiningClasses\bin\Debug\net6.0\DefiningClasses.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\DefiningClasses\bin\Debug\net6.0\DefiningClasses.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\DefiningClasses\bin\Debug\net6.0\DefiningClasses.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\DefiningClasses\obj\Debug\net6.0\DefiningClasses.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\DefiningClasses\obj\Debug\net6.0\DefiningClasses.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\DefiningClasses\obj\Debug\net6.0\DefiningClasses.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\DefiningClasses\obj\Debug\net6.0\DefiningClasses.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\DefiningClasses\obj\Debug\net6.0\DefiningClasses.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\DefiningClasses\obj\Debug\net6.0\DefiningClasses.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\DefiningClasses\obj\Debug\net6.0\refint\DefiningClasses.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\DefiningClasses\obj\Debug\net6.0\DefiningClasses.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\DefiningClasses\obj\Debug\net6.0\DefiningClasses.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\DefiningClasses\obj\Debug\net6.0\ref\DefiningClasses.dll

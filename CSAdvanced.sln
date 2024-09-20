@@ -169,7 +169,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriFunction", "05.Functiona
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.DefiningClasses", "06.DefiningClasses", "{00BBB1B5-E6F7-4DA9-B583-732DF74FCF4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarManafacturer", "CarManafacturer\CarManafacturer.csproj", "{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarManafacturer", "CarManafacturer\CarManafacturer.csproj", "{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefiningClasses", "DefiningClasses\DefiningClasses.csproj", "{E770442F-4A20-4A07-828E-5290DDC7AD32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -489,6 +491,10 @@ Global
 		{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E770442F-4A20-4A07-828E-5290DDC7AD32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E770442F-4A20-4A07-828E-5290DDC7AD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E770442F-4A20-4A07-828E-5290DDC7AD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E770442F-4A20-4A07-828E-5290DDC7AD32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -572,6 +578,7 @@ Global
 		{0B7E5846-0124-4683-835B-C97FBBDD66DC} = {7033A2F2-907C-448B-BD9F-766FF672679C}
 		{6A74C704-4348-4703-B9BA-2D3303F7CA12} = {7033A2F2-907C-448B-BD9F-766FF672679C}
 		{EEA78371-DD98-4997-84EA-87EA4C3A3E4E} = {00BBB1B5-E6F7-4DA9-B583-732DF74FCF4A}
+		{E770442F-4A20-4A07-828E-5290DDC7AD32} = {00BBB1B5-E6F7-4DA9-B583-732DF74FCF4A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65C1283D-830D-40CC-8FAB-35D061333BAA}

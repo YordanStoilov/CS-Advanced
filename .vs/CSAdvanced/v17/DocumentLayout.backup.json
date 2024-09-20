@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E770442F-4A20-4A07-828E-5290DDC7AD32}|DefiningClasses\\DefiningClasses.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\definingclasses\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E770442F-4A20-4A07-828E-5290DDC7AD32}|DefiningClasses\\DefiningClasses.csproj|solutionrelative:definingclasses\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E770442F-4A20-4A07-828E-5290DDC7AD32}|DefiningClasses\\DefiningClasses.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\definingclasses\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E770442F-4A20-4A07-828E-5290DDC7AD32}|DefiningClasses\\DefiningClasses.csproj|solutionrelative:definingclasses\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}|CarManafacturer\\CarManafacturer.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\carmanafacturer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}|CarManafacturer\\CarManafacturer.csproj|solutionrelative:carmanafacturer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}|CarManafacturer\\CarManafacturer.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\carmanafacturer\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}|CarManafacturer\\CarManafacturer.csproj|solutionrelative:carmanafacturer\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}|CarManafacturer\\CarManafacturer.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\carmanafacturer\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}|CarManafacturer\\CarManafacturer.csproj|solutionrelative:carmanafacturer\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +34,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\Car.cs",
-              "RelativeDocumentMoniker": "CarManafacturer\\Car.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\Car.cs",
-              "RelativeToolTip": "CarManafacturer\\Car.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAASwBsAAAAMAAAAAAAAAA==",
+              "Title": "Person.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DefiningClasses\\Person.cs",
+              "RelativeDocumentMoniker": "DefiningClasses\\Person.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DefiningClasses\\Person.cs",
+              "RelativeToolTip": "DefiningClasses\\Person.cs",
+              "ViewState": "AgIAAAUAAAAAQDMzMzPrvxUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T15:55:03.933Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tire.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\Tire.cs",
-              "RelativeDocumentMoniker": "CarManafacturer\\Tire.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\Tire.cs",
-              "RelativeToolTip": "CarManafacturer\\Tire.cs",
-              "ViewState": "AgIAAAMAAABAZmZmZuYcwBMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T16:16:52.251Z",
+              "WhenOpened": "2024-09-20T12:29:18.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StartUp.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DefiningClasses\\StartUp.cs",
+              "RelativeDocumentMoniker": "DefiningClasses\\StartUp.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DefiningClasses\\StartUp.cs",
+              "RelativeToolTip": "DefiningClasses\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:26:16.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\Car.cs",
+              "RelativeDocumentMoniker": "CarManafacturer\\Car.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\Car.cs",
+              "RelativeToolTip": "CarManafacturer\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:25:46.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tire.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\Tire.cs",
+              "RelativeDocumentMoniker": "CarManafacturer\\Tire.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\Tire.cs",
+              "RelativeToolTip": "CarManafacturer\\Tire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:25:31.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\Engine.cs",
+              "RelativeDocumentMoniker": "CarManafacturer\\Engine.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\Engine.cs",
+              "RelativeToolTip": "CarManafacturer\\Engine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:25:14.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\StartUp.cs",
               "RelativeDocumentMoniker": "CarManafacturer\\StartUp.cs",
               "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarManafacturer\\StartUp.cs",
               "RelativeToolTip": "CarManafacturer\\StartUp.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwA8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAABQITMzM1MwwC8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T15:58:07.423Z",
+              "WhenOpened": "2024-09-19T17:25:05.389Z",
               "EditorCaption": ""
             }
           ]

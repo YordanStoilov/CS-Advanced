@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SortEvenNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56ec380ea1413aa3b0287ccac50cbae31c237476")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+982d51e2e9852131c5926c2d22390fb05f3387ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("SortEvenNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SortEvenNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
