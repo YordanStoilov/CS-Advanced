@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E770442F-4A20-4A07-828E-5290DDC7AD32}|DefiningClasses\\DefiningClasses.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\definingclasses\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E770442F-4A20-4A07-828E-5290DDC7AD32}|DefiningClasses\\DefiningClasses.csproj|solutionrelative:definingclasses\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C6BC3C3-CB54-4235-9D49-4A2631D9DEE9}|DateModifier\\DateModifier.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\datemodifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6BC3C3-CB54-4235-9D49-4A2631D9DEE9}|DateModifier\\DateModifier.csproj|solutionrelative:datemodifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E770442F-4A20-4A07-828E-5290DDC7AD32}|DefiningClasses\\DefiningClasses.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\definingclasses\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E770442F-4A20-4A07-828E-5290DDC7AD32}|DefiningClasses\\DefiningClasses.csproj|solutionrelative:definingclasses\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E770442F-4A20-4A07-828E-5290DDC7AD32}|DefiningClasses\\DefiningClasses.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\definingclasses\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E770442F-4A20-4A07-828E-5290DDC7AD32}|DefiningClasses\\DefiningClasses.csproj|solutionrelative:definingclasses\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C6BC3C3-CB54-4235-9D49-4A2631D9DEE9}|DateModifier\\DateModifier.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\datemodifier\\datemodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6BC3C3-CB54-4235-9D49-4A2631D9DEE9}|DateModifier\\DateModifier.csproj|solutionrelative:datemodifier\\datemodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Family.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DefiningClasses\\Family.cs",
-              "RelativeDocumentMoniker": "DefiningClasses\\Family.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DefiningClasses\\Family.cs",
-              "RelativeToolTip": "DefiningClasses\\Family.cs",
-              "ViewState": "AgIAAAUAAAAAZ2ZmZqYnwBIAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:17:04.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Person.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DefiningClasses\\Person.cs",
-              "RelativeDocumentMoniker": "DefiningClasses\\Person.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DefiningClasses\\Person.cs",
-              "RelativeToolTip": "DefiningClasses\\Person.cs",
-              "ViewState": "AgIAABoAAADAmZmZmVkpwCcAAAAlAAAAAAAAAA==",
+              "Title": "DateModifier.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DateModifier\\DateModifier.cs",
+              "RelativeDocumentMoniker": "DateModifier\\DateModifier.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DateModifier\\DateModifier.cs",
+              "RelativeToolTip": "DateModifier\\DateModifier.cs",
+              "ViewState": "AgIAAAQAAABgaGZmZuYswBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T12:29:18.412Z",
+              "WhenOpened": "2024-09-20T14:07:17.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DefiningClasses\\StartUp.cs",
-              "RelativeDocumentMoniker": "DefiningClasses\\StartUp.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DefiningClasses\\StartUp.cs",
-              "RelativeToolTip": "DefiningClasses\\StartUp.cs",
-              "ViewState": "AgIAAAUAAABANTMzM7MTwBQAAAAtAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DateModifier\\Program.cs",
+              "RelativeDocumentMoniker": "DateModifier\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DateModifier\\Program.cs",
+              "RelativeToolTip": "DateModifier\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T12:26:16.018Z",
+              "WhenOpened": "2024-09-20T14:06:32.425Z",
               "EditorCaption": ""
             }
           ]
