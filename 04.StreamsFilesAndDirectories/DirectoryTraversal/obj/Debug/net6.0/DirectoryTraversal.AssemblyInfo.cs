@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DirectoryTraversal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fed913b787ecf92b4ccf48c50b96ea01614c441")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1a1b1cb78ad53d49eff981def0f559d4fa8fc98")]
 [assembly: System.Reflection.AssemblyProductAttribute("DirectoryTraversal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DirectoryTraversal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

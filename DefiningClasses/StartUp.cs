@@ -4,11 +4,17 @@
     {
         static void Main(string[] args)
         {
-            Person newPerson = new Person();
-            newPerson.Age = 29;
-            newPerson.Name = "Test";
-            Console.WriteLine(newPerson.Age);
-            Console.WriteLine(newPerson.Name);
+            Person person1 = new Person();
+            Person person2 = new Person(20);
+            Person person3 = new Person(30, "Yordan");
+            Console.WriteLine(person1.Name);
+            Console.WriteLine(person1.Age);
+            Console.WriteLine();
+            Console.WriteLine(person2.Name);
+            Console.WriteLine(person2.Age);
+            Console.WriteLine();
+            Console.WriteLine(person3.Name);
+            Console.WriteLine(person3.Age);
         }
     }
 }
