@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FindEvensOrOdds")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a5561c7cc43bd0ce99ad0fd5121900055aaa958")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6344d60d102d80bd9038f67a4c397b2f5a5d1b13")]
 [assembly: System.Reflection.AssemblyProductAttribute("FindEvensOrOdds")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FindEvensOrOdds")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
