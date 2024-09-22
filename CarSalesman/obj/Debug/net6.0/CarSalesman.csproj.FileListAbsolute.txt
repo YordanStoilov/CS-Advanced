@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\CarSalesman\bin\Debug\net6.0\CarSalesman.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\CarSalesman\bin\Debug\net6.0\CarSalesman.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\CarSalesman\bin\Debug\net6.0\CarSalesman.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\CarSalesman\bin\Debug\net6.0\CarSalesman.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\CarSalesman\bin\Debug\net6.0\CarSalesman.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\CarSalesman\obj\Debug\net6.0\CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\CarSalesman\obj\Debug\net6.0\CarSalesman.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\CarSalesman\obj\Debug\net6.0\CarSalesman.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\CarSalesman\obj\Debug\net6.0\CarSalesman.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\CarSalesman\obj\Debug\net6.0\CarSalesman.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\CarSalesman\obj\Debug\net6.0\CarSalesman.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\CarSalesman\obj\Debug\net6.0\refint\CarSalesman.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\CarSalesman\obj\Debug\net6.0\CarSalesman.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\CarSalesman\obj\Debug\net6.0\CarSalesman.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\CarSalesman\obj\Debug\net6.0\ref\CarSalesman.dll

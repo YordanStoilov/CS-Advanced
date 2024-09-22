@@ -8,24 +8,27 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/yordanstoilov/.nuget/packages/": {}
+    "C:\\Users\\yordanstoilov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/Ranking/Ranking.csproj",
+      "projectUniqueName": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\03.SetsAndDictionariesAdvanced\\Ranking\\Ranking.csproj",
       "projectName": "Ranking",
-      "projectPath": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/Ranking/Ranking.csproj",
-      "packagesPath": "/Users/yordanstoilov/.nuget/packages/",
-      "outputPath": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/Ranking/obj/",
+      "projectPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\03.SetsAndDictionariesAdvanced\\Ranking\\Ranking.csproj",
+      "packagesPath": "C:\\Users\\yordanstoilov\\.nuget\\packages\\",
+      "outputPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\03.SetsAndDictionariesAdvanced\\Ranking\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/yordanstoilov/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\yordanstoilov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

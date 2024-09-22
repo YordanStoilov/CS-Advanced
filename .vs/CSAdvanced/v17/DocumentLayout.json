@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDBCC381-2BC4-42B1-A6AF-11C84BC272E0}|SpeedRacing\\SpeedRacing.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\speedracing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDBCC381-2BC4-42B1-A6AF-11C84BC272E0}|SpeedRacing\\SpeedRacing.csproj|solutionrelative:speedracing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E558922-9EDF-4D25-9475-C226752897FE}|CarSalesman\\CarSalesman.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\carsalesman\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E558922-9EDF-4D25-9475-C226752897FE}|CarSalesman\\CarSalesman.csproj|solutionrelative:carsalesman\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E558922-9EDF-4D25-9475-C226752897FE}|CarSalesman\\CarSalesman.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\carsalesman\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E558922-9EDF-4D25-9475-C226752897FE}|CarSalesman\\CarSalesman.csproj|solutionrelative:carsalesman\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E558922-9EDF-4D25-9475-C226752897FE}|CarSalesman\\CarSalesman.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\carsalesman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E558922-9EDF-4D25-9475-C226752897FE}|CarSalesman\\CarSalesman.csproj|solutionrelative:carsalesman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDBCC381-2BC4-42B1-A6AF-11C84BC272E0}|SpeedRacing\\SpeedRacing.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\speedracing\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDBCC381-2BC4-42B1-A6AF-11C84BC272E0}|SpeedRacing\\SpeedRacing.csproj|solutionrelative:speedracing\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6BC3C3-CB54-4235-9D49-4A2631D9DEE9}|DateModifier\\DateModifier.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\datemodifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C6BC3C3-CB54-4235-9D49-4A2631D9DEE9}|DateModifier\\DateModifier.csproj|solutionrelative:datemodifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C6BC3C3-CB54-4235-9D49-4A2631D9DEE9}|DateModifier\\DateModifier.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\datemodifier\\datemodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C6BC3C3-CB54-4235-9D49-4A2631D9DEE9}|DateModifier\\DateModifier.csproj|solutionrelative:datemodifier\\datemodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\SpeedRacing\\Car.cs",
-              "RelativeDocumentMoniker": "SpeedRacing\\Car.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\SpeedRacing\\Car.cs",
-              "RelativeToolTip": "SpeedRacing\\Car.cs",
-              "ViewState": "AgIAABgAAACABAAAAAAEwCQAAAArAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarSalesman\\Engine.cs",
+              "RelativeDocumentMoniker": "CarSalesman\\Engine.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarSalesman\\Engine.cs",
+              "RelativeToolTip": "CarSalesman\\Engine.cs",
+              "ViewState": "AgIAACAAAAAAPDMzMzMawCsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T14:10:55.919Z",
+              "WhenOpened": "2024-09-22T16:44:47.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\SpeedRacing\\Program.cs",
-              "RelativeDocumentMoniker": "SpeedRacing\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\SpeedRacing\\Program.cs",
-              "RelativeToolTip": "SpeedRacing\\Program.cs",
-              "ViewState": "AgIAABMAAADQZ2ZmZiYwwCMAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarSalesman\\Car.cs",
+              "RelativeDocumentMoniker": "CarSalesman\\Car.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarSalesman\\Car.cs",
+              "RelativeToolTip": "CarSalesman\\Car.cs",
+              "ViewState": "AgIAABsAAACALDMzMzMrwCkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T14:10:38.905Z",
+              "WhenOpened": "2024-09-22T16:41:51.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DateModifier.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DateModifier\\DateModifier.cs",
-              "RelativeDocumentMoniker": "DateModifier\\DateModifier.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DateModifier\\DateModifier.cs",
-              "RelativeToolTip": "DateModifier\\DateModifier.cs",
-              "ViewState": "AgIAAAQAAABgaGZmZuYswBkAAAAAAAAAAAAAAA==",
+              "Title": "Car.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\SpeedRacing\\Car.cs",
+              "RelativeDocumentMoniker": "SpeedRacing\\Car.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\SpeedRacing\\Car.cs",
+              "RelativeToolTip": "SpeedRacing\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T14:07:17.925Z"
+              "WhenOpened": "2024-09-22T16:40:49.233Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DateModifier\\Program.cs",
-              "RelativeDocumentMoniker": "DateModifier\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\DateModifier\\Program.cs",
-              "RelativeToolTip": "DateModifier\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarSalesman\\Program.cs",
+              "RelativeDocumentMoniker": "CarSalesman\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CarSalesman\\Program.cs",
+              "RelativeToolTip": "CarSalesman\\Program.cs",
+              "ViewState": "AgIAACsAAACwZ2ZmZmYwwC4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T14:06:32.425Z"
+              "WhenOpened": "2024-09-22T16:40:40.907Z",
+              "EditorCaption": ""
             }
           ]
         }

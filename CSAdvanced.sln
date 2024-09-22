@@ -171,11 +171,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.DefiningClasses", "06.De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarManafacturer", "CarManafacturer\CarManafacturer.csproj", "{EEA78371-DD98-4997-84EA-87EA4C3A3E4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefiningClasses", "DefiningClasses\DefiningClasses.csproj", "{E770442F-4A20-4A07-828E-5290DDC7AD32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefiningClasses", "DefiningClasses\DefiningClasses.csproj", "{E770442F-4A20-4A07-828E-5290DDC7AD32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateModifier", "DateModifier\DateModifier.csproj", "{8C6BC3C3-CB54-4235-9D49-4A2631D9DEE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateModifier", "DateModifier\DateModifier.csproj", "{8C6BC3C3-CB54-4235-9D49-4A2631D9DEE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedRacing", "SpeedRacing\SpeedRacing.csproj", "{FDBCC381-2BC4-42B1-A6AF-11C84BC272E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeedRacing", "SpeedRacing\SpeedRacing.csproj", "{FDBCC381-2BC4-42B1-A6AF-11C84BC272E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarSalesman", "CarSalesman\CarSalesman.csproj", "{1E558922-9EDF-4D25-9475-C226752897FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -507,6 +509,10 @@ Global
 		{FDBCC381-2BC4-42B1-A6AF-11C84BC272E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDBCC381-2BC4-42B1-A6AF-11C84BC272E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDBCC381-2BC4-42B1-A6AF-11C84BC272E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E558922-9EDF-4D25-9475-C226752897FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E558922-9EDF-4D25-9475-C226752897FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E558922-9EDF-4D25-9475-C226752897FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E558922-9EDF-4D25-9475-C226752897FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -593,6 +599,7 @@ Global
 		{E770442F-4A20-4A07-828E-5290DDC7AD32} = {00BBB1B5-E6F7-4DA9-B583-732DF74FCF4A}
 		{8C6BC3C3-CB54-4235-9D49-4A2631D9DEE9} = {00BBB1B5-E6F7-4DA9-B583-732DF74FCF4A}
 		{FDBCC381-2BC4-42B1-A6AF-11C84BC272E0} = {00BBB1B5-E6F7-4DA9-B583-732DF74FCF4A}
+		{1E558922-9EDF-4D25-9475-C226752897FE} = {00BBB1B5-E6F7-4DA9-B583-732DF74FCF4A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65C1283D-830D-40CC-8FAB-35D061333BAA}
