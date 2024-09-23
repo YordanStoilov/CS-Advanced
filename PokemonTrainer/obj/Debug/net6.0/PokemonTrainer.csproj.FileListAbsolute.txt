@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\PokemonTrainer\obj\Debug\net6.0\refint\PokemonTrainer.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\PokemonTrainer\obj\Debug\net6.0\ref\PokemonTrainer.dll
