@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KnightGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00a5778b012256a16bd30e617cda414956f3815e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b62de358a8536b8fa9653e7f0fe229f994f60df")]
 [assembly: System.Reflection.AssemblyProductAttribute("KnightGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KnightGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

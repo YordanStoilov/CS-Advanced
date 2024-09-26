@@ -50,8 +50,7 @@
               "RelativeToolTip": "PokemonTrainer\\Pokemon.cs",
               "ViewState": "AgIAAAEAAABgZmZmZmYkwBEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T18:25:05.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T18:25:05.304Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "PokemonTrainer\\Trainer.cs",
               "ViewState": "AgIAAAYAAAAAnJmZmZkOwBEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T18:24:36.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T18:24:36.486Z"
             },
             {
               "$type": "Document",
@@ -74,7 +72,7 @@
               "RelativeDocumentMoniker": "PokemonTrainer\\Program.cs",
               "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\PokemonTrainer\\Program.cs",
               "RelativeToolTip": "PokemonTrainer\\Program.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T18:24:13.728Z",
               "EditorCaption": ""
@@ -89,8 +87,7 @@
               "RelativeToolTip": "CarSalesman\\Engine.cs",
               "ViewState": "AgIAAAYAAAAwnJmZmVkwwCsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T16:44:47.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T16:44:47.395Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "CarSalesman\\Car.cs",
               "ViewState": "AgIAABsAAACALDMzMzMrwCkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T16:41:51.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T16:41:51.795Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "SpeedRacing\\Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T16:40:49.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T16:40:49.233Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "CarSalesman\\Program.cs",
               "ViewState": "AgIAAAQAAABQzszMzEw4wAsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T16:40:40.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T16:40:40.907Z"
             }
           ]
         }
