@@ -79,7 +79,8 @@ namespace ImplementingStacksAndQueues
 
         public void Swap(int index1, int index2)
         {
-            if (index1 < 0 || index1 >= Count || index2 < 0 || index2 >= Count)
+            if (index1 < 0 || index1 >= Count 
+                || index2 < 0 || index2 >= Count)
             {
                 throw new IndexOutOfRangeException("Index is out of bounds for the List!");
             }
@@ -108,5 +109,21 @@ namespace ImplementingStacksAndQueues
             items = newArray;
         }
 
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            for (int i = 0; i < Count; i++)
+            {
+                if (i < Count - 1)
+                {
+                    sb.Append($"{items[i]}, ");
+                }
+                else
+                {
+                    sb.Append($"{items[i]}");
+                }
+            }
+            return sb.ToString();
+        }
     }
 }
