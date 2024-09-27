@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FA726C3-3F64-448F-A331-6B38BADD818A}|ImplementingStacksAndQueues\\ImplementingStacksAndQueues.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\implementingstacksandqueues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FA726C3-3F64-448F-A331-6B38BADD818A}|ImplementingStacksAndQueues\\ImplementingStacksAndQueues.csproj|solutionrelative:implementingstacksandqueues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5FA726C3-3F64-448F-A331-6B38BADD818A}|ImplementingStacksAndQueues\\ImplementingStacksAndQueues.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\implementingstacksandqueues\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FA726C3-3F64-448F-A331-6B38BADD818A}|ImplementingStacksAndQueues\\ImplementingStacksAndQueues.csproj|solutionrelative:implementingstacksandqueues\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA726C3-3F64-448F-A331-6B38BADD818A}|ImplementingStacksAndQueues\\ImplementingStacksAndQueues.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\implementingstacksandqueues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA726C3-3F64-448F-A331-6B38BADD818A}|ImplementingStacksAndQueues\\ImplementingStacksAndQueues.csproj|solutionrelative:implementingstacksandqueues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\CustomLinkedList\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,30 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CustomList.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\ImplementingStacksAndQueues\\CustomList.cs",
               "RelativeDocumentMoniker": "ImplementingStacksAndQueues\\CustomList.cs",
               "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\ImplementingStacksAndQueues\\CustomList.cs",
               "RelativeToolTip": "ImplementingStacksAndQueues\\CustomList.cs",
-              "ViewState": "AgIAAGkAAAAAAJ+ZmZmZv3wAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAYwHIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T10:56:31.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\ImplementingStacksAndQueues\\Program.cs",
               "RelativeDocumentMoniker": "ImplementingStacksAndQueues\\Program.cs",
               "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\ImplementingStacksAndQueues\\Program.cs",
               "RelativeToolTip": "ImplementingStacksAndQueues\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAZ2ZmZmbyvwwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T10:56:06.298Z",
               "EditorCaption": ""

@@ -89,6 +89,28 @@ namespace ImplementingStacksAndQueues
             items[index1] = items[index2];
             items[index2] = temp;
         }
+        public void InsertAt(int index, int value)
+        {
+            if (index < 0 || index > Count)
+            {
+                throw new IndexOutOfRangeException();
+            }
+
+            if (Count >= items.Length)
+            {
+                IncreaseSize();
+            }
+
+            for (int i = Count; i > index; i--)
+            {
+                items[i] = items[i - 1];
+            }
+
+            items[index] = value;
+            Count++;
+            
+        }
+
         private void IncreaseSize()
         {
             int[] newArray = new int[items.Length * 2];

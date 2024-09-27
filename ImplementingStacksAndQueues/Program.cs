@@ -10,8 +10,7 @@ namespace ImplementingStacksAndQueues
             list.Add(2);
             list.Add(3);
             list.Add(4);
-
-            list.Swap(0, 3);
+            list.InsertAt(1, 5);
             Console.WriteLine(list);
         }
     }
