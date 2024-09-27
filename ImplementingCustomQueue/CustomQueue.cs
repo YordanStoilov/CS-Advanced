@@ -58,6 +58,7 @@ namespace ImplementingCustomQueue
         public void Clear()
         {
             items = new int[InitialCapacity];
+            Count = 0;
         }
 
         public void ForEach(Action<int> action)

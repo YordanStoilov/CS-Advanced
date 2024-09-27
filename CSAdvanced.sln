@@ -191,6 +191,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementingCustomList", "I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementingCustomStack", "ImplementingCustomStack\ImplementingCustomStack.csproj", "{7E2A48A2-1B23-47D6-8247-F1B601B4A125}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementingCustomQueue", "ImplementingCustomQueue\ImplementingCustomQueue.csproj", "{056D704D-E367-4792-B436-69DC72CEC9D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -541,6 +543,10 @@ Global
 		{7E2A48A2-1B23-47D6-8247-F1B601B4A125}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E2A48A2-1B23-47D6-8247-F1B601B4A125}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E2A48A2-1B23-47D6-8247-F1B601B4A125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{056D704D-E367-4792-B436-69DC72CEC9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056D704D-E367-4792-B436-69DC72CEC9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056D704D-E367-4792-B436-69DC72CEC9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056D704D-E367-4792-B436-69DC72CEC9D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -632,6 +638,7 @@ Global
 		{0B13EF83-BA26-4D81-9485-C023B8204249} = {F1D9F1CE-7B94-4AFB-A848-6CC4FA2D1FFC}
 		{5FA726C3-3F64-448F-A331-6B38BADD818A} = {AB4A2C89-C7C9-4F04-AA46-E1BF5317E85C}
 		{7E2A48A2-1B23-47D6-8247-F1B601B4A125} = {AB4A2C89-C7C9-4F04-AA46-E1BF5317E85C}
+		{056D704D-E367-4792-B436-69DC72CEC9D0} = {AB4A2C89-C7C9-4F04-AA46-E1BF5317E85C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65C1283D-830D-40CC-8FAB-35D061333BAA}
