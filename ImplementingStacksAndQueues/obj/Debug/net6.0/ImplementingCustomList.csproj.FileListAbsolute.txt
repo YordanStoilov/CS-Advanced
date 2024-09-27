@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\bin\Debug\net6.0\ImplementingCustomList.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\bin\Debug\net6.0\ImplementingCustomList.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\bin\Debug\net6.0\ImplementingCustomList.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\bin\Debug\net6.0\ImplementingCustomList.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\bin\Debug\net6.0\ImplementingCustomList.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ImplementingCustomList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ImplementingCustomList.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ImplementingCustomList.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ImplementingCustomList.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ImplementingCustomList.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ImplementingCustomList.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\refint\ImplementingCustomList.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ImplementingCustomList.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ImplementingCustomList.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ref\ImplementingCustomList.dll

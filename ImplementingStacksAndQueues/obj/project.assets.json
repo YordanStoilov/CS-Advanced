@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\ImplementingStacksAndQueues\\ImplementingStacksAndQueues.csproj",
-      "projectName": "ImplementingStacksAndQueues",
-      "projectPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\ImplementingStacksAndQueues\\ImplementingStacksAndQueues.csproj",
+      "projectUniqueName": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\ImplementingStacksAndQueues\\ImplementingCustomList.csproj",
+      "projectName": "ImplementingCustomList",
+      "projectPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\ImplementingStacksAndQueues\\ImplementingCustomList.csproj",
       "packagesPath": "C:\\Users\\yordanstoilov\\.nuget\\packages\\",
       "outputPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\ImplementingStacksAndQueues\\obj\\",
       "projectStyle": "PackageReference",

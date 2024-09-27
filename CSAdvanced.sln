@@ -187,7 +187,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLinkedList", "CustomL
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08.ImplementingStacksAndQueues", "08.ImplementingStacksAndQueues", "{AB4A2C89-C7C9-4F04-AA46-E1BF5317E85C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementingStacksAndQueues", "ImplementingStacksAndQueues\ImplementingStacksAndQueues.csproj", "{5FA726C3-3F64-448F-A331-6B38BADD818A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementingCustomList", "ImplementingStacksAndQueues\ImplementingCustomList.csproj", "{5FA726C3-3F64-448F-A331-6B38BADD818A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementingCustomStack", "ImplementingCustomStack\ImplementingCustomStack.csproj", "{7E2A48A2-1B23-47D6-8247-F1B601B4A125}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -535,6 +537,10 @@ Global
 		{5FA726C3-3F64-448F-A331-6B38BADD818A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FA726C3-3F64-448F-A331-6B38BADD818A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FA726C3-3F64-448F-A331-6B38BADD818A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E2A48A2-1B23-47D6-8247-F1B601B4A125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2A48A2-1B23-47D6-8247-F1B601B4A125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2A48A2-1B23-47D6-8247-F1B601B4A125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2A48A2-1B23-47D6-8247-F1B601B4A125}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -625,6 +631,7 @@ Global
 		{56A393E1-9AE6-47DA-8572-16B5DB4D1F53} = {00BBB1B5-E6F7-4DA9-B583-732DF74FCF4A}
 		{0B13EF83-BA26-4D81-9485-C023B8204249} = {F1D9F1CE-7B94-4AFB-A848-6CC4FA2D1FFC}
 		{5FA726C3-3F64-448F-A331-6B38BADD818A} = {AB4A2C89-C7C9-4F04-AA46-E1BF5317E85C}
+		{7E2A48A2-1B23-47D6-8247-F1B601B4A125} = {AB4A2C89-C7C9-4F04-AA46-E1BF5317E85C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65C1283D-830D-40CC-8FAB-35D061333BAA}

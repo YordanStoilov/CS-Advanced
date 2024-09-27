@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingCustomStack\bin\Debug\net6.0\ImplementingCustomStack.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingCustomStack\bin\Debug\net6.0\ImplementingCustomStack.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingCustomStack\bin\Debug\net6.0\ImplementingCustomStack.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingCustomStack\bin\Debug\net6.0\ImplementingCustomStack.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingCustomStack\bin\Debug\net6.0\ImplementingCustomStack.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingCustomStack\obj\Debug\net6.0\ImplementingCustomStack.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingCustomStack\obj\Debug\net6.0\ImplementingCustomStack.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingCustomStack\obj\Debug\net6.0\ImplementingCustomStack.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingCustomStack\obj\Debug\net6.0\ImplementingCustomStack.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingCustomStack\obj\Debug\net6.0\ImplementingCustomStack.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingCustomStack\obj\Debug\net6.0\ImplementingCustomStack.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingCustomStack\obj\Debug\net6.0\refint\ImplementingCustomStack.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingCustomStack\obj\Debug\net6.0\ImplementingCustomStack.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingCustomStack\obj\Debug\net6.0\ImplementingCustomStack.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingCustomStack\obj\Debug\net6.0\ref\ImplementingCustomStack.dll

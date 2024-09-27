@@ -1,5 +1,5 @@
 ﻿
-namespace ImplementingStacksAndQueues
+namespace ImplementingCustomList
 {
     public class Program
     {
