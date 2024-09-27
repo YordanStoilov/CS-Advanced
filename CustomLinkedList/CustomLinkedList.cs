@@ -10,17 +10,20 @@ namespace CustomLinkedList
     {
         public Node Head { get; set; }
         public Node Tail { get; set; }
+        public int Length { get; set; }
 
         public CustomLinkedList()
         {
             Head = null;
             Tail = null;
+            Length = 0;
         }
 
         public void AddFirst(int value)
         {
             Node newNode = new Node();
             newNode.Value = value;
+            Length++;
 
             if (Head == null)
             {
@@ -36,6 +39,8 @@ namespace CustomLinkedList
         public void AddLast(int value)
         {
             Node newNode = new Node();
+            newNode.Value = value;
+            Length++;
 
             if (Head == null)
             {
@@ -45,7 +50,6 @@ namespace CustomLinkedList
             }
             Tail.Next = newNode;
             newNode.Previous = Tail;
-            newNode.Value = value;
             Tail = newNode;
         }
         //Possible errors here
