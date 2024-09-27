@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\03.SetsAndDictionariesAdvanced\\SoftUniParty\\SoftUniParty.csproj": {}
+    "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniParty/SoftUniParty.csproj": {}
   },
   "projects": {
-    "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\03.SetsAndDictionariesAdvanced\\SoftUniParty\\SoftUniParty.csproj": {
+    "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniParty/SoftUniParty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\03.SetsAndDictionariesAdvanced\\SoftUniParty\\SoftUniParty.csproj",
+        "projectUniqueName": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniParty/SoftUniParty.csproj",
         "projectName": "SoftUniParty",
-        "projectPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\03.SetsAndDictionariesAdvanced\\SoftUniParty\\SoftUniParty.csproj",
-        "packagesPath": "C:\\Users\\yordanstoilov\\.nuget\\packages\\",
-        "outputPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\03.SetsAndDictionariesAdvanced\\SoftUniParty\\obj\\",
+        "projectPath": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniParty/SoftUniParty.csproj",
+        "packagesPath": "/Users/yordanstoilov/.nuget/packages/",
+        "outputPath": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/03.SetsAndDictionariesAdvanced/SoftUniParty/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yordanstoilov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/yordanstoilov/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

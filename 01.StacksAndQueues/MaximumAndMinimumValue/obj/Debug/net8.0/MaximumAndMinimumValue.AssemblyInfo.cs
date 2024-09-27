@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaximumAndMinimumValue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+091c43097a88772e3801b4a6d2ac79a38bc2c21c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91d71dd00de21c01b08ff9783121ad41e1705232")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaximumAndMinimumValue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaximumAndMinimumValue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
