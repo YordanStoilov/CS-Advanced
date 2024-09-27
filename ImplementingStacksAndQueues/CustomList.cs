@@ -64,6 +64,7 @@ namespace ImplementingCustomList
             {
                 DecreaseSize();
             }
+
             return num;
         }
 

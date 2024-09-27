@@ -44,10 +44,24 @@ namespace ImplementingCustomStack
             }
             return value;
         }
+
         public int Peek()
         {
+            if (Count == 0)
+            {
+                throw new InvalidOperationException();
+            }
             return items[Count - 1];
         }
+
+        public void ForEach(Action<int> action)
+        {
+            for (int i = 0; i < Count; i++)
+            {
+                action(items[i]);
+            }
+        }
+
         private void IncreaseSize()
         {
             int[] newArray = new int[items.Length * 2];
