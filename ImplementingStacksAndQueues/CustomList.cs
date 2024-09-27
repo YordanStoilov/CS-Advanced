@@ -26,6 +26,11 @@ namespace ImplementingStacksAndQueues
         }
         public int RemoveAt(int index)
         {
+            if (index >= Count || index < 0)
+            {
+                throw new IndexOutOfRangeException($"Index {index} is out of range for the List!");
+            }
+
             int[] newArray = new int[items.Length];
             int num = 0;
 
@@ -45,16 +50,29 @@ namespace ImplementingStacksAndQueues
                 }
             }
             items = newArray;
+            Count--;
             return num;
         }
-        public void Contains(int item)
+        public bool Contains(int item)
         {
-
+            for (int i = 0; i < Count; ++i)
+            {
+                if (items[i] == item)
+                    return true;
+            }
+            return false;
         }
 
         public void Swap(int index1, int index2)
         {
+            if (index1 < 0 || index1 >= Count || index2 < 0 || index2 >= Count)
+            {
+                throw new IndexOutOfRangeException();
+            }
 
+            int temp = items[index1];
+            items[index1] = items[index2];
+            items[index2] = temp;
         }
         private void IncreaseSize()
         {
