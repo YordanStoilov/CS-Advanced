@@ -9,8 +9,10 @@
             linkedList.AddLast(1);
             linkedList.AddLast(2);
             linkedList.AddLast(3);
+            linkedList.RemoveLast();
             Node node = linkedList.Head;
 
+            Console.WriteLine($"Length -> {linkedList.Length}\n");
             while (node != null)
             {
                 Console.WriteLine(node.Value);

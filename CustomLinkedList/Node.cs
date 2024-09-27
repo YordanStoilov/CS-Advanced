@@ -11,5 +11,9 @@ namespace CustomLinkedList
         public int Value { get; set; }
         public Node Next { get; set; }
         public Node Previous { get; set; }
+        public override string ToString()
+        {
+            return $"{Previous?.Value} <- {Value} -> {Next?.Value}";
+        }
     }
 }

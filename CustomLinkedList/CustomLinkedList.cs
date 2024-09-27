@@ -55,6 +55,7 @@ namespace CustomLinkedList
         //Possible errors here
         public void RemoveFirst()
         {
+            Length--;
             var ptr = Head.Next;
             ptr.Previous = null;
             Head.Next = null;
@@ -64,6 +65,7 @@ namespace CustomLinkedList
         //With the pointer ptr:
         public void RemoveLast()
         {
+            Length--;
             var ptr = Tail.Previous;
             ptr.Next = null;
             Tail.Previous = null;
