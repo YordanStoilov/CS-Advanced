@@ -14,6 +14,10 @@ namespace CustomLinkedList
 
         public CustomLinkedList()
         {
+            Reset();
+        }
+        public void Reset()
+        {
             Head = null;
             Tail = null;
             Length = 0;
@@ -56,6 +60,11 @@ namespace CustomLinkedList
         public void RemoveFirst()
         {
             Length--;
+            if (Length <= 0)
+            {
+                Reset();
+                return;
+            }
             var ptr = Head.Next;
             ptr.Previous = null;
             Head.Next = null;
@@ -66,6 +75,11 @@ namespace CustomLinkedList
         public void RemoveLast()
         {
             Length--;
+            if (Length <= 0)
+            {
+                Reset();
+                return;
+            }
             var ptr = Tail.Previous;
             ptr.Next = null;
             Tail.Previous = null;
