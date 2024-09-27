@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoftUniParty")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91d71dd00de21c01b08ff9783121ad41e1705232")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3254d60ffbb5bf39dc0e9d1e7c42077edc0a655")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoftUniParty")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoftUniParty")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
