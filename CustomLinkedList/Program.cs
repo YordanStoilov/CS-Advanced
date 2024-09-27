@@ -6,16 +6,17 @@
         {
             CustomLinkedList linkedList = new CustomLinkedList();
 
-            linkedList.RemoveLast();
-            Node node = linkedList.Head;
+            linkedList.AddFirst(3);
+            linkedList.AddFirst(2);
+            linkedList.AddFirst(1);
 
-            Console.WriteLine($"Length -> {linkedList.Length}\n");
-            while (node != null)
+            linkedList.ForEach(x => Console.WriteLine($"ForEach -> {x}"));
+
+            Console.WriteLine('\n');
+            foreach (int num in linkedList.ToArray())
             {
-                Console.WriteLine(node.Value);
-                node = node.Next;
+                Console.WriteLine($"ToArray -> {num}");
             }
-
         }
     }
 }

@@ -56,7 +56,7 @@ namespace CustomLinkedList
             newNode.Previous = Tail;
             Tail = newNode;
         }
-        //Possible errors here
+
         public void RemoveFirst()
         {
             Length--;
@@ -70,8 +70,7 @@ namespace CustomLinkedList
             Head.Next = null;
             Head = ptr;
         }
-        //And here
-        //With the pointer ptr:
+
         public void RemoveLast()
         {
             Length--;
@@ -84,6 +83,30 @@ namespace CustomLinkedList
             ptr.Next = null;
             Tail.Previous = null;
             Tail = ptr;
+        }
+        public void ForEach(Action<int> action)
+        {
+            Node currentNode = Head;
+
+            while (currentNode != null)
+            {
+                action(currentNode.Value);
+                currentNode = currentNode.Next;
+            }
+        }
+        public int[] ToArray()
+        {
+            int[] array = new int[Length];
+
+            int index = 0;
+            Node currentNode = Head;
+
+            while (currentNode != null)
+            {
+                array[index++] = currentNode.Value;
+                currentNode = currentNode.Next;
+            }
+            return array;
         }
     }
 }
