@@ -67,7 +67,7 @@ namespace ImplementingStacksAndQueues
         {
             if (index1 < 0 || index1 >= Count || index2 < 0 || index2 >= Count)
             {
-                throw new IndexOutOfRangeException();
+                throw new IndexOutOfRangeException("Index is out of bounds for the List!");
             }
 
             int temp = items[index1];
