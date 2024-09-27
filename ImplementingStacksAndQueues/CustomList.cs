@@ -11,6 +11,27 @@ namespace ImplementingStacksAndQueues
         private int[] items;
         private int ArrayInitialSize = 2;
         public int Count { get; private set; } = 0;
+        public int this[int index]
+        {
+            get
+            {
+                if (index >= Count || index < 0)
+                {
+                    throw new IndexOutOfRangeException();
+                }
+
+                return items[index];
+            }
+            set
+            {
+                if (index >= Count || index < 0)
+                {
+                    throw new IndexOutOfRangeException();
+                }
+
+                items[index] = value;
+            }
+        }
         public CustomList()
         {
             items = new int[ArrayInitialSize];
@@ -31,28 +52,21 @@ namespace ImplementingStacksAndQueues
                 throw new IndexOutOfRangeException($"Index {index} is out of range for the List!");
             }
 
-            int[] newArray = new int[items.Length];
-            int num = 0;
+            int num = items[index];
 
-            for (int i = 0; i < Count; i++)
+            for (int i = index; i < Count - 1; i++)
             {
-                if (i == index)
-                {
-                    num = items[i];
-                }
-                else if (i < index)
-                {
-                    newArray[i] = items[i];
-                }
-                else
-                {
-                    newArray[i - 1] = items[i];
-                }
+                items[i] = items[i + 1];
             }
-            items = newArray;
+
             Count--;
+            if (Count <= items.Length / 4)
+            {
+                DecreaseSize();
+            }
             return num;
         }
+
         public bool Contains(int item)
         {
             for (int i = 0; i < Count; ++i)
@@ -83,5 +97,16 @@ namespace ImplementingStacksAndQueues
             }
             items = newArray;
         }
+
+        private void DecreaseSize()
+        {
+            int[] newArray = new int[items.Length / 2];
+            for (int i = 0; i < Count; i++)
+            {
+                newArray[i] = items[i];
+            }
+            items = newArray;
+        }
+
     }
 }
