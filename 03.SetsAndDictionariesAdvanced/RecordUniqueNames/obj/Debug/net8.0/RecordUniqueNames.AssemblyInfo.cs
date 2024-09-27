@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecordUniqueNames")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3254d60ffbb5bf39dc0e9d1e7c42077edc0a655")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99c6ac2f58d8674558e98c9c5eef0a5ffbc888dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecordUniqueNames")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecordUniqueNames")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

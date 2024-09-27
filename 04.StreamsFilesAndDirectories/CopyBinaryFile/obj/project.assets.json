@@ -8,24 +8,27 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/yordanstoilov/.nuget/packages/": {}
+    "C:\\Users\\yordanstoilov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/CopyBinaryFile.csproj",
+      "projectUniqueName": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\04.StreamsFilesAndDirectories\\CopyBinaryFile\\CopyBinaryFile.csproj",
       "projectName": "CopyBinaryFile",
-      "projectPath": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/CopyBinaryFile.csproj",
-      "packagesPath": "/Users/yordanstoilov/.nuget/packages/",
-      "outputPath": "/Users/yordanstoilov/Desktop/headrush/Coding/CSAdvancedMain/CSAdvanced/04.StreamsFilesAndDirectories/CopyBinaryFile/obj/",
+      "projectPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\04.StreamsFilesAndDirectories\\CopyBinaryFile\\CopyBinaryFile.csproj",
+      "packagesPath": "C:\\Users\\yordanstoilov\\.nuget\\packages\\",
+      "outputPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\04.StreamsFilesAndDirectories\\CopyBinaryFile\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/yordanstoilov/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\yordanstoilov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ImplementingStacksAndQueues.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ImplementingStacksAndQueues.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ImplementingStacksAndQueues.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ImplementingStacksAndQueues.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ImplementingStacksAndQueues.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\bin\Debug\net6.0\ImplementingStacksAndQueues.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\bin\Debug\net6.0\ImplementingStacksAndQueues.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\bin\Debug\net6.0\ImplementingStacksAndQueues.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\bin\Debug\net6.0\ImplementingStacksAndQueues.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\bin\Debug\net6.0\ImplementingStacksAndQueues.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ImplementingStacksAndQueues.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\refint\ImplementingStacksAndQueues.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ImplementingStacksAndQueues.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ImplementingStacksAndQueues.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\ImplementingStacksAndQueues\obj\Debug\net6.0\ref\ImplementingStacksAndQueues.dll
