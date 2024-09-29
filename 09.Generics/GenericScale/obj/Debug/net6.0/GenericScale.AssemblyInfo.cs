@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenericScale")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b05acb08b5585f094f3b23cf66b0f597dffc0d6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9929c58da604900e51bc136f0586a38c05de0a2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenericScale")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenericScale")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

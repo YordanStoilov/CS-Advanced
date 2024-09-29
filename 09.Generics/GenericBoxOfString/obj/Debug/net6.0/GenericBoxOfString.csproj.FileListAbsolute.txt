@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfString\bin\Debug\net6.0\GenericBoxOfString.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfString\bin\Debug\net6.0\GenericBoxOfString.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfString\bin\Debug\net6.0\GenericBoxOfString.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfString\bin\Debug\net6.0\GenericBoxOfString.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfString\bin\Debug\net6.0\GenericBoxOfString.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfString\obj\Debug\net6.0\refint\GenericBoxOfString.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfString\obj\Debug\net6.0\ref\GenericBoxOfString.dll
