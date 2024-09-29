@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfInteger\obj\Debug\net6.0\refint\GenericBoxOfInteger.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericBoxOfInteger\obj\Debug\net6.0\ref\GenericBoxOfInteger.dll
