@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\Threeuple\bin\Debug\net6.0\Threeuple.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\Threeuple\bin\Debug\net6.0\Threeuple.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\Threeuple\bin\Debug\net6.0\Threeuple.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\Threeuple\bin\Debug\net6.0\Threeuple.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\Threeuple\bin\Debug\net6.0\Threeuple.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\Threeuple\obj\Debug\net6.0\Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\Threeuple\obj\Debug\net6.0\Threeuple.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\Threeuple\obj\Debug\net6.0\Threeuple.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\Threeuple\obj\Debug\net6.0\Threeuple.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\Threeuple\obj\Debug\net6.0\Threeuple.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\Threeuple\obj\Debug\net6.0\Threeuple.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\Threeuple\obj\Debug\net6.0\refint\Threeuple.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\Threeuple\obj\Debug\net6.0\Threeuple.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\Threeuple\obj\Debug\net6.0\Threeuple.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\Threeuple\obj\Debug\net6.0\ref\Threeuple.dll
