@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\CustomLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\CustomLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\CustomLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\CustomLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\CustomLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\CustomLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\CustomLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\CustomLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\CustomLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\CustomLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\CustomLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\CustomLinkedList\obj\Debug\net6.0\refint\CustomDoublyLinkedList.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\CustomLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\CustomLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\CustomLinkedList\obj\Debug\net6.0\ref\CustomDoublyLinkedList.dll

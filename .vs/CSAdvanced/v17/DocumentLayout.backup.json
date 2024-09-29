@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BB092CF-306C-4E10-8BE2-6BD7364AD983}|09.Generics\\Threeuple\\Threeuple.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\threeuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BB092CF-306C-4E10-8BE2-6BD7364AD983}|09.Generics\\Threeuple\\Threeuple.csproj|solutionrelative:09.generics\\threeuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomLinkedList.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\customlinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomLinkedList.csproj|solutionrelative:09.generics\\customlinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BB092CF-306C-4E10-8BE2-6BD7364AD983}|09.Generics\\Threeuple\\Threeuple.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\threeuple\\threeuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BB092CF-306C-4E10-8BE2-6BD7364AD983}|09.Generics\\Threeuple\\Threeuple.csproj|solutionrelative:09.generics\\threeuple\\threeuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomLinkedList.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\customlinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomLinkedList.csproj|solutionrelative:09.generics\\customlinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EC4DDC0-A1FA-4A33-A04C-DAA51F833E5D}|09.Generics\\Tuple\\Tuple.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\tuple\\customtuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EC4DDC0-A1FA-4A33-A04C-DAA51F833E5D}|09.Generics\\Tuple\\Tuple.csproj|solutionrelative:09.generics\\tuple\\customtuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EC4DDC0-A1FA-4A33-A04C-DAA51F833E5D}|09.Generics\\Tuple\\Tuple.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\tuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EC4DDC0-A1FA-4A33-A04C-DAA51F833E5D}|09.Generics\\Tuple\\Tuple.csproj|solutionrelative:09.generics\\tuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33007644-6705-4847-85D0-890599FE51FA}|09.Generics\\GenericCountMethodDoubles\\GenericCountMethodDoubles.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericcountmethoddoubles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33007644-6705-4847-85D0-890599FE51FA}|09.Generics\\GenericCountMethodDoubles\\GenericCountMethodDoubles.csproj|solutionrelative:09.generics\\genericcountmethoddoubles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33007644-6705-4847-85D0-890599FE51FA}|09.Generics\\GenericCountMethodDoubles\\GenericCountMethodDoubles.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericcountmethoddoubles\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33007644-6705-4847-85D0-890599FE51FA}|09.Generics\\GenericCountMethodDoubles\\GenericCountMethodDoubles.csproj|solutionrelative:09.generics\\genericcountmethoddoubles\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1917D952-411B-4F07-9C65-512A39065195}|09.Generics\\GenericCountMethodStrings\\GenericCountMethodStrings.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericcountmethodstrings\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1917D952-411B-4F07-9C65-512A39065195}|09.Generics\\GenericCountMethodStrings\\GenericCountMethodStrings.csproj|solutionrelative:09.generics\\genericcountmethodstrings\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1917D952-411B-4F07-9C65-512A39065195}|09.Generics\\GenericCountMethodStrings\\GenericCountMethodStrings.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericcountmethodstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1917D952-411B-4F07-9C65-512A39065195}|09.Generics\\GenericCountMethodStrings\\GenericCountMethodStrings.csproj|solutionrelative:09.generics\\genericcountmethodstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28007455-CEEB-48A0-8EFD-38D7208B9FF5}|09.Generics\\GenericArrayCreator\\GenericArrayCreator.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericarraycreator\\arraycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28007455-CEEB-48A0-8EFD-38D7208B9FF5}|09.Generics\\GenericArrayCreator\\GenericArrayCreator.csproj|solutionrelative:09.generics\\genericarraycreator\\arraycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomLinkedList.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\customlinkedlist\\customdoublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomLinkedList.csproj|solutionrelative:09.generics\\customlinkedlist\\customdoublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\Threeuple\\Program.cs",
-              "RelativeDocumentMoniker": "09.Generics\\Threeuple\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\Threeuple\\Program.cs",
-              "RelativeToolTip": "09.Generics\\Threeuple\\Program.cs",
-              "ViewState": "AgIAAB8AAACA0szMzMwvwC0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T12:33:49.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Threeuple.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\Threeuple\\Threeuple.cs",
-              "RelativeDocumentMoniker": "09.Generics\\Threeuple\\Threeuple.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\Threeuple\\Threeuple.cs",
-              "RelativeToolTip": "09.Generics\\Threeuple\\Threeuple.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Title": "Node.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\Node.cs",
+              "RelativeDocumentMoniker": "09.Generics\\CustomLinkedList\\Node.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\Node.cs",
+              "RelativeToolTip": "09.Generics\\CustomLinkedList\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T12:33:57.259Z",
+              "WhenOpened": "2024-09-29T12:56:09.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CustomTuple.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\Tuple\\CustomTuple.cs",
-              "RelativeDocumentMoniker": "09.Generics\\Tuple\\CustomTuple.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\Tuple\\CustomTuple.cs",
-              "RelativeToolTip": "09.Generics\\Tuple\\CustomTuple.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CustomDoublyLinkedList.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.cs",
+              "RelativeDocumentMoniker": "09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.cs",
+              "RelativeToolTip": "09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T12:17:22.946Z",
+              "WhenOpened": "2024-09-29T12:52:36.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\Tuple\\Program.cs",
-              "RelativeDocumentMoniker": "09.Generics\\Tuple\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\Tuple\\Program.cs",
-              "RelativeToolTip": "09.Generics\\Tuple\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "09.Generics\\CustomLinkedList\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\Program.cs",
+              "RelativeToolTip": "09.Generics\\CustomLinkedList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T12:17:10.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Box.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericCountMethodDoubles\\Box.cs",
-              "RelativeDocumentMoniker": "09.Generics\\GenericCountMethodDoubles\\Box.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericCountMethodDoubles\\Box.cs",
-              "RelativeToolTip": "09.Generics\\GenericCountMethodDoubles\\Box.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T12:12:05.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericCountMethodDoubles\\Program.cs",
-              "RelativeDocumentMoniker": "09.Generics\\GenericCountMethodDoubles\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericCountMethodDoubles\\Program.cs",
-              "RelativeToolTip": "09.Generics\\GenericCountMethodDoubles\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T12:11:43.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ArrayCreator.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericArrayCreator\\ArrayCreator.cs",
-              "RelativeDocumentMoniker": "09.Generics\\GenericArrayCreator\\ArrayCreator.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericArrayCreator\\ArrayCreator.cs",
-              "RelativeToolTip": "09.Generics\\GenericArrayCreator\\ArrayCreator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T12:03:23.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Box.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericCountMethodStrings\\Box.cs",
-              "RelativeDocumentMoniker": "09.Generics\\GenericCountMethodStrings\\Box.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericCountMethodStrings\\Box.cs",
-              "RelativeToolTip": "09.Generics\\GenericCountMethodStrings\\Box.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAqwDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T11:45:31.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericCountMethodStrings\\Program.cs",
-              "RelativeDocumentMoniker": "09.Generics\\GenericCountMethodStrings\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericCountMethodStrings\\Program.cs",
-              "RelativeToolTip": "09.Generics\\GenericCountMethodStrings\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T11:42:20.068Z",
+              "WhenOpened": "2024-09-29T12:51:15.932Z",
               "EditorCaption": ""
             }
           ]

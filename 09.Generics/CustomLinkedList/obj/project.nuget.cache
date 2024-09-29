@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i448kl0x59g=",
+  "dgSpecHash": "UkiNI8lBG1M=",
   "success": true,
-  "projectFilePath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\CustomLinkedList.csproj",
+  "projectFilePath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

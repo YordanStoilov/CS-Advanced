@@ -201,23 +201,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericArrayCreator", "09.G
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericScale", "09.Generics\GenericScale\GenericScale.csproj", "{8C034706-016E-4B6E-84FD-314F33241662}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericBoxOfInteger", "09.Generics\GenericBoxOfInteger\GenericBoxOfInteger.csproj", "{D10A0970-7BAD-4C25-B64F-D3B9E4F6ED43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericBoxOfInteger", "09.Generics\GenericBoxOfInteger\GenericBoxOfInteger.csproj", "{D10A0970-7BAD-4C25-B64F-D3B9E4F6ED43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSwapMethodStrings", "09.Generics\GenericSwapMethodStrings\GenericSwapMethodStrings.csproj", "{C7A84169-BC14-4543-A361-B5B023EA6363}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericSwapMethodStrings", "09.Generics\GenericSwapMethodStrings\GenericSwapMethodStrings.csproj", "{C7A84169-BC14-4543-A361-B5B023EA6363}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSwapMethodIntegers", "09.Generics\GenericSwapMethodIntegers\GenericSwapMethodIntegers.csproj", "{7F746E80-353A-4C0F-AE2C-1CDB0FFC474C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericSwapMethodIntegers", "09.Generics\GenericSwapMethodIntegers\GenericSwapMethodIntegers.csproj", "{7F746E80-353A-4C0F-AE2C-1CDB0FFC474C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCountMethodStrings", "09.Generics\GenericCountMethodStrings\GenericCountMethodStrings.csproj", "{1917D952-411B-4F07-9C65-512A39065195}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericCountMethodStrings", "09.Generics\GenericCountMethodStrings\GenericCountMethodStrings.csproj", "{1917D952-411B-4F07-9C65-512A39065195}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCountMethodDoubles", "09.Generics\GenericCountMethodDoubles\GenericCountMethodDoubles.csproj", "{33007644-6705-4847-85D0-890599FE51FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericCountMethodDoubles", "09.Generics\GenericCountMethodDoubles\GenericCountMethodDoubles.csproj", "{33007644-6705-4847-85D0-890599FE51FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple", "09.Generics\Tuple\Tuple.csproj", "{1EC4DDC0-A1FA-4A33-A04C-DAA51F833E5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuple", "09.Generics\Tuple\Tuple.csproj", "{1EC4DDC0-A1FA-4A33-A04C-DAA51F833E5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threeuple", "09.Generics\Threeuple\Threeuple.csproj", "{3BB092CF-306C-4E10-8BE2-6BD7364AD983}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Threeuple", "09.Generics\Threeuple\Threeuple.csproj", "{3BB092CF-306C-4E10-8BE2-6BD7364AD983}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericBoxOfString", "09.Generics\GenericBoxOfString\GenericBoxOfString.csproj", "{6246C167-7B72-41F6-AD2E-60FBF1601B76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericBoxOfString", "09.Generics\GenericBoxOfString\GenericBoxOfString.csproj", "{6246C167-7B72-41F6-AD2E-60FBF1601B76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLinkedList", "09.Generics\CustomLinkedList\CustomLinkedList.csproj", "{73D25A05-F1DE-4E58-9A17-122AD4950EC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomDoublyLinkedList", "09.Generics\CustomLinkedList\CustomDoublyLinkedList.csproj", "{73D25A05-F1DE-4E58-9A17-122AD4950EC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

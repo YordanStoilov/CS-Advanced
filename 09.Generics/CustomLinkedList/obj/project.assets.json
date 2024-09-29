@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\CustomLinkedList.csproj",
-      "projectName": "CustomLinkedList",
-      "projectPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\CustomLinkedList.csproj",
+      "projectUniqueName": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.csproj",
+      "projectName": "CustomDoublyLinkedList",
+      "projectPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.csproj",
       "packagesPath": "C:\\Users\\yordanstoilov\\.nuget\\packages\\",
       "outputPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\obj\\",
       "projectStyle": "PackageReference",
