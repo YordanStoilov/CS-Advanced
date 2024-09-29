@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D10A0970-7BAD-4C25-B64F-D3B9E4F6ED43}|09.Generics\\GenericBoxOfInteger\\GenericBoxOfInteger.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericboxofinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D10A0970-7BAD-4C25-B64F-D3B9E4F6ED43}|09.Generics\\GenericBoxOfInteger\\GenericBoxOfInteger.csproj|solutionrelative:09.generics\\genericboxofinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7A84169-BC14-4543-A361-B5B023EA6363}|09.Generics\\GenericSwapMethodStrings\\GenericSwapMethodStrings.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericswapmethodstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A84169-BC14-4543-A361-B5B023EA6363}|09.Generics\\GenericSwapMethodStrings\\GenericSwapMethodStrings.csproj|solutionrelative:09.generics\\genericswapmethodstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D10A0970-7BAD-4C25-B64F-D3B9E4F6ED43}|09.Generics\\GenericBoxOfInteger\\GenericBoxOfInteger.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericboxofinteger\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D10A0970-7BAD-4C25-B64F-D3B9E4F6ED43}|09.Generics\\GenericBoxOfInteger\\GenericBoxOfInteger.csproj|solutionrelative:09.generics\\genericboxofinteger\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6246C167-7B72-41F6-AD2E-60FBF1601B76}|09.Generics\\GenericBoxOfString\\GenericBoxOfString.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericboxofstring\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6246C167-7B72-41F6-AD2E-60FBF1601B76}|09.Generics\\GenericBoxOfString\\GenericBoxOfString.csproj|solutionrelative:09.generics\\genericboxofstring\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6246C167-7B72-41F6-AD2E-60FBF1601B76}|09.Generics\\GenericBoxOfString\\GenericBoxOfString.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericboxofstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6246C167-7B72-41F6-AD2E-60FBF1601B76}|09.Generics\\GenericBoxOfString\\GenericBoxOfString.csproj|solutionrelative:09.generics\\genericboxofstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7A84169-BC14-4543-A361-B5B023EA6363}|09.Generics\\GenericSwapMethodStrings\\GenericSwapMethodStrings.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericswapmethodstrings\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A84169-BC14-4543-A361-B5B023EA6363}|09.Generics\\GenericSwapMethodStrings\\GenericSwapMethodStrings.csproj|solutionrelative:09.generics\\genericswapmethodstrings\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,52 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Box.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericBoxOfInteger\\Box.cs",
-              "RelativeDocumentMoniker": "09.Generics\\GenericBoxOfInteger\\Box.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericBoxOfInteger\\Box.cs",
-              "RelativeToolTip": "09.Generics\\GenericBoxOfInteger\\Box.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericSwapMethodStrings\\Box.cs",
+              "RelativeDocumentMoniker": "09.Generics\\GenericSwapMethodStrings\\Box.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericSwapMethodStrings\\Box.cs",
+              "RelativeToolTip": "09.Generics\\GenericSwapMethodStrings\\Box.cs",
+              "ViewState": "AgIAAA4AAACgMzMzM3MmwCMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T11:07:03.679Z",
+              "WhenOpened": "2024-09-29T11:17:31.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericBoxOfInteger\\Program.cs",
-              "RelativeDocumentMoniker": "09.Generics\\GenericBoxOfInteger\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericBoxOfInteger\\Program.cs",
-              "RelativeToolTip": "09.Generics\\GenericBoxOfInteger\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericSwapMethodStrings\\Program.cs",
+              "RelativeDocumentMoniker": "09.Generics\\GenericSwapMethodStrings\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericSwapMethodStrings\\Program.cs",
+              "RelativeToolTip": "09.Generics\\GenericSwapMethodStrings\\Program.cs",
+              "ViewState": "AgIAAAIAAADAzMzMzIwjwBMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T11:05:51.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Box.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericBoxOfString\\Box.cs",
-              "RelativeDocumentMoniker": "09.Generics\\GenericBoxOfString\\Box.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericBoxOfString\\Box.cs",
-              "RelativeToolTip": "09.Generics\\GenericBoxOfString\\Box.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T10:57:06.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericBoxOfString\\Program.cs",
-              "RelativeDocumentMoniker": "09.Generics\\GenericBoxOfString\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericBoxOfString\\Program.cs",
-              "RelativeToolTip": "09.Generics\\GenericBoxOfString\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T10:32:53.346Z",
+              "WhenOpened": "2024-09-29T11:09:56.288Z",
               "EditorCaption": ""
             }
           ]

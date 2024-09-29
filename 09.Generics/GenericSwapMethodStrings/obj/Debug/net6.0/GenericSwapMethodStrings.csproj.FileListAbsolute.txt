@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodStrings\bin\Debug\net6.0\GenericSwapMethodStrings.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodStrings\obj\Debug\net6.0\refint\GenericSwapMethodStrings.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodStrings\obj\Debug\net6.0\GenericSwapMethodStrings.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodStrings\obj\Debug\net6.0\ref\GenericSwapMethodStrings.dll
