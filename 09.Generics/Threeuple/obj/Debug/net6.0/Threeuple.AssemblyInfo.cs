@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Threeuple")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57beec21e819ce64f613966cef97a3e924f41de3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41cd65b631d4debe55161308d0fec5d5b2787cf6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Threeuple")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Threeuple")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
