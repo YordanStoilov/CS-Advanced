@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F746E80-353A-4C0F-AE2C-1CDB0FFC474C}|09.Generics\\GenericSwapMethodIntegers\\GenericSwapMethodIntegers.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericswapmethodintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F746E80-353A-4C0F-AE2C-1CDB0FFC474C}|09.Generics\\GenericSwapMethodIntegers\\GenericSwapMethodIntegers.csproj|solutionrelative:09.generics\\genericswapmethodintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7A84169-BC14-4543-A361-B5B023EA6363}|09.Generics\\GenericSwapMethodStrings\\GenericSwapMethodStrings.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericswapmethodstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7A84169-BC14-4543-A361-B5B023EA6363}|09.Generics\\GenericSwapMethodStrings\\GenericSwapMethodStrings.csproj|solutionrelative:09.generics\\genericswapmethodstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7A84169-BC14-4543-A361-B5B023EA6363}|09.Generics\\GenericSwapMethodStrings\\GenericSwapMethodStrings.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericswapmethodstrings\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7A84169-BC14-4543-A361-B5B023EA6363}|09.Generics\\GenericSwapMethodStrings\\GenericSwapMethodStrings.csproj|solutionrelative:09.generics\\genericswapmethodstrings\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F746E80-353A-4C0F-AE2C-1CDB0FFC474C}|09.Generics\\GenericSwapMethodIntegers\\GenericSwapMethodIntegers.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericswapmethodintegers\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F746E80-353A-4C0F-AE2C-1CDB0FFC474C}|09.Generics\\GenericSwapMethodIntegers\\GenericSwapMethodIntegers.csproj|solutionrelative:09.generics\\genericswapmethodintegers\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Box.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericSwapMethodStrings\\Box.cs",
-              "RelativeDocumentMoniker": "09.Generics\\GenericSwapMethodStrings\\Box.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericSwapMethodStrings\\Box.cs",
-              "RelativeToolTip": "09.Generics\\GenericSwapMethodStrings\\Box.cs",
-              "ViewState": "AgIAAA4AAACgMzMzM3MmwCMAAAAoAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericSwapMethodStrings\\Program.cs",
+              "RelativeDocumentMoniker": "09.Generics\\GenericSwapMethodStrings\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericSwapMethodStrings\\Program.cs",
+              "RelativeToolTip": "09.Generics\\GenericSwapMethodStrings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T11:17:31.205Z",
+              "WhenOpened": "2024-09-29T11:26:57.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Box.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericSwapMethodIntegers\\Box.cs",
+              "RelativeDocumentMoniker": "09.Generics\\GenericSwapMethodIntegers\\Box.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericSwapMethodIntegers\\Box.cs",
+              "RelativeToolTip": "09.Generics\\GenericSwapMethodIntegers\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:26:40.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericSwapMethodStrings\\Program.cs",
-              "RelativeDocumentMoniker": "09.Generics\\GenericSwapMethodStrings\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericSwapMethodStrings\\Program.cs",
-              "RelativeToolTip": "09.Generics\\GenericSwapMethodStrings\\Program.cs",
-              "ViewState": "AgIAAAIAAADAzMzMzIwjwBMAAAAjAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericSwapMethodIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "09.Generics\\GenericSwapMethodIntegers\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericSwapMethodIntegers\\Program.cs",
+              "RelativeToolTip": "09.Generics\\GenericSwapMethodIntegers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T11:09:56.288Z",
+              "WhenOpened": "2024-09-29T11:26:26.344Z",
               "EditorCaption": ""
             }
           ]

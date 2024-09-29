@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodIntegers\obj\Debug\net6.0\refint\GenericSwapMethodIntegers.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericSwapMethodIntegers\obj\Debug\net6.0\ref\GenericSwapMethodIntegers.dll
