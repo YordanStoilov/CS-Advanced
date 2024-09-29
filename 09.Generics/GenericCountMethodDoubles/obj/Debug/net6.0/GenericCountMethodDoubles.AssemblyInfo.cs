@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenericCountMethodDoubles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec57dbe94e00a100d94e73aee9327daa402a8f36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea2ca7285788207f6ff8c3af6112fb54333119d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenericCountMethodDoubles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenericCountMethodDoubles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

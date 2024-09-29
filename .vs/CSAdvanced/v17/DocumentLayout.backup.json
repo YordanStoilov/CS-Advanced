@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1EC4DDC0-A1FA-4A33-A04C-DAA51F833E5D}|09.Generics\\Tuple\\Tuple.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\tuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC4DDC0-A1FA-4A33-A04C-DAA51F833E5D}|09.Generics\\Tuple\\Tuple.csproj|solutionrelative:09.generics\\tuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC4DDC0-A1FA-4A33-A04C-DAA51F833E5D}|09.Generics\\Tuple\\Tuple.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\tuple\\customtuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC4DDC0-A1FA-4A33-A04C-DAA51F833E5D}|09.Generics\\Tuple\\Tuple.csproj|solutionrelative:09.generics\\tuple\\customtuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{33007644-6705-4847-85D0-890599FE51FA}|09.Generics\\GenericCountMethodDoubles\\GenericCountMethodDoubles.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericcountmethoddoubles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33007644-6705-4847-85D0-890599FE51FA}|09.Generics\\GenericCountMethodDoubles\\GenericCountMethodDoubles.csproj|solutionrelative:09.generics\\genericcountmethoddoubles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CustomTuple.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\Tuple\\CustomTuple.cs",
+              "RelativeDocumentMoniker": "09.Generics\\Tuple\\CustomTuple.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\Tuple\\CustomTuple.cs",
+              "RelativeToolTip": "09.Generics\\Tuple\\CustomTuple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:17:22.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\Tuple\\Program.cs",
+              "RelativeDocumentMoniker": "09.Generics\\Tuple\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\Tuple\\Program.cs",
+              "RelativeToolTip": "09.Generics\\Tuple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:17:10.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Box.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericCountMethodDoubles\\Box.cs",
               "RelativeDocumentMoniker": "09.Generics\\GenericCountMethodDoubles\\Box.cs",
@@ -47,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericCountMethodDoubles\\Program.cs",
               "RelativeDocumentMoniker": "09.Generics\\GenericCountMethodDoubles\\Program.cs",
@@ -60,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ArrayCreator.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericArrayCreator\\ArrayCreator.cs",
               "RelativeDocumentMoniker": "09.Generics\\GenericArrayCreator\\ArrayCreator.cs",
@@ -73,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Box.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericCountMethodStrings\\Box.cs",
               "RelativeDocumentMoniker": "09.Generics\\GenericCountMethodStrings\\Box.cs",
@@ -86,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericCountMethodStrings\\Program.cs",
               "RelativeDocumentMoniker": "09.Generics\\GenericCountMethodStrings\\Program.cs",
