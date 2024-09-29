@@ -1,23 +1,22 @@
 ﻿using System.Runtime.CompilerServices;
 
-namespace GenericSwapMethodIntegers
+namespace GenericCountMethodString
 {
     class Program
     {
         static void Main()
         {
-            Box<string> box = new();
+            Box<string> box = new Box<string>();
+
             int n = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < n; i++)
             {
                 box.Add(Console.ReadLine());
             }
-            int[] indices = Console.ReadLine().Split().Select(int.Parse).ToArray();
-            int index1 = indices[0], index2 = indices[1];
+            string stringToCompare = Console.ReadLine();
 
-            box.Swap(index1, index2);
-            Console.WriteLine(box);
+            Console.WriteLine(box.FindCountOfElementsWIthBiggerValue(stringToCompare));
         }
     }
 }

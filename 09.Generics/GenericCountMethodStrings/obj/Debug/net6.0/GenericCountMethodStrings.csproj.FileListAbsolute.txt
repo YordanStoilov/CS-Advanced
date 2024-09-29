@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericCountMethodStrings\obj\Debug\net6.0\refint\GenericCountMethodStrings.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericCountMethodStrings\obj\Debug\net6.0\ref\GenericCountMethodStrings.dll
