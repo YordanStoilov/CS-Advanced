@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericScale\bin\Debug\net6.0\GenericScale.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericScale\bin\Debug\net6.0\GenericScale.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericScale\bin\Debug\net6.0\GenericScale.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericScale\bin\Debug\net6.0\GenericScale.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericScale\bin\Debug\net6.0\GenericScale.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericScale\obj\Debug\net6.0\GenericScale.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericScale\obj\Debug\net6.0\GenericScale.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericScale\obj\Debug\net6.0\GenericScale.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericScale\obj\Debug\net6.0\GenericScale.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericScale\obj\Debug\net6.0\GenericScale.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericScale\obj\Debug\net6.0\GenericScale.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericScale\obj\Debug\net6.0\refint\GenericScale.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericScale\obj\Debug\net6.0\GenericScale.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericScale\obj\Debug\net6.0\GenericScale.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\09.Generics\GenericScale\obj\Debug\net6.0\ref\GenericScale.dll

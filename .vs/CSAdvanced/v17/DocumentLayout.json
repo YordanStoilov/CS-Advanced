@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7970DB6C-0AB8-4209-9AF1-DA5EF1D8E7D4}|09.Generics\\Box\\Box.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\box\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7970DB6C-0AB8-4209-9AF1-DA5EF1D8E7D4}|09.Generics\\Box\\Box.csproj|solutionrelative:09.generics\\box\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C034706-016E-4B6E-84FD-314F33241662}|09.Generics\\GenericScale\\GenericScale.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericscale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C034706-016E-4B6E-84FD-314F33241662}|09.Generics\\GenericScale\\GenericScale.csproj|solutionrelative:09.generics\\genericscale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7970DB6C-0AB8-4209-9AF1-DA5EF1D8E7D4}|09.Generics\\Box\\Box.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\box\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7970DB6C-0AB8-4209-9AF1-DA5EF1D8E7D4}|09.Generics\\Box\\Box.csproj|solutionrelative:09.generics\\box\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C034706-016E-4B6E-84FD-314F33241662}|09.Generics\\GenericScale\\GenericScale.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericscale\\equalityscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C034706-016E-4B6E-84FD-314F33241662}|09.Generics\\GenericScale\\GenericScale.csproj|solutionrelative:09.generics\\genericscale\\equalityscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FA726C3-3F64-448F-A331-6B38BADD818A}|ImplementingStacksAndQueues\\ImplementingCustomList.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\implementingstacksandqueues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FA726C3-3F64-448F-A331-6B38BADD818A}|ImplementingStacksAndQueues\\ImplementingCustomList.csproj|solutionrelative:implementingstacksandqueues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28007455-CEEB-48A0-8EFD-38D7208B9FF5}|09.Generics\\GenericArrayCreator\\GenericArrayCreator.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\genericarraycreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28007455-CEEB-48A0-8EFD-38D7208B9FF5}|09.Generics\\GenericArrayCreator\\GenericArrayCreator.csproj|solutionrelative:09.generics\\genericarraycreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Box.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\Box\\Box.cs",
-              "RelativeDocumentMoniker": "09.Generics\\Box\\Box.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\Box\\Box.cs",
-              "RelativeToolTip": "09.Generics\\Box\\Box.cs",
-              "ViewState": "AgIAAAsAAAAgZmZmZoY4wBIAAAAUAAAAAAAAAA==",
+              "Title": "EqualityScale.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericScale\\EqualityScale.cs",
+              "RelativeDocumentMoniker": "09.Generics\\GenericScale\\EqualityScale.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericScale\\EqualityScale.cs",
+              "RelativeToolTip": "09.Generics\\GenericScale\\EqualityScale.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T06:43:53.48Z",
+              "WhenOpened": "2024-09-29T07:15:14.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\Box\\Program.cs",
-              "RelativeDocumentMoniker": "09.Generics\\Box\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\Box\\Program.cs",
-              "RelativeToolTip": "09.Generics\\Box\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericScale\\Program.cs",
+              "RelativeDocumentMoniker": "09.Generics\\GenericScale\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericScale\\Program.cs*",
+              "RelativeToolTip": "09.Generics\\GenericScale\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T06:42:26.473Z",
+              "WhenOpened": "2024-09-29T07:14:32.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\ImplementingStacksAndQueues\\Program.cs",
-              "RelativeDocumentMoniker": "ImplementingStacksAndQueues\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\ImplementingStacksAndQueues\\Program.cs",
-              "RelativeToolTip": "ImplementingStacksAndQueues\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericArrayCreator\\Program.cs",
+              "RelativeDocumentMoniker": "09.Generics\\GenericArrayCreator\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\GenericArrayCreator\\Program.cs",
+              "RelativeToolTip": "09.Generics\\GenericArrayCreator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T06:42:13.897Z",
+              "WhenOpened": "2024-09-29T07:14:35.61Z",
               "EditorCaption": ""
             }
           ]
