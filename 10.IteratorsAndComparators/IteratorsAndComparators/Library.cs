@@ -17,14 +17,33 @@ public class Library : IEnumerable<Book>
 
     public IEnumerator<Book> GetEnumerator()
     {
-        for (int i = 0; i < Books.Count; i++)
-        {
-            yield return Books[i];
-        }
+        return new LibraryIterator(Books);
     }
 
     IEnumerator IEnumerable.GetEnumerator()
     {
         return this.GetEnumerator();
+    }
+
+    class LibraryIterator : IEnumerator<Book>
+    {
+        private int CurrentIndex;
+        private List<Book> Books;
+
+        public LibraryIterator(List<Book> books)
+        {
+            Books = books;
+            Reset();
+        }
+
+        public Book Current => this.Books[CurrentIndex];
+
+        object IEnumerator.Current => this.Current;
+
+        public void Dispose() { }
+
+        public bool MoveNext() => ++this.CurrentIndex < this.Books.Count;
+
+        public void Reset() => this.CurrentIndex = -1;
     }
 }

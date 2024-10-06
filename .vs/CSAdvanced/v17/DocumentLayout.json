@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\customlinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.csproj|solutionrelative:09.generics\\customlinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E7768D4-A872-4CCA-8428-5922C50BFA27}|10.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\iteratorsandcomparators\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7768D4-A872-4CCA-8428-5922C50BFA27}|10.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj|solutionrelative:10.iteratorsandcomparators\\iteratorsandcomparators\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\customlinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.csproj|solutionrelative:09.generics\\customlinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E7768D4-A872-4CCA-8428-5922C50BFA27}|10.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\iteratorsandcomparators\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7768D4-A872-4CCA-8428-5922C50BFA27}|10.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj|solutionrelative:10.iteratorsandcomparators\\iteratorsandcomparators\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\customlinkedlist\\customdoublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.csproj|solutionrelative:09.generics\\customlinkedlist\\customdoublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E7768D4-A872-4CCA-8428-5922C50BFA27}|10.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\iteratorsandcomparators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7768D4-A872-4CCA-8428-5922C50BFA27}|10.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj|solutionrelative:10.iteratorsandcomparators\\iteratorsandcomparators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Node.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\Node.cs",
-              "RelativeDocumentMoniker": "09.Generics\\CustomLinkedList\\Node.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\Node.cs",
-              "RelativeToolTip": "09.Generics\\CustomLinkedList\\Node.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\IteratorsAndComparators\\Library.cs",
+              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\IteratorsAndComparators\\Library.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\IteratorsAndComparators\\Library.cs",
+              "RelativeToolTip": "10.IteratorsAndComparators\\IteratorsAndComparators\\Library.cs",
+              "ViewState": "AgIAACAAAAAANTMzM3MhwC4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T12:56:09.775Z"
+              "WhenOpened": "2024-10-06T08:54:58.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\IteratorsAndComparators\\Book.cs",
+              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\IteratorsAndComparators\\Book.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\IteratorsAndComparators\\Book.cs",
+              "RelativeToolTip": "10.IteratorsAndComparators\\IteratorsAndComparators\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:51:29.311Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CustomDoublyLinkedList.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.cs",
-              "RelativeDocumentMoniker": "09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.cs",
-              "RelativeToolTip": "09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T12:52:36.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\Program.cs",
-              "RelativeDocumentMoniker": "09.Generics\\CustomLinkedList\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\Program.cs",
-              "RelativeToolTip": "09.Generics\\CustomLinkedList\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\IteratorsAndComparators\\Program.cs",
+              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\IteratorsAndComparators\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\IteratorsAndComparators\\Program.cs",
+              "RelativeToolTip": "10.IteratorsAndComparators\\IteratorsAndComparators\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T12:51:15.932Z",
+              "WhenOpened": "2024-10-06T08:50:53.322Z",
               "EditorCaption": ""
             }
           ]

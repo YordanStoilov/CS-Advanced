@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\IteratorsAndComparators\bin\Debug\net6.0\IteratorsAndComparators.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\refint\IteratorsAndComparators.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\IteratorsAndComparators.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\IteratorsAndComparators\obj\Debug\net6.0\ref\IteratorsAndComparators.dll
