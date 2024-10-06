@@ -13,12 +13,11 @@ public class Library : IEnumerable<Book>
     public Library(params Book[] books)
     {
         Books = new List<Book>(books);
-        Books.Sort();
     }
 
     public IEnumerator<Book> GetEnumerator()
     {
-        return new LibraryIterator(Books);
+        return new LibraryIterator(Books.OrderBy(b => b, new BookComparator()).ToList());
     }
 
     IEnumerator IEnumerable.GetEnumerator()

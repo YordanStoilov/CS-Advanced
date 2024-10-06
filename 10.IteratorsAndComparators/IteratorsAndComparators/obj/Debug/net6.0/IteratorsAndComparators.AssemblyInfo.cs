@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IteratorsAndComparators")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc28b32db708b6d0d2f5b28f9866523381541e56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9422a85a2d61a47661f676637ac7ff23f6ab11cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("IteratorsAndComparators")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IteratorsAndComparators")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
