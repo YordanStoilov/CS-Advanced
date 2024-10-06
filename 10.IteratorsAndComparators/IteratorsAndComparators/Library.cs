@@ -13,6 +13,7 @@ public class Library : IEnumerable<Book>
     public Library(params Book[] books)
     {
         Books = new List<Book>(books);
+        Books.Sort();
     }
 
     public IEnumerator<Book> GetEnumerator()

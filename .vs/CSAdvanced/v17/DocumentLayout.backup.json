@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E7768D4-A872-4CCA-8428-5922C50BFA27}|10.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\iteratorsandcomparators\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E7768D4-A872-4CCA-8428-5922C50BFA27}|10.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj|solutionrelative:10.iteratorsandcomparators\\iteratorsandcomparators\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E7768D4-A872-4CCA-8428-5922C50BFA27}|10.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\iteratorsandcomparators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7768D4-A872-4CCA-8428-5922C50BFA27}|10.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj|solutionrelative:10.iteratorsandcomparators\\iteratorsandcomparators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E7768D4-A872-4CCA-8428-5922C50BFA27}|10.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\iteratorsandcomparators\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E7768D4-A872-4CCA-8428-5922C50BFA27}|10.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj|solutionrelative:10.iteratorsandcomparators\\iteratorsandcomparators\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E7768D4-A872-4CCA-8428-5922C50BFA27}|10.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\iteratorsandcomparators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E7768D4-A872-4CCA-8428-5922C50BFA27}|10.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj|solutionrelative:10.iteratorsandcomparators\\iteratorsandcomparators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E7768D4-A872-4CCA-8428-5922C50BFA27}|10.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\iteratorsandcomparators\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7768D4-A872-4CCA-8428-5922C50BFA27}|10.IteratorsAndComparators\\IteratorsAndComparators\\IteratorsAndComparators.csproj|solutionrelative:10.iteratorsandcomparators\\iteratorsandcomparators\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Library.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\IteratorsAndComparators\\Library.cs",
               "RelativeDocumentMoniker": "10.IteratorsAndComparators\\IteratorsAndComparators\\Library.cs",
               "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\IteratorsAndComparators\\Library.cs",
               "RelativeToolTip": "10.IteratorsAndComparators\\IteratorsAndComparators\\Library.cs",
-              "ViewState": "AgIAACYAAAAAzczMzCw5wC4AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAABAAAAIAfwCoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T08:54:58.416Z",
               "EditorCaption": ""
@@ -45,20 +45,20 @@
               "RelativeDocumentMoniker": "10.IteratorsAndComparators\\IteratorsAndComparators\\Book.cs",
               "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\IteratorsAndComparators\\Book.cs",
               "RelativeToolTip": "10.IteratorsAndComparators\\IteratorsAndComparators\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAABAl5mZmZkWwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T08:51:29.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\IteratorsAndComparators\\Program.cs",
               "RelativeDocumentMoniker": "10.IteratorsAndComparators\\IteratorsAndComparators\\Program.cs",
               "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\IteratorsAndComparators\\Program.cs",
               "RelativeToolTip": "10.IteratorsAndComparators\\IteratorsAndComparators\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T08:50:53.322Z",
               "EditorCaption": ""
