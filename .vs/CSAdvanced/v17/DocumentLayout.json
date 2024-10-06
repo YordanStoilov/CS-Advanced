@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomLinkedList.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\customlinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomLinkedList.csproj|solutionrelative:09.generics\\customlinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\customlinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.csproj|solutionrelative:09.generics\\customlinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomLinkedList.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\customlinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomLinkedList.csproj|solutionrelative:09.generics\\customlinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\customlinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.csproj|solutionrelative:09.generics\\customlinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomLinkedList.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\customlinkedlist\\customdoublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomLinkedList.csproj|solutionrelative:09.generics\\customlinkedlist\\customdoublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\09.generics\\customlinkedlist\\customdoublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D25A05-F1DE-4E58-9A17-122AD4950EC7}|09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.csproj|solutionrelative:09.generics\\customlinkedlist\\customdoublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +34,7 @@
               "RelativeToolTip": "09.Generics\\CustomLinkedList\\Node.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T12:56:09.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T12:56:09.775Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "09.Generics\\CustomLinkedList\\CustomDoublyLinkedList.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T12:52:36.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T12:52:36.219Z"
             },
             {
               "$type": "Document",
@@ -58,7 +56,7 @@
               "RelativeDocumentMoniker": "09.Generics\\CustomLinkedList\\Program.cs",
               "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\09.Generics\\CustomLinkedList\\Program.cs",
               "RelativeToolTip": "09.Generics\\CustomLinkedList\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T12:51:15.932Z",
               "EditorCaption": ""
