@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9364DD8A-AB29-40D4-A29B-8D4C5AB94809}|10.IteratorsAndComparators\\CustomComparator\\CustomComparator.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\customcomparator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9364DD8A-AB29-40D4-A29B-8D4C5AB94809}|10.IteratorsAndComparators\\CustomComparator\\CustomComparator.csproj|solutionrelative:10.iteratorsandcomparators\\customcomparator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B8CC166-C8C1-4FF6-B218-0B50927D5935}|07.ImplementingDoublyLinkedList\\DoublyLinkedList\\DoublyLinkedList.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\07.implementingdoublylinkedlist\\doublylinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8CC166-C8C1-4FF6-B218-0B50927D5935}|07.ImplementingDoublyLinkedList\\DoublyLinkedList\\DoublyLinkedList.csproj|solutionrelative:07.implementingdoublylinkedlist\\doublylinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8CC166-C8C1-4FF6-B218-0B50927D5935}|07.ImplementingDoublyLinkedList\\DoublyLinkedList\\DoublyLinkedList.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\07.implementingdoublylinkedlist\\doublylinkedlist\\customlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8CC166-C8C1-4FF6-B218-0B50927D5935}|07.ImplementingDoublyLinkedList\\DoublyLinkedList\\DoublyLinkedList.csproj|solutionrelative:07.implementingdoublylinkedlist\\doublylinkedlist\\customlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8CC166-C8C1-4FF6-B218-0B50927D5935}|07.ImplementingDoublyLinkedList\\DoublyLinkedList\\DoublyLinkedList.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\07.implementingdoublylinkedlist\\doublylinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8CC166-C8C1-4FF6-B218-0B50927D5935}|07.ImplementingDoublyLinkedList\\DoublyLinkedList\\DoublyLinkedList.csproj|solutionrelative:07.implementingdoublylinkedlist\\doublylinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9364DD8A-AB29-40D4-A29B-8D4C5AB94809}|10.IteratorsAndComparators\\CustomComparator\\CustomComparator.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\customcomparator\\numberscomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,34 +29,62 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "NumbersComparator.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\CustomComparator\\NumbersComparator.cs",
               "RelativeDocumentMoniker": "10.IteratorsAndComparators\\CustomComparator\\NumbersComparator.cs",
               "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\CustomComparator\\NumbersComparator.cs",
               "RelativeToolTip": "10.IteratorsAndComparators\\CustomComparator\\NumbersComparator.cs",
-              "ViewState": "AgIAAAsAAABgmpmZmZkiwBsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T12:50:55.812Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\07.ImplementingDoublyLinkedList\\DoublyLinkedList\\Node.cs",
+              "RelativeDocumentMoniker": "07.ImplementingDoublyLinkedList\\DoublyLinkedList\\Node.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\07.ImplementingDoublyLinkedList\\DoublyLinkedList\\Node.cs",
+              "RelativeToolTip": "07.ImplementingDoublyLinkedList\\DoublyLinkedList\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:25:24.688Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\CustomComparator\\Program.cs",
-              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\CustomComparator\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\CustomComparator\\Program.cs",
-              "RelativeToolTip": "10.IteratorsAndComparators\\CustomComparator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\07.ImplementingDoublyLinkedList\\DoublyLinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "07.ImplementingDoublyLinkedList\\DoublyLinkedList\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\07.ImplementingDoublyLinkedList\\DoublyLinkedList\\Program.cs",
+              "RelativeToolTip": "07.ImplementingDoublyLinkedList\\DoublyLinkedList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T11:46:04.413Z",
+              "WhenOpened": "2024-10-12T13:28:57.47Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomLinkedList.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\07.ImplementingDoublyLinkedList\\DoublyLinkedList\\CustomLinkedList.cs",
+              "RelativeDocumentMoniker": "07.ImplementingDoublyLinkedList\\DoublyLinkedList\\CustomLinkedList.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\07.ImplementingDoublyLinkedList\\DoublyLinkedList\\CustomLinkedList.cs",
+              "RelativeToolTip": "07.ImplementingDoublyLinkedList\\DoublyLinkedList\\CustomLinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:25:57.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

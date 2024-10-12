@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\07.ImplementingDoublyLinkedList\DoublyLinkedList\bin\Debug\net6.0\DoublyLinkedList.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\07.ImplementingDoublyLinkedList\DoublyLinkedList\bin\Debug\net6.0\DoublyLinkedList.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\07.ImplementingDoublyLinkedList\DoublyLinkedList\bin\Debug\net6.0\DoublyLinkedList.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\07.ImplementingDoublyLinkedList\DoublyLinkedList\bin\Debug\net6.0\DoublyLinkedList.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\07.ImplementingDoublyLinkedList\DoublyLinkedList\bin\Debug\net6.0\DoublyLinkedList.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\07.ImplementingDoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\07.ImplementingDoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\07.ImplementingDoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\07.ImplementingDoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\07.ImplementingDoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\07.ImplementingDoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\07.ImplementingDoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\refint\DoublyLinkedList.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\07.ImplementingDoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\07.ImplementingDoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\DoublyLinkedList.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\07.ImplementingDoublyLinkedList\DoublyLinkedList\obj\Debug\net6.0\ref\DoublyLinkedList.dll
