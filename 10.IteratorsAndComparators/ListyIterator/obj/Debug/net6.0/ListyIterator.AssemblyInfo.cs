@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListyIterator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+457a3c49d30c1d8815d16d1beaa6ae0f833b7217")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad0e7b692de376e19cca520d52aa608858e4cd30")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListyIterator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListyIterator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

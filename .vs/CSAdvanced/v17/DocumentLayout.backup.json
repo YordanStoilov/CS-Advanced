@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB330DCF-31C8-4FB5-8A46-E07F6D8785BE}|10.IteratorsAndComparators\\ListyIterator\\ListyIterator.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\listyiterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB330DCF-31C8-4FB5-8A46-E07F6D8785BE}|10.IteratorsAndComparators\\ListyIterator\\ListyIterator.csproj|solutionrelative:10.iteratorsandcomparators\\listyiterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2904B72-3C34-497D-8EE2-69254E990CA7}|10.IteratorsAndComparators\\CustomStack\\CustomStack.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\customstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2904B72-3C34-497D-8EE2-69254E990CA7}|10.IteratorsAndComparators\\CustomStack\\CustomStack.csproj|solutionrelative:10.iteratorsandcomparators\\customstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB330DCF-31C8-4FB5-8A46-E07F6D8785BE}|10.IteratorsAndComparators\\ListyIterator\\ListyIterator.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\listyiterator\\listyiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB330DCF-31C8-4FB5-8A46-E07F6D8785BE}|10.IteratorsAndComparators\\ListyIterator\\ListyIterator.csproj|solutionrelative:10.iteratorsandcomparators\\listyiterator\\listyiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2904B72-3C34-497D-8EE2-69254E990CA7}|10.IteratorsAndComparators\\CustomStack\\CustomStack.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\customstack\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2904B72-3C34-497D-8EE2-69254E990CA7}|10.IteratorsAndComparators\\CustomStack\\CustomStack.csproj|solutionrelative:10.iteratorsandcomparators\\customstack\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\ListyIterator\\Program.cs",
-              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\ListyIterator\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\ListyIterator\\Program.cs",
-              "RelativeToolTip": "10.IteratorsAndComparators\\ListyIterator\\Program.cs",
-              "ViewState": "AgIAABgAAADgZmZmZiYowCoAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CustomStack.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\CustomStack\\CustomStack.cs",
+              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\CustomStack\\CustomStack.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\CustomStack\\CustomStack.cs",
+              "RelativeToolTip": "10.IteratorsAndComparators\\CustomStack\\CustomStack.cs",
+              "ViewState": "AgIAABgAAADAlpmZmdkhwCYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T09:06:13.92Z",
+              "WhenOpened": "2024-10-12T09:56:47.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ListyIterator.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\ListyIterator\\ListyIterator.cs",
-              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\ListyIterator\\ListyIterator.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\ListyIterator\\ListyIterator.cs",
-              "RelativeToolTip": "10.IteratorsAndComparators\\ListyIterator\\ListyIterator.cs",
-              "ViewState": "AgIAAB8AAAAA5P/////1vzAAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\CustomStack\\Program.cs",
+              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\CustomStack\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\CustomStack\\Program.cs",
+              "RelativeToolTip": "10.IteratorsAndComparators\\CustomStack\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADgvzgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T09:06:06.014Z",
+              "WhenOpened": "2024-10-12T09:55:11.341Z",
               "EditorCaption": ""
             }
           ]
