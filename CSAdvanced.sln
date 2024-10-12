@@ -223,6 +223,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10.IteratorsAndComparators"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorsAndComparators", "10.IteratorsAndComparators\IteratorsAndComparators\IteratorsAndComparators.csproj", "{6E7768D4-A872-4CCA-8428-5922C50BFA27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListyIterator", "10.IteratorsAndComparators\ListyIterator\ListyIterator.csproj", "{CB330DCF-31C8-4FB5-8A46-E07F6D8785BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -629,6 +631,10 @@ Global
 		{6E7768D4-A872-4CCA-8428-5922C50BFA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E7768D4-A872-4CCA-8428-5922C50BFA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E7768D4-A872-4CCA-8428-5922C50BFA27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB330DCF-31C8-4FB5-8A46-E07F6D8785BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB330DCF-31C8-4FB5-8A46-E07F6D8785BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB330DCF-31C8-4FB5-8A46-E07F6D8785BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB330DCF-31C8-4FB5-8A46-E07F6D8785BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -734,6 +740,7 @@ Global
 		{6246C167-7B72-41F6-AD2E-60FBF1601B76} = {08460E48-293E-4447-A68D-E4E9C917245D}
 		{73D25A05-F1DE-4E58-9A17-122AD4950EC7} = {08460E48-293E-4447-A68D-E4E9C917245D}
 		{6E7768D4-A872-4CCA-8428-5922C50BFA27} = {BF3ABD35-1041-4D20-B33F-51584A863466}
+		{CB330DCF-31C8-4FB5-8A46-E07F6D8785BE} = {BF3ABD35-1041-4D20-B33F-51584A863466}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65C1283D-830D-40CC-8FAB-35D061333BAA}
