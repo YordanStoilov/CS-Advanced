@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F55BAFB1-ABDD-488B-8E5D-F347CD085553}|10.IteratorsAndComparators\\ComparingObjects\\ComparingObjects.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\comparingobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F55BAFB1-ABDD-488B-8E5D-F347CD085553}|10.IteratorsAndComparators\\ComparingObjects\\ComparingObjects.csproj|solutionrelative:10.iteratorsandcomparators\\comparingobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9364DD8A-AB29-40D4-A29B-8D4C5AB94809}|10.IteratorsAndComparators\\CustomComparator\\CustomComparator.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\customcomparator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9364DD8A-AB29-40D4-A29B-8D4C5AB94809}|10.IteratorsAndComparators\\CustomComparator\\CustomComparator.csproj|solutionrelative:10.iteratorsandcomparators\\customcomparator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F55BAFB1-ABDD-488B-8E5D-F347CD085553}|10.IteratorsAndComparators\\ComparingObjects\\ComparingObjects.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\comparingobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F55BAFB1-ABDD-488B-8E5D-F347CD085553}|10.IteratorsAndComparators\\ComparingObjects\\ComparingObjects.csproj|solutionrelative:10.iteratorsandcomparators\\comparingobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9364DD8A-AB29-40D4-A29B-8D4C5AB94809}|10.IteratorsAndComparators\\CustomComparator\\CustomComparator.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\customcomparator\\numberscomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9364DD8A-AB29-40D4-A29B-8D4C5AB94809}|10.IteratorsAndComparators\\CustomComparator\\CustomComparator.csproj|solutionrelative:10.iteratorsandcomparators\\customcomparator\\numberscomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Person.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\ComparingObjects\\Person.cs",
-              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\ComparingObjects\\Person.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\ComparingObjects\\Person.cs",
-              "RelativeToolTip": "10.IteratorsAndComparators\\ComparingObjects\\Person.cs",
-              "ViewState": "AgIAAAsAAAAAmpmZmdktwB4AAAAvAAAAAAAAAA==",
+              "Title": "NumbersComparator.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\CustomComparator\\NumbersComparator.cs",
+              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\CustomComparator\\NumbersComparator.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\CustomComparator\\NumbersComparator.cs",
+              "RelativeToolTip": "10.IteratorsAndComparators\\CustomComparator\\NumbersComparator.cs",
+              "ViewState": "AgIAAAsAAABgmpmZmZkiwBsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T11:10:21.27Z",
+              "WhenOpened": "2024-10-12T12:50:55.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\ComparingObjects\\Program.cs",
-              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\ComparingObjects\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\ComparingObjects\\Program.cs",
-              "RelativeToolTip": "10.IteratorsAndComparators\\ComparingObjects\\Program.cs",
-              "ViewState": "AgIAACQAAAAANzMzMzMOwCwAAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\CustomComparator\\Program.cs",
+              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\CustomComparator\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\CustomComparator\\Program.cs",
+              "RelativeToolTip": "10.IteratorsAndComparators\\CustomComparator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T11:07:50.396Z",
+              "WhenOpened": "2024-10-12T11:46:04.413Z",
               "EditorCaption": ""
             }
           ]

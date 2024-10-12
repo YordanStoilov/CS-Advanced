@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CitiesByContinentAndCount")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b035310588c8fb953b34b7db108cb201c942992")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91a57b949b0c17de94e9672252a77afec31bf2a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CitiesByContinentAndCount")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CitiesByContinentAndCount")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

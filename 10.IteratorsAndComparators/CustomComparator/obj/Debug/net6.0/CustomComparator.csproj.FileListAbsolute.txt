@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\CustomComparator\bin\Debug\net6.0\CustomComparator.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\CustomComparator\bin\Debug\net6.0\CustomComparator.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\CustomComparator\bin\Debug\net6.0\CustomComparator.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\CustomComparator\bin\Debug\net6.0\CustomComparator.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\CustomComparator\bin\Debug\net6.0\CustomComparator.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\CustomComparator\obj\Debug\net6.0\CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\CustomComparator\obj\Debug\net6.0\CustomComparator.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\CustomComparator\obj\Debug\net6.0\CustomComparator.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\CustomComparator\obj\Debug\net6.0\CustomComparator.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\CustomComparator\obj\Debug\net6.0\CustomComparator.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\CustomComparator\obj\Debug\net6.0\CustomComparator.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\CustomComparator\obj\Debug\net6.0\refint\CustomComparator.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\CustomComparator\obj\Debug\net6.0\CustomComparator.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\CustomComparator\obj\Debug\net6.0\CustomComparator.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\CustomComparator\obj\Debug\net6.0\ref\CustomComparator.dll
