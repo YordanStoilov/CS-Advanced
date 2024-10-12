@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB330DCF-31C8-4FB5-8A46-E07F6D8785BE}|10.IteratorsAndComparators\\ListyIterator\\ListyIterator.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\listyiterator\\listyiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB330DCF-31C8-4FB5-8A46-E07F6D8785BE}|10.IteratorsAndComparators\\ListyIterator\\ListyIterator.csproj|solutionrelative:10.iteratorsandcomparators\\listyiterator\\listyiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB330DCF-31C8-4FB5-8A46-E07F6D8785BE}|10.IteratorsAndComparators\\ListyIterator\\ListyIterator.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\listyiterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB330DCF-31C8-4FB5-8A46-E07F6D8785BE}|10.IteratorsAndComparators\\ListyIterator\\ListyIterator.csproj|solutionrelative:10.iteratorsandcomparators\\listyiterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB330DCF-31C8-4FB5-8A46-E07F6D8785BE}|10.IteratorsAndComparators\\ListyIterator\\ListyIterator.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\listyiterator\\listyiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB330DCF-31C8-4FB5-8A46-E07F6D8785BE}|10.IteratorsAndComparators\\ListyIterator\\ListyIterator.csproj|solutionrelative:10.iteratorsandcomparators\\listyiterator\\listyiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ListyIterator.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\ListyIterator\\ListyIterator.cs",
-              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\ListyIterator\\ListyIterator.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\ListyIterator\\ListyIterator.cs",
-              "RelativeToolTip": "10.IteratorsAndComparators\\ListyIterator\\ListyIterator.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAIAwwB4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T08:27:46.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\ListyIterator\\Program.cs",
               "RelativeDocumentMoniker": "10.IteratorsAndComparators\\ListyIterator\\Program.cs",
               "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\ListyIterator\\Program.cs",
               "RelativeToolTip": "10.IteratorsAndComparators\\ListyIterator\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAD4vyYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAADgZmZmZiYowCoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T08:27:18.927Z",
+              "WhenOpened": "2024-10-12T09:06:13.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListyIterator.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\ListyIterator\\ListyIterator.cs",
+              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\ListyIterator\\ListyIterator.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\ListyIterator\\ListyIterator.cs",
+              "RelativeToolTip": "10.IteratorsAndComparators\\ListyIterator\\ListyIterator.cs",
+              "ViewState": "AgIAAB8AAAAA5P/////1vzAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:06:06.014Z",
               "EditorCaption": ""
             }
           ]

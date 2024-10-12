@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ListyIterator;
-public class ListyIterator<T>
+public class ListyIterator<T> : IEnumerable<T>
 {
     public List<T> Contents { get; set; }
     public int Index { get; set; }
@@ -42,5 +42,23 @@ public class ListyIterator<T>
         {
             Console.WriteLine(Contents[Index]);
         }
+    }
+
+    public void PrintAll()
+    {
+        Console.WriteLine(string.Join(" ", Contents));
+    }
+
+    public IEnumerator<T> GetEnumerator()
+    {
+        for (int i = 0; i < Contents.Count; i++)
+        {
+            yield return Contents[i];
+        }
+    }
+
+    IEnumerator IEnumerable.GetEnumerator()
+    {
+        return GetEnumerator();
     }
 }
