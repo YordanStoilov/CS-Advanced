@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\ComparingObjects\bin\Debug\net6.0\ComparingObjects.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\ComparingObjects\bin\Debug\net6.0\ComparingObjects.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\ComparingObjects\bin\Debug\net6.0\ComparingObjects.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\ComparingObjects\bin\Debug\net6.0\ComparingObjects.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\ComparingObjects\bin\Debug\net6.0\ComparingObjects.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\ComparingObjects\obj\Debug\net6.0\ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\ComparingObjects\obj\Debug\net6.0\ComparingObjects.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\ComparingObjects\obj\Debug\net6.0\ComparingObjects.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\ComparingObjects\obj\Debug\net6.0\ComparingObjects.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\ComparingObjects\obj\Debug\net6.0\ComparingObjects.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\ComparingObjects\obj\Debug\net6.0\ComparingObjects.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\ComparingObjects\obj\Debug\net6.0\refint\ComparingObjects.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\ComparingObjects\obj\Debug\net6.0\ComparingObjects.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\ComparingObjects\obj\Debug\net6.0\ComparingObjects.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\10.IteratorsAndComparators\ComparingObjects\obj\Debug\net6.0\ref\ComparingObjects.dll
