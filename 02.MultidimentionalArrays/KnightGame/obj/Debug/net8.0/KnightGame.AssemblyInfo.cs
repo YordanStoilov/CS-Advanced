@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KnightGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad0e7b692de376e19cca520d52aa608858e4cd30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22df011986019e4c5a539ca0ba8ad7b8022b217f")]
 [assembly: System.Reflection.AssemblyProductAttribute("KnightGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KnightGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

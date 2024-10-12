@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2904B72-3C34-497D-8EE2-69254E990CA7}|10.IteratorsAndComparators\\CustomStack\\CustomStack.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\customstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2904B72-3C34-497D-8EE2-69254E990CA7}|10.IteratorsAndComparators\\CustomStack\\CustomStack.csproj|solutionrelative:10.iteratorsandcomparators\\customstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{948499A3-D98C-4083-8441-A5E5B1515FF1}|10.IteratorsAndComparators\\Froggy\\Froggy.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\froggy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948499A3-D98C-4083-8441-A5E5B1515FF1}|10.IteratorsAndComparators\\Froggy\\Froggy.csproj|solutionrelative:10.iteratorsandcomparators\\froggy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2904B72-3C34-497D-8EE2-69254E990CA7}|10.IteratorsAndComparators\\CustomStack\\CustomStack.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\customstack\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2904B72-3C34-497D-8EE2-69254E990CA7}|10.IteratorsAndComparators\\CustomStack\\CustomStack.csproj|solutionrelative:10.iteratorsandcomparators\\customstack\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{948499A3-D98C-4083-8441-A5E5B1515FF1}|10.IteratorsAndComparators\\Froggy\\Froggy.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\10.iteratorsandcomparators\\froggy\\lake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948499A3-D98C-4083-8441-A5E5B1515FF1}|10.IteratorsAndComparators\\Froggy\\Froggy.csproj|solutionrelative:10.iteratorsandcomparators\\froggy\\lake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CustomStack.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\CustomStack\\CustomStack.cs",
-              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\CustomStack\\CustomStack.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\CustomStack\\CustomStack.cs",
-              "RelativeToolTip": "10.IteratorsAndComparators\\CustomStack\\CustomStack.cs",
-              "ViewState": "AgIAABgAAADAlpmZmdkhwCYAAAAiAAAAAAAAAA==",
+              "Title": "Lake.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\Froggy\\Lake.cs",
+              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\Froggy\\Lake.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\Froggy\\Lake.cs",
+              "RelativeToolTip": "10.IteratorsAndComparators\\Froggy\\Lake.cs",
+              "ViewState": "AgIAABEAAABgaGZmZqYnwBoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T09:56:47.647Z",
+              "WhenOpened": "2024-10-12T10:47:42.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\CustomStack\\Program.cs",
-              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\CustomStack\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\CustomStack\\Program.cs",
-              "RelativeToolTip": "10.IteratorsAndComparators\\CustomStack\\Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAADgvzgAAAAEAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\Froggy\\Program.cs",
+              "RelativeDocumentMoniker": "10.IteratorsAndComparators\\Froggy\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\10.IteratorsAndComparators\\Froggy\\Program.cs",
+              "RelativeToolTip": "10.IteratorsAndComparators\\Froggy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T09:55:11.341Z",
+              "WhenOpened": "2024-10-12T10:38:01.72Z",
               "EditorCaption": ""
             }
           ]
