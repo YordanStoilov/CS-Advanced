@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumMatrixElements")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef4674a7b5684c5405e2ec304ebbcf780b4b6566")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e621d7b62aef1945fec851b6e26c8c8e79636ee7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumMatrixElements")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumMatrixElements")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

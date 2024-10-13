@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\Offroad\bin\Debug\net6.0\Offroad.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\Offroad\bin\Debug\net6.0\Offroad.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\Offroad\bin\Debug\net6.0\Offroad.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\Offroad\bin\Debug\net6.0\Offroad.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\Offroad\bin\Debug\net6.0\Offroad.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\Offroad\obj\Debug\net6.0\Offroad.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\Offroad\obj\Debug\net6.0\Offroad.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\Offroad\obj\Debug\net6.0\Offroad.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\Offroad\obj\Debug\net6.0\Offroad.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\Offroad\obj\Debug\net6.0\Offroad.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\Offroad\obj\Debug\net6.0\Offroad.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\Offroad\obj\Debug\net6.0\refint\Offroad.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\Offroad\obj\Debug\net6.0\Offroad.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\Offroad\obj\Debug\net6.0\Offroad.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\Offroad\obj\Debug\net6.0\ref\Offroad.dll

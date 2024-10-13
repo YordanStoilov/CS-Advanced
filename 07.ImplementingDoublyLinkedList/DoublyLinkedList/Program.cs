@@ -9,6 +9,9 @@ public class Program
         list.AddFirst(1);
         list.AddFirst(2);
         list.AddFirst(3);
+        list.AddLast(4);
+        list.RemoveFirst();
+        list.RemoveLast();
 
         foreach (int i in list)
             Console.WriteLine(i);
