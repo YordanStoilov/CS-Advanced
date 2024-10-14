@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\TempleOfDoom\bin\Debug\net6.0\TempleOfDoom.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\TempleOfDoom\bin\Debug\net6.0\TempleOfDoom.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\TempleOfDoom\bin\Debug\net6.0\TempleOfDoom.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\TempleOfDoom\bin\Debug\net6.0\TempleOfDoom.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\TempleOfDoom\bin\Debug\net6.0\TempleOfDoom.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\TempleOfDoom\obj\Debug\net6.0\TempleOfDoom.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\TempleOfDoom\obj\Debug\net6.0\TempleOfDoom.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\TempleOfDoom\obj\Debug\net6.0\TempleOfDoom.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\TempleOfDoom\obj\Debug\net6.0\TempleOfDoom.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\TempleOfDoom\obj\Debug\net6.0\TempleOfDoom.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\TempleOfDoom\obj\Debug\net6.0\TempleOfDoom.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\TempleOfDoom\obj\Debug\net6.0\refint\TempleOfDoom.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\TempleOfDoom\obj\Debug\net6.0\TempleOfDoom.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\TempleOfDoom\obj\Debug\net6.0\TempleOfDoom.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\TempleOfDoom\obj\Debug\net6.0\ref\TempleOfDoom.dll
