@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8740F74B-2B03-4C85-8523-5C10C2F71090}|11.ExamPreparation\\FishingCompetition\\FishingCompetition.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\11.exampreparation\\fishingcompetition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8740F74B-2B03-4C85-8523-5C10C2F71090}|11.ExamPreparation\\FishingCompetition\\FishingCompetition.csproj|solutionrelative:11.exampreparation\\fishingcompetition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DED27DC1-EF87-4CEB-AE46-A9EDEA31E712}|11.ExamPreparation\\MailClient\\MailClient.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\11.exampreparation\\mailclient\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED27DC1-EF87-4CEB-AE46-A9EDEA31E712}|11.ExamPreparation\\MailClient\\MailClient.csproj|solutionrelative:11.exampreparation\\mailclient\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED27DC1-EF87-4CEB-AE46-A9EDEA31E712}|11.ExamPreparation\\MailClient\\MailClient.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\11.exampreparation\\mailclient\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED27DC1-EF87-4CEB-AE46-A9EDEA31E712}|11.ExamPreparation\\MailClient\\MailClient.csproj|solutionrelative:11.exampreparation\\mailclient\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED27DC1-EF87-4CEB-AE46-A9EDEA31E712}|11.ExamPreparation\\MailClient\\MailClient.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\11.exampreparation\\mailclient\\mailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED27DC1-EF87-4CEB-AE46-A9EDEA31E712}|11.ExamPreparation\\MailClient\\MailClient.csproj|solutionrelative:11.exampreparation\\mailclient\\mailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mail.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\11.ExamPreparation\\MailClient\\Mail.cs",
+              "RelativeDocumentMoniker": "11.ExamPreparation\\MailClient\\Mail.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\11.ExamPreparation\\MailClient\\Mail.cs",
+              "RelativeToolTip": "11.ExamPreparation\\MailClient\\Mail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:48:06.792Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\11.ExamPreparation\\FishingCompetition\\Program.cs",
-              "RelativeDocumentMoniker": "11.ExamPreparation\\FishingCompetition\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\11.ExamPreparation\\FishingCompetition\\Program.cs",
-              "RelativeToolTip": "11.ExamPreparation\\FishingCompetition\\Program.cs",
-              "ViewState": "AgIAAEQAAAAAOzMzM7MSwE0AAAASAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MailBox.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\11.ExamPreparation\\MailClient\\MailBox.cs",
+              "RelativeDocumentMoniker": "11.ExamPreparation\\MailClient\\MailBox.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\11.ExamPreparation\\MailClient\\MailBox.cs",
+              "RelativeToolTip": "11.ExamPreparation\\MailClient\\MailBox.cs",
+              "ViewState": "AgIAACEAAADAmZmZmVkkwDMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:20:54.924Z",
+              "WhenOpened": "2024-10-14T10:48:42.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\11.ExamPreparation\\MailClient\\StartUp.cs",
+              "RelativeDocumentMoniker": "11.ExamPreparation\\MailClient\\StartUp.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\11.ExamPreparation\\MailClient\\StartUp.cs",
+              "RelativeToolTip": "11.ExamPreparation\\MailClient\\StartUp.cs",
+              "ViewState": "AgIAACQAAADgZWZmZmYswBgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:47:26.232Z",
               "EditorCaption": ""
             }
           ]

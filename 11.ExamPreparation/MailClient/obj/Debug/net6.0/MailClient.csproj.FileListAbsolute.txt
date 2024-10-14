@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\MailClient\bin\Debug\net6.0\MailClient.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\MailClient\bin\Debug\net6.0\MailClient.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\MailClient\bin\Debug\net6.0\MailClient.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\MailClient\bin\Debug\net6.0\MailClient.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\MailClient\bin\Debug\net6.0\MailClient.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\MailClient\obj\Debug\net6.0\MailClient.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\MailClient\obj\Debug\net6.0\MailClient.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\MailClient\obj\Debug\net6.0\MailClient.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\MailClient\obj\Debug\net6.0\MailClient.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\MailClient\obj\Debug\net6.0\MailClient.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\MailClient\obj\Debug\net6.0\MailClient.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\MailClient\obj\Debug\net6.0\refint\MailClient.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\MailClient\obj\Debug\net6.0\MailClient.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\MailClient\obj\Debug\net6.0\MailClient.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\MailClient\obj\Debug\net6.0\ref\MailClient.dll
