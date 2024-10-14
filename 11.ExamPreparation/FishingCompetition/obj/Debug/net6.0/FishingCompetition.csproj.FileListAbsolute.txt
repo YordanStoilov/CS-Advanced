@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\FishingCompetition\bin\Debug\net6.0\FishingCompetition.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\FishingCompetition\bin\Debug\net6.0\FishingCompetition.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\FishingCompetition\bin\Debug\net6.0\FishingCompetition.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\FishingCompetition\bin\Debug\net6.0\FishingCompetition.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\FishingCompetition\bin\Debug\net6.0\FishingCompetition.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\FishingCompetition\obj\Debug\net6.0\FishingCompetition.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\FishingCompetition\obj\Debug\net6.0\FishingCompetition.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\FishingCompetition\obj\Debug\net6.0\FishingCompetition.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\FishingCompetition\obj\Debug\net6.0\FishingCompetition.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\FishingCompetition\obj\Debug\net6.0\FishingCompetition.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\FishingCompetition\obj\Debug\net6.0\FishingCompetition.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\FishingCompetition\obj\Debug\net6.0\refint\FishingCompetition.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\FishingCompetition\obj\Debug\net6.0\FishingCompetition.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\FishingCompetition\obj\Debug\net6.0\FishingCompetition.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\11.ExamPreparation\FishingCompetition\obj\Debug\net6.0\ref\FishingCompetition.dll
