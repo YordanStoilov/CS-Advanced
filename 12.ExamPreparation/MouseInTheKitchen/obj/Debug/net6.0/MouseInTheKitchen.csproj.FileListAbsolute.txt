@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\MouseInTheKitchen\bin\Debug\net6.0\MouseInTheKitchen.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\MouseInTheKitchen\bin\Debug\net6.0\MouseInTheKitchen.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\MouseInTheKitchen\bin\Debug\net6.0\MouseInTheKitchen.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\MouseInTheKitchen\bin\Debug\net6.0\MouseInTheKitchen.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\MouseInTheKitchen\bin\Debug\net6.0\MouseInTheKitchen.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\MouseInTheKitchen\obj\Debug\net6.0\refint\MouseInTheKitchen.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\12.ExamPreparation\MouseInTheKitchen\obj\Debug\net6.0\ref\MouseInTheKitchen.dll

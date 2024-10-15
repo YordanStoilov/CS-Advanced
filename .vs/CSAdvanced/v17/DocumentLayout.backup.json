@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB2F11DE-82B2-4CF4-8254-27E78434EE25}|12.ExamPreparation\\TempleOfDoom\\TempleOfDoom.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\12.exampreparation\\templeofdoom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB2F11DE-82B2-4CF4-8254-27E78434EE25}|12.ExamPreparation\\TempleOfDoom\\TempleOfDoom.csproj|solutionrelative:12.exampreparation\\templeofdoom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DED27DC1-EF87-4CEB-AE46-A9EDEA31E712}|11.ExamPreparation\\MailClient\\MailClient.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\11.exampreparation\\mailclient\\mailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DED27DC1-EF87-4CEB-AE46-A9EDEA31E712}|11.ExamPreparation\\MailClient\\MailClient.csproj|solutionrelative:11.exampreparation\\mailclient\\mailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DED27DC1-EF87-4CEB-AE46-A9EDEA31E712}|11.ExamPreparation\\MailClient\\MailClient.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\11.exampreparation\\mailclient\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DED27DC1-EF87-4CEB-AE46-A9EDEA31E712}|11.ExamPreparation\\MailClient\\MailClient.csproj|solutionrelative:11.exampreparation\\mailclient\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DED27DC1-EF87-4CEB-AE46-A9EDEA31E712}|11.ExamPreparation\\MailClient\\MailClient.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\11.exampreparation\\mailclient\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DED27DC1-EF87-4CEB-AE46-A9EDEA31E712}|11.ExamPreparation\\MailClient\\MailClient.csproj|solutionrelative:11.exampreparation\\mailclient\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88587BA4-13EC-4FD1-9EE3-FAEA79E0FB92}|12.ExamPreparation\\MouseInTheKitchen\\MouseInTheKitchen.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\12.exampreparation\\mouseinthekitchen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88587BA4-13EC-4FD1-9EE3-FAEA79E0FB92}|12.ExamPreparation\\MouseInTheKitchen\\MouseInTheKitchen.csproj|solutionrelative:12.exampreparation\\mouseinthekitchen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,52 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\TempleOfDoom\\Program.cs",
-              "RelativeDocumentMoniker": "12.ExamPreparation\\TempleOfDoom\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\TempleOfDoom\\Program.cs",
-              "RelativeToolTip": "12.ExamPreparation\\TempleOfDoom\\Program.cs",
-              "ViewState": "AgIAABcAAAAAZGZmZmb8vx4AAAAhAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\MouseInTheKitchen\\Program.cs",
+              "RelativeDocumentMoniker": "12.ExamPreparation\\MouseInTheKitchen\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\MouseInTheKitchen\\Program.cs",
+              "RelativeToolTip": "12.ExamPreparation\\MouseInTheKitchen\\Program.cs",
+              "ViewState": "AgIAAEIAAAAA/v////8uwFAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:49:22.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Mail.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\11.ExamPreparation\\MailClient\\Mail.cs",
-              "RelativeDocumentMoniker": "11.ExamPreparation\\MailClient\\Mail.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\11.ExamPreparation\\MailClient\\Mail.cs",
-              "RelativeToolTip": "11.ExamPreparation\\MailClient\\Mail.cs",
-              "ViewState": "AgIAAAYAAADg/////x81wBgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:48:06.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MailBox.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\11.ExamPreparation\\MailClient\\MailBox.cs",
-              "RelativeDocumentMoniker": "11.ExamPreparation\\MailClient\\MailBox.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\11.ExamPreparation\\MailClient\\MailBox.cs",
-              "RelativeToolTip": "11.ExamPreparation\\MailClient\\MailBox.cs",
-              "ViewState": "AgIAAB8AAADAZWZmZuYqwDcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:48:42.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\11.ExamPreparation\\MailClient\\StartUp.cs",
-              "RelativeDocumentMoniker": "11.ExamPreparation\\MailClient\\StartUp.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\11.ExamPreparation\\MailClient\\StartUp.cs",
-              "RelativeToolTip": "11.ExamPreparation\\MailClient\\StartUp.cs",
-              "ViewState": "AgIAACQAAADgZWZmZmYswDMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:47:26.232Z",
+              "WhenOpened": "2024-10-14T12:22:29.484Z",
               "EditorCaption": ""
             }
           ]
