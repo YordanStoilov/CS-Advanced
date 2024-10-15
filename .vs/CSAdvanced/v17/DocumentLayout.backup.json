@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75B1AF23-A565-4D35-8FEB-FBA0A7C2EE58}|13.ExamPreparation\\ClearSkies\\ClearSkies.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\13.exampreparation\\clearskies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75B1AF23-A565-4D35-8FEB-FBA0A7C2EE58}|13.ExamPreparation\\ClearSkies\\ClearSkies.csproj|solutionrelative:13.exampreparation\\clearskies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEB04897-ECDC-42B2-AA78-67D01E11E39C}|13.ExamPreparation\\SharkTaxonomy\\SharkTaxonomy.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\13.exampreparation\\sharktaxonomy\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB04897-ECDC-42B2-AA78-67D01E11E39C}|13.ExamPreparation\\SharkTaxonomy\\SharkTaxonomy.csproj|solutionrelative:13.exampreparation\\sharktaxonomy\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE4559CC-B8B2-4713-BECF-BD3F8BF22FE3}|13.ExamPreparation\\ChickenSnack\\ChickenSnack.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\13.exampreparation\\chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE4559CC-B8B2-4713-BECF-BD3F8BF22FE3}|13.ExamPreparation\\ChickenSnack\\ChickenSnack.csproj|solutionrelative:13.exampreparation\\chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEB04897-ECDC-42B2-AA78-67D01E11E39C}|13.ExamPreparation\\SharkTaxonomy\\SharkTaxonomy.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\13.exampreparation\\sharktaxonomy\\classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB04897-ECDC-42B2-AA78-67D01E11E39C}|13.ExamPreparation\\SharkTaxonomy\\SharkTaxonomy.csproj|solutionrelative:13.exampreparation\\sharktaxonomy\\classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90BC125E-236A-4461-9415-9AA1FECCD463}|12.ExamPreparation\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\12.exampreparation\\automotiverepairshop\\repairshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90BC125E-236A-4461-9415-9AA1FECCD463}|12.ExamPreparation\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj|solutionrelative:12.exampreparation\\automotiverepairshop\\repairshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90BC125E-236A-4461-9415-9AA1FECCD463}|12.ExamPreparation\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\12.exampreparation\\automotiverepairshop\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90BC125E-236A-4461-9415-9AA1FECCD463}|12.ExamPreparation\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj|solutionrelative:12.exampreparation\\automotiverepairshop\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90BC125E-236A-4461-9415-9AA1FECCD463}|12.ExamPreparation\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\12.exampreparation\\automotiverepairshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90BC125E-236A-4461-9415-9AA1FECCD463}|12.ExamPreparation\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj|solutionrelative:12.exampreparation\\automotiverepairshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEB04897-ECDC-42B2-AA78-67D01E11E39C}|13.ExamPreparation\\SharkTaxonomy\\SharkTaxonomy.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\13.exampreparation\\sharktaxonomy\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB04897-ECDC-42B2-AA78-67D01E11E39C}|13.ExamPreparation\\SharkTaxonomy\\SharkTaxonomy.csproj|solutionrelative:13.exampreparation\\sharktaxonomy\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\ClearSkies\\Program.cs",
-              "RelativeDocumentMoniker": "13.ExamPreparation\\ClearSkies\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\ClearSkies\\Program.cs",
-              "RelativeToolTip": "13.ExamPreparation\\ClearSkies\\Program.cs",
-              "ViewState": "AgIAAEsAAAAAcmZmZmYEwF0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T13:24:01.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\ChickenSnack\\Program.cs",
-              "RelativeDocumentMoniker": "13.ExamPreparation\\ChickenSnack\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\ChickenSnack\\Program.cs",
-              "RelativeToolTip": "13.ExamPreparation\\ChickenSnack\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Title": "Classifier.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\SharkTaxonomy\\Classifier.cs",
+              "RelativeDocumentMoniker": "13.ExamPreparation\\SharkTaxonomy\\Classifier.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\SharkTaxonomy\\Classifier.cs",
+              "RelativeToolTip": "13.ExamPreparation\\SharkTaxonomy\\Classifier.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T12:53:12.014Z",
+              "WhenOpened": "2024-10-15T14:17:45.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RepairShop.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\AutomotiveRepairShop\\RepairShop.cs",
-              "RelativeDocumentMoniker": "12.ExamPreparation\\AutomotiveRepairShop\\RepairShop.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\AutomotiveRepairShop\\RepairShop.cs",
-              "RelativeToolTip": "12.ExamPreparation\\AutomotiveRepairShop\\RepairShop.cs",
-              "ViewState": "AgIAACUAAAAAOTMzMzMbwDIAAAAJAAAAAAAAAA==",
+              "Title": "Shark.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\SharkTaxonomy\\Shark.cs",
+              "RelativeDocumentMoniker": "13.ExamPreparation\\SharkTaxonomy\\Shark.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\SharkTaxonomy\\Shark.cs",
+              "RelativeToolTip": "13.ExamPreparation\\SharkTaxonomy\\Shark.cs",
+              "ViewState": "AgIAAAcAAACgAAAAACAzwB0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T12:05:45.2Z",
+              "WhenOpened": "2024-10-15T14:18:07.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\AutomotiveRepairShop\\Vehicle.cs",
-              "RelativeDocumentMoniker": "12.ExamPreparation\\AutomotiveRepairShop\\Vehicle.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\AutomotiveRepairShop\\Vehicle.cs",
-              "RelativeToolTip": "12.ExamPreparation\\AutomotiveRepairShop\\Vehicle.cs",
-              "ViewState": "AgIAAAMAAAAAZmZmZmYEwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T12:05:08.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "StartUp.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\AutomotiveRepairShop\\StartUp.cs",
-              "RelativeDocumentMoniker": "12.ExamPreparation\\AutomotiveRepairShop\\StartUp.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\AutomotiveRepairShop\\StartUp.cs",
-              "RelativeToolTip": "12.ExamPreparation\\AutomotiveRepairShop\\StartUp.cs",
-              "ViewState": "AgIAACsAAADANDMzM1MwwD0AAAABAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\SharkTaxonomy\\StartUp.cs",
+              "RelativeDocumentMoniker": "13.ExamPreparation\\SharkTaxonomy\\StartUp.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\SharkTaxonomy\\StartUp.cs",
+              "RelativeToolTip": "13.ExamPreparation\\SharkTaxonomy\\StartUp.cs",
+              "ViewState": "AgIAAAUAAACALzMzMzMiwBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T12:04:08.64Z",
+              "WhenOpened": "2024-10-15T14:17:17.858Z",
               "EditorCaption": ""
             }
           ]
