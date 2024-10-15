@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ClearSkies\bin\Debug\net6.0\ClearSkies.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ClearSkies\bin\Debug\net6.0\ClearSkies.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ClearSkies\bin\Debug\net6.0\ClearSkies.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ClearSkies\bin\Debug\net6.0\ClearSkies.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ClearSkies\bin\Debug\net6.0\ClearSkies.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ClearSkies\obj\Debug\net6.0\ClearSkies.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ClearSkies\obj\Debug\net6.0\ClearSkies.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ClearSkies\obj\Debug\net6.0\ClearSkies.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ClearSkies\obj\Debug\net6.0\ClearSkies.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ClearSkies\obj\Debug\net6.0\ClearSkies.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ClearSkies\obj\Debug\net6.0\ClearSkies.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ClearSkies\obj\Debug\net6.0\refint\ClearSkies.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ClearSkies\obj\Debug\net6.0\ClearSkies.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ClearSkies\obj\Debug\net6.0\ClearSkies.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ClearSkies\obj\Debug\net6.0\ref\ClearSkies.dll

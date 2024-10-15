@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75B1AF23-A565-4D35-8FEB-FBA0A7C2EE58}|13.ExamPreparation\\ClearSkies\\ClearSkies.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\13.exampreparation\\clearskies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B1AF23-A565-4D35-8FEB-FBA0A7C2EE58}|13.ExamPreparation\\ClearSkies\\ClearSkies.csproj|solutionrelative:13.exampreparation\\clearskies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE4559CC-B8B2-4713-BECF-BD3F8BF22FE3}|13.ExamPreparation\\ChickenSnack\\ChickenSnack.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\13.exampreparation\\chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE4559CC-B8B2-4713-BECF-BD3F8BF22FE3}|13.ExamPreparation\\ChickenSnack\\ChickenSnack.csproj|solutionrelative:13.exampreparation\\chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,18 +40,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\ClearSkies\\Program.cs",
+              "RelativeDocumentMoniker": "13.ExamPreparation\\ClearSkies\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\ClearSkies\\Program.cs",
+              "RelativeToolTip": "13.ExamPreparation\\ClearSkies\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAcmZmZmYEwF0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:24:01.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\ChickenSnack\\Program.cs",
               "RelativeDocumentMoniker": "13.ExamPreparation\\ChickenSnack\\Program.cs",
               "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\ChickenSnack\\Program.cs",
               "RelativeToolTip": "13.ExamPreparation\\ChickenSnack\\Program.cs",
-              "ViewState": "AgIAACAAAACAMzMzMzMVwC4AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T12:53:12.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RepairShop.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\AutomotiveRepairShop\\RepairShop.cs",
               "RelativeDocumentMoniker": "12.ExamPreparation\\AutomotiveRepairShop\\RepairShop.cs",
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\AutomotiveRepairShop\\Vehicle.cs",
               "RelativeDocumentMoniker": "12.ExamPreparation\\AutomotiveRepairShop\\Vehicle.cs",
@@ -73,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StartUp.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\AutomotiveRepairShop\\StartUp.cs",
               "RelativeDocumentMoniker": "12.ExamPreparation\\AutomotiveRepairShop\\StartUp.cs",
