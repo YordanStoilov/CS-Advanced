@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88587BA4-13EC-4FD1-9EE3-FAEA79E0FB92}|12.ExamPreparation\\MouseInTheKitchen\\MouseInTheKitchen.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\12.exampreparation\\mouseinthekitchen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88587BA4-13EC-4FD1-9EE3-FAEA79E0FB92}|12.ExamPreparation\\MouseInTheKitchen\\MouseInTheKitchen.csproj|solutionrelative:12.exampreparation\\mouseinthekitchen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90BC125E-236A-4461-9415-9AA1FECCD463}|12.ExamPreparation\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\12.exampreparation\\automotiverepairshop\\repairshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BC125E-236A-4461-9415-9AA1FECCD463}|12.ExamPreparation\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj|solutionrelative:12.exampreparation\\automotiverepairshop\\repairshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BC125E-236A-4461-9415-9AA1FECCD463}|12.ExamPreparation\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\12.exampreparation\\automotiverepairshop\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BC125E-236A-4461-9415-9AA1FECCD463}|12.ExamPreparation\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj|solutionrelative:12.exampreparation\\automotiverepairshop\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BC125E-236A-4461-9415-9AA1FECCD463}|12.ExamPreparation\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\12.exampreparation\\automotiverepairshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BC125E-236A-4461-9415-9AA1FECCD463}|12.ExamPreparation\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj|solutionrelative:12.exampreparation\\automotiverepairshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\MouseInTheKitchen\\Program.cs",
-              "RelativeDocumentMoniker": "12.ExamPreparation\\MouseInTheKitchen\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\MouseInTheKitchen\\Program.cs",
-              "RelativeToolTip": "12.ExamPreparation\\MouseInTheKitchen\\Program.cs",
-              "ViewState": "AgIAAEIAAAAA/v////8uwFAAAAAlAAAAAAAAAA==",
+              "Title": "RepairShop.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\AutomotiveRepairShop\\RepairShop.cs",
+              "RelativeDocumentMoniker": "12.ExamPreparation\\AutomotiveRepairShop\\RepairShop.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\AutomotiveRepairShop\\RepairShop.cs",
+              "RelativeToolTip": "12.ExamPreparation\\AutomotiveRepairShop\\RepairShop.cs",
+              "ViewState": "AgIAACUAAAAAOTMzMzMbwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T12:22:29.484Z",
+              "WhenOpened": "2024-10-15T12:05:45.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\AutomotiveRepairShop\\Vehicle.cs",
+              "RelativeDocumentMoniker": "12.ExamPreparation\\AutomotiveRepairShop\\Vehicle.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\AutomotiveRepairShop\\Vehicle.cs",
+              "RelativeToolTip": "12.ExamPreparation\\AutomotiveRepairShop\\Vehicle.cs",
+              "ViewState": "AgIAAAMAAAAAZmZmZmYEwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:05:08.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\AutomotiveRepairShop\\StartUp.cs",
+              "RelativeDocumentMoniker": "12.ExamPreparation\\AutomotiveRepairShop\\StartUp.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\12.ExamPreparation\\AutomotiveRepairShop\\StartUp.cs",
+              "RelativeToolTip": "12.ExamPreparation\\AutomotiveRepairShop\\StartUp.cs",
+              "ViewState": "AgIAACsAAADANDMzM1MwwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:04:08.64Z",
               "EditorCaption": ""
             }
           ]
