@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ChickenSnack\bin\Debug\net6.0\ChickenSnack.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ChickenSnack\bin\Debug\net6.0\ChickenSnack.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ChickenSnack\bin\Debug\net6.0\ChickenSnack.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ChickenSnack\bin\Debug\net6.0\ChickenSnack.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ChickenSnack\bin\Debug\net6.0\ChickenSnack.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ChickenSnack\obj\Debug\net6.0\ChickenSnack.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ChickenSnack\obj\Debug\net6.0\ChickenSnack.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ChickenSnack\obj\Debug\net6.0\ChickenSnack.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ChickenSnack\obj\Debug\net6.0\ChickenSnack.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ChickenSnack\obj\Debug\net6.0\ChickenSnack.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ChickenSnack\obj\Debug\net6.0\ChickenSnack.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ChickenSnack\obj\Debug\net6.0\refint\ChickenSnack.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ChickenSnack\obj\Debug\net6.0\ChickenSnack.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ChickenSnack\obj\Debug\net6.0\ChickenSnack.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\13.ExamPreparation\ChickenSnack\obj\Debug\net6.0\ref\ChickenSnack.dll

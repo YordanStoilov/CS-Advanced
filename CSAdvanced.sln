@@ -251,6 +251,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseInTheKitchen", "12.Exa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomotiveRepairShop", "12.ExamPreparation\AutomotiveRepairShop\AutomotiveRepairShop.csproj", "{90BC125E-236A-4461-9415-9AA1FECCD463}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13.ExamPreparation", "13.ExamPreparation", "{27CE49F3-AC01-47A7-93EA-120C7CE55D63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickenSnack", "13.ExamPreparation\ChickenSnack\ChickenSnack.csproj", "{BE4559CC-B8B2-4713-BECF-BD3F8BF22FE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -705,6 +709,10 @@ Global
 		{90BC125E-236A-4461-9415-9AA1FECCD463}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90BC125E-236A-4461-9415-9AA1FECCD463}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90BC125E-236A-4461-9415-9AA1FECCD463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE4559CC-B8B2-4713-BECF-BD3F8BF22FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4559CC-B8B2-4713-BECF-BD3F8BF22FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4559CC-B8B2-4713-BECF-BD3F8BF22FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4559CC-B8B2-4713-BECF-BD3F8BF22FE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -822,6 +830,7 @@ Global
 		{FB2F11DE-82B2-4CF4-8254-27E78434EE25} = {DC60C2A8-014E-4263-AEC2-A5A90835E8A7}
 		{88587BA4-13EC-4FD1-9EE3-FAEA79E0FB92} = {DC60C2A8-014E-4263-AEC2-A5A90835E8A7}
 		{90BC125E-236A-4461-9415-9AA1FECCD463} = {DC60C2A8-014E-4263-AEC2-A5A90835E8A7}
+		{BE4559CC-B8B2-4713-BECF-BD3F8BF22FE3} = {27CE49F3-AC01-47A7-93EA-120C7CE55D63}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65C1283D-830D-40CC-8FAB-35D061333BAA}
