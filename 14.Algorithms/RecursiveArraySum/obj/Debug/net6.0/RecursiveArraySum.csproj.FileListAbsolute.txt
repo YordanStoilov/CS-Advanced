@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveArraySum\bin\Debug\net6.0\RecursiveArraySum.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveArraySum\bin\Debug\net6.0\RecursiveArraySum.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveArraySum\bin\Debug\net6.0\RecursiveArraySum.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveArraySum\bin\Debug\net6.0\RecursiveArraySum.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveArraySum\bin\Debug\net6.0\RecursiveArraySum.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveArraySum\obj\Debug\net6.0\refint\RecursiveArraySum.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveArraySum\obj\Debug\net6.0\RecursiveArraySum.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveArraySum\obj\Debug\net6.0\ref\RecursiveArraySum.dll

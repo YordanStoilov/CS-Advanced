@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEB04897-ECDC-42B2-AA78-67D01E11E39C}|13.ExamPreparation\\SharkTaxonomy\\SharkTaxonomy.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\13.exampreparation\\sharktaxonomy\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEB04897-ECDC-42B2-AA78-67D01E11E39C}|13.ExamPreparation\\SharkTaxonomy\\SharkTaxonomy.csproj|solutionrelative:13.exampreparation\\sharktaxonomy\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEB04897-ECDC-42B2-AA78-67D01E11E39C}|13.ExamPreparation\\SharkTaxonomy\\SharkTaxonomy.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\13.exampreparation\\sharktaxonomy\\classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEB04897-ECDC-42B2-AA78-67D01E11E39C}|13.ExamPreparation\\SharkTaxonomy\\SharkTaxonomy.csproj|solutionrelative:13.exampreparation\\sharktaxonomy\\classifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEB04897-ECDC-42B2-AA78-67D01E11E39C}|13.ExamPreparation\\SharkTaxonomy\\SharkTaxonomy.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\13.exampreparation\\sharktaxonomy\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEB04897-ECDC-42B2-AA78-67D01E11E39C}|13.ExamPreparation\\SharkTaxonomy\\SharkTaxonomy.csproj|solutionrelative:13.exampreparation\\sharktaxonomy\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4135582-12C0-4B73-A497-D1A170C58C02}|14.Algorithms\\RecursiveArraySum\\RecursiveArraySum.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\14.algorithms\\recursivearraysum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4135582-12C0-4B73-A497-D1A170C58C02}|14.Algorithms\\RecursiveArraySum\\RecursiveArraySum.csproj|solutionrelative:14.algorithms\\recursivearraysum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Classifier.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\SharkTaxonomy\\Classifier.cs",
-              "RelativeDocumentMoniker": "13.ExamPreparation\\SharkTaxonomy\\Classifier.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\SharkTaxonomy\\Classifier.cs",
-              "RelativeToolTip": "13.ExamPreparation\\SharkTaxonomy\\Classifier.cs",
-              "ViewState": "AgIAAA4AAACAy8zMzMwawB0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:17:45.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Shark.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\SharkTaxonomy\\Shark.cs",
-              "RelativeDocumentMoniker": "13.ExamPreparation\\SharkTaxonomy\\Shark.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\SharkTaxonomy\\Shark.cs",
-              "RelativeToolTip": "13.ExamPreparation\\SharkTaxonomy\\Shark.cs",
-              "ViewState": "AgIAAAcAAACgAAAAACAzwB0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:18:07.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\SharkTaxonomy\\StartUp.cs",
-              "RelativeDocumentMoniker": "13.ExamPreparation\\SharkTaxonomy\\StartUp.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\13.ExamPreparation\\SharkTaxonomy\\StartUp.cs",
-              "RelativeToolTip": "13.ExamPreparation\\SharkTaxonomy\\StartUp.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAQwFMAAAAjAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\RecursiveArraySum\\Program.cs",
+              "RelativeDocumentMoniker": "14.Algorithms\\RecursiveArraySum\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\RecursiveArraySum\\Program.cs",
+              "RelativeToolTip": "14.Algorithms\\RecursiveArraySum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:17:17.858Z",
+              "WhenOpened": "2024-10-16T09:57:55.182Z",
               "EditorCaption": ""
             }
           ]

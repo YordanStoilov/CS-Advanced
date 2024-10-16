@@ -259,6 +259,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearSkies", "13.ExamPrepar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharkTaxonomy", "13.ExamPreparation\SharkTaxonomy\SharkTaxonomy.csproj", "{AEB04897-ECDC-42B2-AA78-67D01E11E39C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "14.Algorithms", "14.Algorithms", "{2B7AB6B6-2023-4C58-9563-AB2955FD65DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveArraySum", "14.Algorithms\RecursiveArraySum\RecursiveArraySum.csproj", "{D4135582-12C0-4B73-A497-D1A170C58C02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -725,6 +729,10 @@ Global
 		{AEB04897-ECDC-42B2-AA78-67D01E11E39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEB04897-ECDC-42B2-AA78-67D01E11E39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEB04897-ECDC-42B2-AA78-67D01E11E39C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4135582-12C0-4B73-A497-D1A170C58C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4135582-12C0-4B73-A497-D1A170C58C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4135582-12C0-4B73-A497-D1A170C58C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4135582-12C0-4B73-A497-D1A170C58C02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -845,6 +853,7 @@ Global
 		{BE4559CC-B8B2-4713-BECF-BD3F8BF22FE3} = {27CE49F3-AC01-47A7-93EA-120C7CE55D63}
 		{75B1AF23-A565-4D35-8FEB-FBA0A7C2EE58} = {27CE49F3-AC01-47A7-93EA-120C7CE55D63}
 		{AEB04897-ECDC-42B2-AA78-67D01E11E39C} = {27CE49F3-AC01-47A7-93EA-120C7CE55D63}
+		{D4135582-12C0-4B73-A497-D1A170C58C02} = {2B7AB6B6-2023-4C58-9563-AB2955FD65DD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65C1283D-830D-40CC-8FAB-35D061333BAA}

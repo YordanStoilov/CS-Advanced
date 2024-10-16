@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AddVAT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddb971cd5043e447f0f080d158a986612393a7d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7f8e5b21b67f52fad3c06576a4fde9a81b1f64d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AddVAT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AddVAT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
