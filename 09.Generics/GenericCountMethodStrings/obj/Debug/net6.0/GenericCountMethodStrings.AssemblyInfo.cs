@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenericCountMethodStrings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c650cb4bd122d1935e792d98cfce7640ffbb0f10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70a037350ac0cba9f964b5aa470c47b97fa69ee5")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenericCountMethodStrings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenericCountMethodStrings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

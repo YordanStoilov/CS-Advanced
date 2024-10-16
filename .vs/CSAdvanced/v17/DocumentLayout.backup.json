@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0DEB7AE-A81A-4401-BAFD-ECA3068F5E52}|14.Algorithms\\SetCover\\SetCover.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\14.algorithms\\setcover\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0DEB7AE-A81A-4401-BAFD-ECA3068F5E52}|14.Algorithms\\SetCover\\SetCover.csproj|solutionrelative:14.algorithms\\setcover\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAF0A7B9-C247-41B0-9BB9-C360BB058F93}|14.Algorithms\\MergeSort\\MergeSort.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\14.algorithms\\mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF0A7B9-C247-41B0-9BB9-C360BB058F93}|14.Algorithms\\MergeSort\\MergeSort.csproj|solutionrelative:14.algorithms\\mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF0A7B9-C247-41B0-9BB9-C360BB058F93}|14.Algorithms\\MergeSort\\MergeSort.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\14.algorithms\\mergesort\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF0A7B9-C247-41B0-9BB9-C360BB058F93}|14.Algorithms\\MergeSort\\MergeSort.csproj|solutionrelative:14.algorithms\\mergesort\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mergesort.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\MergeSort\\Mergesort.cs",
+              "RelativeDocumentMoniker": "14.Algorithms\\MergeSort\\Mergesort.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\MergeSort\\Mergesort.cs",
+              "RelativeToolTip": "14.Algorithms\\MergeSort\\Mergesort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:57:25.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\SetCover\\Program.cs",
-              "RelativeDocumentMoniker": "14.Algorithms\\SetCover\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\SetCover\\Program.cs",
-              "RelativeToolTip": "14.Algorithms\\SetCover\\Program.cs",
-              "ViewState": "AgIAABIAAADA/////78twCMAAAAuAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\MergeSort\\Program.cs",
+              "RelativeDocumentMoniker": "14.Algorithms\\MergeSort\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\MergeSort\\Program.cs",
+              "RelativeToolTip": "14.Algorithms\\MergeSort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:32:54.484Z",
+              "WhenOpened": "2024-10-16T11:48:01.71Z",
               "EditorCaption": ""
             }
           ]

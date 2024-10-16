@@ -269,6 +269,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfCoins", "14.Algorithms
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetCover", "14.Algorithms\SetCover\SetCover.csproj", "{F0DEB7AE-A81A-4401-BAFD-ECA3068F5E52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "14.Algorithms\MergeSort\MergeSort.csproj", "{BAF0A7B9-C247-41B0-9BB9-C360BB058F93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -751,6 +753,10 @@ Global
 		{F0DEB7AE-A81A-4401-BAFD-ECA3068F5E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0DEB7AE-A81A-4401-BAFD-ECA3068F5E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0DEB7AE-A81A-4401-BAFD-ECA3068F5E52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF0A7B9-C247-41B0-9BB9-C360BB058F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF0A7B9-C247-41B0-9BB9-C360BB058F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF0A7B9-C247-41B0-9BB9-C360BB058F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF0A7B9-C247-41B0-9BB9-C360BB058F93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -875,6 +881,7 @@ Global
 		{020FE465-9C95-48AF-800D-EB5CD5B09B74} = {2B7AB6B6-2023-4C58-9563-AB2955FD65DD}
 		{6A3404F9-05F8-4EAB-9D7A-0185B3D99687} = {2B7AB6B6-2023-4C58-9563-AB2955FD65DD}
 		{F0DEB7AE-A81A-4401-BAFD-ECA3068F5E52} = {2B7AB6B6-2023-4C58-9563-AB2955FD65DD}
+		{BAF0A7B9-C247-41B0-9BB9-C360BB058F93} = {2B7AB6B6-2023-4C58-9563-AB2955FD65DD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65C1283D-830D-40CC-8FAB-35D061333BAA}
