@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SetCover\bin\Debug\net6.0\SetCover.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SetCover\bin\Debug\net6.0\SetCover.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SetCover\bin\Debug\net6.0\SetCover.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SetCover\bin\Debug\net6.0\SetCover.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SetCover\bin\Debug\net6.0\SetCover.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SetCover\obj\Debug\net6.0\SetCover.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SetCover\obj\Debug\net6.0\SetCover.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SetCover\obj\Debug\net6.0\SetCover.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SetCover\obj\Debug\net6.0\SetCover.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SetCover\obj\Debug\net6.0\SetCover.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SetCover\obj\Debug\net6.0\SetCover.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SetCover\obj\Debug\net6.0\refint\SetCover.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SetCover\obj\Debug\net6.0\SetCover.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SetCover\obj\Debug\net6.0\SetCover.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SetCover\obj\Debug\net6.0\ref\SetCover.dll
