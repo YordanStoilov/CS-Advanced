@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\BinarySearch\bin\Debug\net6.0\BinarySearch.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\BinarySearch\obj\Debug\net6.0\refint\BinarySearch.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\BinarySearch\obj\Debug\net6.0\BinarySearch.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\BinarySearch\obj\Debug\net6.0\ref\BinarySearch.dll
