@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveFactorial\bin\Debug\net6.0\RecursiveFactorial.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveFactorial\obj\Debug\net6.0\refint\RecursiveFactorial.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveFactorial\obj\Debug\net6.0\RecursiveFactorial.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\RecursiveFactorial\obj\Debug\net6.0\ref\RecursiveFactorial.dll

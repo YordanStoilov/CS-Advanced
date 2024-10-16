@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{020FE465-9C95-48AF-800D-EB5CD5B09B74}|14.Algorithms\\RecursiveFactorial\\RecursiveFactorial.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\14.algorithms\\recursivefactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020FE465-9C95-48AF-800D-EB5CD5B09B74}|14.Algorithms\\RecursiveFactorial\\RecursiveFactorial.csproj|solutionrelative:14.algorithms\\recursivefactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4135582-12C0-4B73-A497-D1A170C58C02}|14.Algorithms\\RecursiveArraySum\\RecursiveArraySum.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\14.algorithms\\recursivearraysum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4135582-12C0-4B73-A497-D1A170C58C02}|14.Algorithms\\RecursiveArraySum\\RecursiveArraySum.csproj|solutionrelative:14.algorithms\\recursivearraysum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,11 +28,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\RecursiveFactorial\\Program.cs",
+              "RelativeDocumentMoniker": "14.Algorithms\\RecursiveFactorial\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\RecursiveFactorial\\Program.cs",
+              "RelativeToolTip": "14.Algorithms\\RecursiveFactorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:10:36.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\RecursiveArraySum\\Program.cs",
               "RelativeDocumentMoniker": "14.Algorithms\\RecursiveArraySum\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\RecursiveArraySum\\Program.cs*",
-              "RelativeToolTip": "14.Algorithms\\RecursiveArraySum\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\RecursiveArraySum\\Program.cs",
+              "RelativeToolTip": "14.Algorithms\\RecursiveArraySum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T09:57:55.182Z",
               "EditorCaption": ""
