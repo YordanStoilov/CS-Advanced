@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SumOfCoins\bin\Debug\net6.0\SumOfCoins.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SumOfCoins\bin\Debug\net6.0\SumOfCoins.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SumOfCoins\bin\Debug\net6.0\SumOfCoins.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SumOfCoins\bin\Debug\net6.0\SumOfCoins.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SumOfCoins\bin\Debug\net6.0\SumOfCoins.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SumOfCoins\obj\Debug\net6.0\SumOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SumOfCoins\obj\Debug\net6.0\SumOfCoins.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SumOfCoins\obj\Debug\net6.0\SumOfCoins.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SumOfCoins\obj\Debug\net6.0\SumOfCoins.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SumOfCoins\obj\Debug\net6.0\SumOfCoins.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SumOfCoins\obj\Debug\net6.0\SumOfCoins.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SumOfCoins\obj\Debug\net6.0\refint\SumOfCoins.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SumOfCoins\obj\Debug\net6.0\SumOfCoins.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SumOfCoins\obj\Debug\net6.0\SumOfCoins.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\SumOfCoins\obj\Debug\net6.0\ref\SumOfCoins.dll
