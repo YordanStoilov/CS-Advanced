@@ -13,20 +13,19 @@ int BinarySearch(int[] array, int start, int end, int element)
         return -1;
     }
 
-    int middleIndex = start + (end - start) / 2; ;
-    int middleElement = array[middleIndex];
+    int middle = start + (end - start) / 2;
+    int middleElement = array[middle];
 
-    if (middleElement == element)
+    if (element == middleElement)
     {
-        return middleIndex;
+        return middle;
     }
     else if (element > middleElement)
     {
-        return BinarySearch(array, middleIndex + 1, end, element);
+        return BinarySearch(array, middle + 1, end, element);
     }
     else
     {
-        return BinarySearch(array, start, middleIndex - 1, element);
+        return BinarySearch(array, start, middle - 1, element);
     }
 }
-

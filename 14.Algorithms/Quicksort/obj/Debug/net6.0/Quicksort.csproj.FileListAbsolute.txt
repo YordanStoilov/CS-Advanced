@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\Quicksort\obj\Debug\net6.0\Quicksort.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\Quicksort\obj\Debug\net6.0\Quicksort.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\Quicksort\obj\Debug\net6.0\Quicksort.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\Quicksort\obj\Debug\net6.0\Quicksort.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\Quicksort\obj\Debug\net6.0\Quicksort.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\Quicksort\bin\Debug\net6.0\Quicksort.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\Quicksort\bin\Debug\net6.0\Quicksort.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\Quicksort\bin\Debug\net6.0\Quicksort.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\Quicksort\bin\Debug\net6.0\Quicksort.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\Quicksort\bin\Debug\net6.0\Quicksort.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\Quicksort\obj\Debug\net6.0\Quicksort.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\Quicksort\obj\Debug\net6.0\refint\Quicksort.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\Quicksort\obj\Debug\net6.0\Quicksort.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\Quicksort\obj\Debug\net6.0\Quicksort.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\14.Algorithms\Quicksort\obj\Debug\net6.0\ref\Quicksort.dll

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{31AF98E9-6307-4953-B8FD-3388330EC2BD}|14.Algorithms\\Quicksort\\Quicksort.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\14.algorithms\\quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AF98E9-6307-4953-B8FD-3388330EC2BD}|14.Algorithms\\Quicksort\\Quicksort.csproj|solutionrelative:14.algorithms\\quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D25B59AC-D182-44B4-858D-411D4FEABA9F}|14.Algorithms\\BinarySearch\\BinarySearch.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\14.algorithms\\binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D25B59AC-D182-44B4-858D-411D4FEABA9F}|14.Algorithms\\BinarySearch\\BinarySearch.csproj|solutionrelative:14.algorithms\\binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,11 +28,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\Quicksort\\Program.cs",
+              "RelativeDocumentMoniker": "14.Algorithms\\Quicksort\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\Quicksort\\Program.cs",
+              "RelativeToolTip": "14.Algorithms\\Quicksort\\Program.cs",
+              "ViewState": "AgIAAAsAAABAAAAAAAApwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:07:36.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\BinarySearch\\Program.cs",
               "RelativeDocumentMoniker": "14.Algorithms\\BinarySearch\\Program.cs",
               "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\BinarySearch\\Program.cs",
               "RelativeToolTip": "14.Algorithms\\BinarySearch\\Program.cs",
-              "ViewState": "AgIAAAIAAAAsMzMzM/MnwBoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAEAlwA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T16:45:14.619Z",
               "EditorCaption": ""
