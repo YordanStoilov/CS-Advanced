@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CocktailBar\bin\Debug\net6.0\CocktailBar.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CocktailBar\bin\Debug\net6.0\CocktailBar.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CocktailBar\bin\Debug\net6.0\CocktailBar.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CocktailBar\bin\Debug\net6.0\CocktailBar.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CocktailBar\bin\Debug\net6.0\CocktailBar.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CocktailBar\obj\Debug\net6.0\CocktailBar.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CocktailBar\obj\Debug\net6.0\CocktailBar.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CocktailBar\obj\Debug\net6.0\CocktailBar.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CocktailBar\obj\Debug\net6.0\CocktailBar.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CocktailBar\obj\Debug\net6.0\CocktailBar.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CocktailBar\obj\Debug\net6.0\CocktailBar.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CocktailBar\obj\Debug\net6.0\refint\CocktailBar.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CocktailBar\obj\Debug\net6.0\CocktailBar.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CocktailBar\obj\Debug\net6.0\CocktailBar.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CocktailBar\obj\Debug\net6.0\ref\CocktailBar.dll

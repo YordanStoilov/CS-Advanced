@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEBC3D1A-7815-4EC7-8A74-4768C03182FB}|16.ExamPreparation\\CollectingStarsGame\\CollectingStarsGame.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\16.exampreparation\\collectingstarsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEBC3D1A-7815-4EC7-8A74-4768C03182FB}|16.ExamPreparation\\CollectingStarsGame\\CollectingStarsGame.csproj|solutionrelative:16.exampreparation\\collectingstarsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15A008CC-3C4D-4CE5-82D1-AB15F8E5F075}|16.ExamPreparation\\CocktailBar\\CocktailBar.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\16.exampreparation\\cocktailbar\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A008CC-3C4D-4CE5-82D1-AB15F8E5F075}|16.ExamPreparation\\CocktailBar\\CocktailBar.csproj|solutionrelative:16.exampreparation\\cocktailbar\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB0F15AA-EC21-497C-BCD7-87F333EE0F38}|16.ExamPreparation\\01.WildSurvival\\01.WildSurvival.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\16.exampreparation\\01.wildsurvival\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB0F15AA-EC21-497C-BCD7-87F333EE0F38}|16.ExamPreparation\\01.WildSurvival\\01.WildSurvival.csproj|solutionrelative:16.exampreparation\\01.wildsurvival\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15A008CC-3C4D-4CE5-82D1-AB15F8E5F075}|16.ExamPreparation\\CocktailBar\\CocktailBar.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\16.exampreparation\\cocktailbar\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A008CC-3C4D-4CE5-82D1-AB15F8E5F075}|16.ExamPreparation\\CocktailBar\\CocktailBar.csproj|solutionrelative:16.exampreparation\\cocktailbar\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A008CC-3C4D-4CE5-82D1-AB15F8E5F075}|16.ExamPreparation\\CocktailBar\\CocktailBar.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\16.exampreparation\\cocktailbar\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A008CC-3C4D-4CE5-82D1-AB15F8E5F075}|16.ExamPreparation\\CocktailBar\\CocktailBar.csproj|solutionrelative:16.exampreparation\\cocktailbar\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CollectingStarsGame\\Program.cs",
-              "RelativeDocumentMoniker": "16.ExamPreparation\\CollectingStarsGame\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CollectingStarsGame\\Program.cs",
-              "RelativeToolTip": "16.ExamPreparation\\CollectingStarsGame\\Program.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAWwFYAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CocktailBar\\Menu.cs",
+              "RelativeDocumentMoniker": "16.ExamPreparation\\CocktailBar\\Menu.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CocktailBar\\Menu.cs",
+              "RelativeToolTip": "16.ExamPreparation\\CocktailBar\\Menu.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAMwBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T13:56:24.866Z",
+              "WhenOpened": "2024-10-17T14:48:07.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\01.WildSurvival\\Program.cs",
-              "RelativeDocumentMoniker": "16.ExamPreparation\\01.WildSurvival\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\01.WildSurvival\\Program.cs",
-              "RelativeToolTip": "16.ExamPreparation\\01.WildSurvival\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBUAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Cocktail.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CocktailBar\\Cocktail.cs",
+              "RelativeDocumentMoniker": "16.ExamPreparation\\CocktailBar\\Cocktail.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CocktailBar\\Cocktail.cs",
+              "RelativeToolTip": "16.ExamPreparation\\CocktailBar\\Cocktail.cs",
+              "ViewState": "AgIAAAEAAABgZmZmZmYkwA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T09:54:35.244Z",
+              "WhenOpened": "2024-10-17T14:47:36.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CocktailBar\\StartUp.cs",
+              "RelativeDocumentMoniker": "16.ExamPreparation\\CocktailBar\\StartUp.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CocktailBar\\StartUp.cs",
+              "RelativeToolTip": "16.ExamPreparation\\CocktailBar\\StartUp.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAWwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:46:31.308Z",
               "EditorCaption": ""
             }
           ]

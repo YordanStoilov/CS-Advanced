@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Froggy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95b67e96ad4ab5d0569b8e04de0461e0b4820b06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3636e391452d24f0d8dcf9b7e99a13d3ce1ec960")]
 [assembly: System.Reflection.AssemblyProductAttribute("Froggy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Froggy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
