@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6899582B-156E-463A-97AA-CCB06950111B}|15.ExamPreparation\\RapidCourier\\RapidCourier.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\15.exampreparation\\rapidcourier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6899582B-156E-463A-97AA-CCB06950111B}|15.ExamPreparation\\RapidCourier\\RapidCourier.csproj|solutionrelative:15.exampreparation\\rapidcourier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A63F5A9E-0D79-44F8-90D0-A39DCC73E5F1}|15.ExamPreparation\\Beesy\\Beesy.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\15.exampreparation\\beesy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A63F5A9E-0D79-44F8-90D0-A39DCC73E5F1}|15.ExamPreparation\\Beesy\\Beesy.csproj|solutionrelative:15.exampreparation\\beesy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB0F15AA-EC21-497C-BCD7-87F333EE0F38}|16.ExamPreparation\\01.WildSurvival\\01.WildSurvival.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\16.exampreparation\\01.wildsurvival\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0F15AA-EC21-497C-BCD7-87F333EE0F38}|16.ExamPreparation\\01.WildSurvival\\01.WildSurvival.csproj|solutionrelative:16.exampreparation\\01.wildsurvival\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\15.ExamPreparation\\RapidCourier\\Program.cs",
-              "RelativeDocumentMoniker": "15.ExamPreparation\\RapidCourier\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\15.ExamPreparation\\RapidCourier\\Program.cs",
-              "RelativeToolTip": "15.ExamPreparation\\RapidCourier\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAWwBsAAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\01.WildSurvival\\Program.cs",
+              "RelativeDocumentMoniker": "16.ExamPreparation\\01.WildSurvival\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\01.WildSurvival\\Program.cs",
+              "RelativeToolTip": "16.ExamPreparation\\01.WildSurvival\\Program.cs",
+              "ViewState": "AgIAAAcAAADAMzMzMzMbwAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T09:30:24.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\15.ExamPreparation\\Beesy\\Program.cs",
-              "RelativeDocumentMoniker": "15.ExamPreparation\\Beesy\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\15.ExamPreparation\\Beesy\\Program.cs",
-              "RelativeToolTip": "15.ExamPreparation\\Beesy\\Program.cs",
-              "ViewState": "AgIAABUAAAAA/v////8gwFwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T08:06:21.054Z",
+              "WhenOpened": "2024-10-17T09:54:35.244Z",
               "EditorCaption": ""
             }
           ]

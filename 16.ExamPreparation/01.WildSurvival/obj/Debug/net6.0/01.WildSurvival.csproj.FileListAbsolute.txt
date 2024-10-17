@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\01.WildSurvival\bin\Debug\net6.0\01.WildSurvival.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\01.WildSurvival\bin\Debug\net6.0\01.WildSurvival.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\01.WildSurvival\bin\Debug\net6.0\01.WildSurvival.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\01.WildSurvival\bin\Debug\net6.0\01.WildSurvival.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\01.WildSurvival\bin\Debug\net6.0\01.WildSurvival.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\01.WildSurvival\obj\Debug\net6.0\01.WildSurvival.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\01.WildSurvival\obj\Debug\net6.0\01.WildSurvival.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\01.WildSurvival\obj\Debug\net6.0\01.WildSurvival.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\01.WildSurvival\obj\Debug\net6.0\01.WildSurvival.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\01.WildSurvival\obj\Debug\net6.0\01.WildSurvival.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\01.WildSurvival\obj\Debug\net6.0\01.WildSurvival.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\01.WildSurvival\obj\Debug\net6.0\refint\01.WildSurvival.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\01.WildSurvival\obj\Debug\net6.0\01.WildSurvival.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\01.WildSurvival\obj\Debug\net6.0\01.WildSurvival.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\01.WildSurvival\obj\Debug\net6.0\ref\01.WildSurvival.dll
