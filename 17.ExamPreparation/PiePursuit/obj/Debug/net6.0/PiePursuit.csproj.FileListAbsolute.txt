@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\PiePursuit\bin\Debug\net6.0\PiePursuit.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\PiePursuit\bin\Debug\net6.0\PiePursuit.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\PiePursuit\bin\Debug\net6.0\PiePursuit.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\PiePursuit\bin\Debug\net6.0\PiePursuit.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\PiePursuit\bin\Debug\net6.0\PiePursuit.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\PiePursuit\obj\Debug\net6.0\PiePursuit.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\PiePursuit\obj\Debug\net6.0\PiePursuit.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\PiePursuit\obj\Debug\net6.0\PiePursuit.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\PiePursuit\obj\Debug\net6.0\PiePursuit.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\PiePursuit\obj\Debug\net6.0\PiePursuit.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\PiePursuit\obj\Debug\net6.0\PiePursuit.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\PiePursuit\obj\Debug\net6.0\refint\PiePursuit.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\PiePursuit\obj\Debug\net6.0\PiePursuit.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\PiePursuit\obj\Debug\net6.0\PiePursuit.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\PiePursuit\obj\Debug\net6.0\ref\PiePursuit.dll

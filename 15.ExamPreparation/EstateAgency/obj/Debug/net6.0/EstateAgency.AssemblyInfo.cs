@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstateAgency")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3636e391452d24f0d8dcf9b7e99a13d3ce1ec960")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaeeb1875c28d8d7eb67ab4a8fa5aebe758cb1c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstateAgency")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstateAgency")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
