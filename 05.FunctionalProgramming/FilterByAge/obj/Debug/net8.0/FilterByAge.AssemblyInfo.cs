@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FilterByAge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+499de84562c51089c7f16f051dbaa14794171819")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+752b2b6dcf89085dc8214c8697f129177e8c097d")]
 [assembly: System.Reflection.AssemblyProductAttribute("FilterByAge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FilterByAge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

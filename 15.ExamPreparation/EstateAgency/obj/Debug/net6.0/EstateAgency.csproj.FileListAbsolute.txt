@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\EstateAgency\bin\Debug\net6.0\EstateAgency.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\EstateAgency\bin\Debug\net6.0\EstateAgency.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\EstateAgency\bin\Debug\net6.0\EstateAgency.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\EstateAgency\bin\Debug\net6.0\EstateAgency.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\EstateAgency\bin\Debug\net6.0\EstateAgency.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\EstateAgency\obj\Debug\net6.0\EstateAgency.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\EstateAgency\obj\Debug\net6.0\EstateAgency.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\EstateAgency\obj\Debug\net6.0\EstateAgency.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\EstateAgency\obj\Debug\net6.0\EstateAgency.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\EstateAgency\obj\Debug\net6.0\EstateAgency.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\EstateAgency\obj\Debug\net6.0\EstateAgency.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\EstateAgency\obj\Debug\net6.0\refint\EstateAgency.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\EstateAgency\obj\Debug\net6.0\EstateAgency.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\EstateAgency\obj\Debug\net6.0\EstateAgency.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\EstateAgency\obj\Debug\net6.0\ref\EstateAgency.dll

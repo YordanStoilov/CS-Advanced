@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31AF98E9-6307-4953-B8FD-3388330EC2BD}|14.Algorithms\\Quicksort\\Quicksort.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\14.algorithms\\quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31AF98E9-6307-4953-B8FD-3388330EC2BD}|14.Algorithms\\Quicksort\\Quicksort.csproj|solutionrelative:14.algorithms\\quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E902C6A-C481-4D76-9897-4904B1946B06}|15.ExamPreparation\\EstateAgency\\EstateAgency.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\15.exampreparation\\estateagency\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E902C6A-C481-4D76-9897-4904B1946B06}|15.ExamPreparation\\EstateAgency\\EstateAgency.csproj|solutionrelative:15.exampreparation\\estateagency\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D25B59AC-D182-44B4-858D-411D4FEABA9F}|14.Algorithms\\BinarySearch\\BinarySearch.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\14.algorithms\\binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D25B59AC-D182-44B4-858D-411D4FEABA9F}|14.Algorithms\\BinarySearch\\BinarySearch.csproj|solutionrelative:14.algorithms\\binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E902C6A-C481-4D76-9897-4904B1946B06}|15.ExamPreparation\\EstateAgency\\EstateAgency.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\15.exampreparation\\estateagency\\estateagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E902C6A-C481-4D76-9897-4904B1946B06}|15.ExamPreparation\\EstateAgency\\EstateAgency.csproj|solutionrelative:15.exampreparation\\estateagency\\estateagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E902C6A-C481-4D76-9897-4904B1946B06}|15.ExamPreparation\\EstateAgency\\EstateAgency.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\15.exampreparation\\estateagency\\realestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E902C6A-C481-4D76-9897-4904B1946B06}|15.ExamPreparation\\EstateAgency\\EstateAgency.csproj|solutionrelative:15.exampreparation\\estateagency\\realestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\Quicksort\\Program.cs",
-              "RelativeDocumentMoniker": "14.Algorithms\\Quicksort\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\Quicksort\\Program.cs",
-              "RelativeToolTip": "14.Algorithms\\Quicksort\\Program.cs",
-              "ViewState": "AgIAAAsAAABAAAAAAAApwB4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "RealEstate.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\15.ExamPreparation\\EstateAgency\\RealEstate.cs",
+              "RelativeDocumentMoniker": "15.ExamPreparation\\EstateAgency\\RealEstate.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\15.ExamPreparation\\EstateAgency\\RealEstate.cs",
+              "RelativeToolTip": "15.ExamPreparation\\EstateAgency\\RealEstate.cs",
+              "ViewState": "AgIAAAEAAADAzMzMzMwnwBgAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:07:36.226Z",
+              "WhenOpened": "2024-10-17T07:32:05.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\BinarySearch\\Program.cs",
-              "RelativeDocumentMoniker": "14.Algorithms\\BinarySearch\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\14.Algorithms\\BinarySearch\\Program.cs",
-              "RelativeToolTip": "14.Algorithms\\BinarySearch\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAEAlwA8AAAArAAAAAAAAAA==",
+              "Title": "EstateAgency.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\15.ExamPreparation\\EstateAgency\\EstateAgency.cs",
+              "RelativeDocumentMoniker": "15.ExamPreparation\\EstateAgency\\EstateAgency.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\15.ExamPreparation\\EstateAgency\\EstateAgency.cs",
+              "RelativeToolTip": "15.ExamPreparation\\EstateAgency\\EstateAgency.cs",
+              "ViewState": "AgIAAAYAAAAAm5mZmVkqwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T16:45:14.619Z",
+              "WhenOpened": "2024-10-17T07:31:28.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\15.ExamPreparation\\EstateAgency\\StartUp.cs",
+              "RelativeDocumentMoniker": "15.ExamPreparation\\EstateAgency\\StartUp.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\15.ExamPreparation\\EstateAgency\\StartUp.cs",
+              "RelativeToolTip": "15.ExamPreparation\\EstateAgency\\StartUp.cs",
+              "ViewState": "AgIAABsAAAAAbDMzMzPjvzkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:30:48.731Z",
               "EditorCaption": ""
             }
           ]

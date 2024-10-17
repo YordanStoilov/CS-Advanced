@@ -16,6 +16,7 @@ List<int> QuickSort(List<int> array)
     {
         return array;
     }
+
     int pivot = array[array.Count / 2];
 
     for (int i = 0; i < array.Count; i++)

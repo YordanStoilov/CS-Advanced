@@ -275,6 +275,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "14.Algorith
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quicksort", "14.Algorithms\Quicksort\Quicksort.csproj", "{31AF98E9-6307-4953-B8FD-3388330EC2BD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15.ExamPreparation", "15.ExamPreparation", "{6218EA3B-9FA8-4CBD-9350-F1E32D322C98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstateAgency", "15.ExamPreparation\EstateAgency\EstateAgency.csproj", "{6E902C6A-C481-4D76-9897-4904B1946B06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -769,6 +773,10 @@ Global
 		{31AF98E9-6307-4953-B8FD-3388330EC2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31AF98E9-6307-4953-B8FD-3388330EC2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31AF98E9-6307-4953-B8FD-3388330EC2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E902C6A-C481-4D76-9897-4904B1946B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E902C6A-C481-4D76-9897-4904B1946B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E902C6A-C481-4D76-9897-4904B1946B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E902C6A-C481-4D76-9897-4904B1946B06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -896,6 +904,7 @@ Global
 		{BAF0A7B9-C247-41B0-9BB9-C360BB058F93} = {2B7AB6B6-2023-4C58-9563-AB2955FD65DD}
 		{D25B59AC-D182-44B4-858D-411D4FEABA9F} = {2B7AB6B6-2023-4C58-9563-AB2955FD65DD}
 		{31AF98E9-6307-4953-B8FD-3388330EC2BD} = {2B7AB6B6-2023-4C58-9563-AB2955FD65DD}
+		{6E902C6A-C481-4D76-9897-4904B1946B06} = {6218EA3B-9FA8-4CBD-9350-F1E32D322C98}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65C1283D-830D-40CC-8FAB-35D061333BAA}
