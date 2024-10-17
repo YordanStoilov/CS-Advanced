@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BEBC3D1A-7815-4EC7-8A74-4768C03182FB}|16.ExamPreparation\\CollectingStarsGame\\CollectingStarsGame.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\16.exampreparation\\collectingstarsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBC3D1A-7815-4EC7-8A74-4768C03182FB}|16.ExamPreparation\\CollectingStarsGame\\CollectingStarsGame.csproj|solutionrelative:16.exampreparation\\collectingstarsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB0F15AA-EC21-497C-BCD7-87F333EE0F38}|16.ExamPreparation\\01.WildSurvival\\01.WildSurvival.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\16.exampreparation\\01.wildsurvival\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB0F15AA-EC21-497C-BCD7-87F333EE0F38}|16.ExamPreparation\\01.WildSurvival\\01.WildSurvival.csproj|solutionrelative:16.exampreparation\\01.wildsurvival\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,11 +28,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CollectingStarsGame\\Program.cs",
+              "RelativeDocumentMoniker": "16.ExamPreparation\\CollectingStarsGame\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CollectingStarsGame\\Program.cs",
+              "RelativeToolTip": "16.ExamPreparation\\CollectingStarsGame\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAWwFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:56:24.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\01.WildSurvival\\Program.cs",
               "RelativeDocumentMoniker": "16.ExamPreparation\\01.WildSurvival\\Program.cs",
               "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\01.WildSurvival\\Program.cs",
               "RelativeToolTip": "16.ExamPreparation\\01.WildSurvival\\Program.cs",
-              "ViewState": "AgIAAAcAAADAMzMzMzMbwAoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T09:54:35.244Z",
               "EditorCaption": ""

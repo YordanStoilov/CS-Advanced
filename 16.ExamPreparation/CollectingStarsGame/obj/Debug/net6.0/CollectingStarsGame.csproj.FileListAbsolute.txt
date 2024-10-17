@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CollectingStarsGame\bin\Debug\net6.0\CollectingStarsGame.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CollectingStarsGame\bin\Debug\net6.0\CollectingStarsGame.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CollectingStarsGame\bin\Debug\net6.0\CollectingStarsGame.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CollectingStarsGame\bin\Debug\net6.0\CollectingStarsGame.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CollectingStarsGame\bin\Debug\net6.0\CollectingStarsGame.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CollectingStarsGame\obj\Debug\net6.0\CollectingStarsGame.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CollectingStarsGame\obj\Debug\net6.0\CollectingStarsGame.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CollectingStarsGame\obj\Debug\net6.0\CollectingStarsGame.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CollectingStarsGame\obj\Debug\net6.0\CollectingStarsGame.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CollectingStarsGame\obj\Debug\net6.0\CollectingStarsGame.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CollectingStarsGame\obj\Debug\net6.0\CollectingStarsGame.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CollectingStarsGame\obj\Debug\net6.0\refint\CollectingStarsGame.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CollectingStarsGame\obj\Debug\net6.0\CollectingStarsGame.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CollectingStarsGame\obj\Debug\net6.0\CollectingStarsGame.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\16.ExamPreparation\CollectingStarsGame\obj\Debug\net6.0\ref\CollectingStarsGame.dll
