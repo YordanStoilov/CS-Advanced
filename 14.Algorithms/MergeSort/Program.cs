@@ -8,22 +8,22 @@ MergeSort(array);
 Console.WriteLine(string.Join(" ", array));
 
 
-void MergeSort(int[] array)
+void MergeSort(int[] arr)
 {
-    if (array.Length <= 1)
+    if (arr.Length <= 1)
         return;
 
-    int mid = array.Length / 2;
+    int mid = arr.Length / 2;
     int[] left = new int[mid];
-    int[] right = new int[array.Length - mid];
+    int[] right = new int[arr.Length - mid];
 
-    Array.Copy(array, 0, left, 0, mid);
-    Array.Copy(array, mid, right, 0, array.Length - mid);
+    Array.Copy(arr, 0, left, 0, mid);
+    Array.Copy(arr, mid, right, 0, arr.Length - mid);
 
     MergeSort(left);
     MergeSort(right);
 
-    Merge(array, left, right);
+    Merge(arr, left, right);
 }
 
 void Merge(int[] array, int[] left, int[] right)
