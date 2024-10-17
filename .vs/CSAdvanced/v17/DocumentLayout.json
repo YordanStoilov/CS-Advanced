@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A10E8EEB-B20B-4486-9579-79E41095531D}|17.ExamPreparation\\PiePursuit\\PiePursuit.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\17.exampreparation\\piepursuit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10E8EEB-B20B-4486-9579-79E41095531D}|17.ExamPreparation\\PiePursuit\\PiePursuit.csproj|solutionrelative:17.exampreparation\\piepursuit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7AF6EF3-072A-444C-A862-EFECF3CAC24C}|17.ExamPreparation\\EscapeTheMaze\\EscapeTheMaze.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\17.exampreparation\\escapethemaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AF6EF3-072A-444C-A862-EFECF3CAC24C}|17.ExamPreparation\\EscapeTheMaze\\EscapeTheMaze.csproj|solutionrelative:17.exampreparation\\escapethemaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A008CC-3C4D-4CE5-82D1-AB15F8E5F075}|16.ExamPreparation\\CocktailBar\\CocktailBar.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\16.exampreparation\\cocktailbar\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A008CC-3C4D-4CE5-82D1-AB15F8E5F075}|16.ExamPreparation\\CocktailBar\\CocktailBar.csproj|solutionrelative:16.exampreparation\\cocktailbar\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A008CC-3C4D-4CE5-82D1-AB15F8E5F075}|16.ExamPreparation\\CocktailBar\\CocktailBar.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\16.exampreparation\\cocktailbar\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A008CC-3C4D-4CE5-82D1-AB15F8E5F075}|16.ExamPreparation\\CocktailBar\\CocktailBar.csproj|solutionrelative:16.exampreparation\\cocktailbar\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15A008CC-3C4D-4CE5-82D1-AB15F8E5F075}|16.ExamPreparation\\CocktailBar\\CocktailBar.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\16.exampreparation\\cocktailbar\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A008CC-3C4D-4CE5-82D1-AB15F8E5F075}|16.ExamPreparation\\CocktailBar\\CocktailBar.csproj|solutionrelative:16.exampreparation\\cocktailbar\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEBC3D1A-7815-4EC7-8A74-4768C03182FB}|16.ExamPreparation\\CollectingStarsGame\\CollectingStarsGame.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\16.exampreparation\\collectingstarsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBC3D1A-7815-4EC7-8A74-4768C03182FB}|16.ExamPreparation\\CollectingStarsGame\\CollectingStarsGame.csproj|solutionrelative:16.exampreparation\\collectingstarsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +26,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CollectingStarsGame\\Program.cs",
+              "RelativeDocumentMoniker": "16.ExamPreparation\\CollectingStarsGame\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CollectingStarsGame\\Program.cs",
+              "RelativeToolTip": "16.ExamPreparation\\CollectingStarsGame\\Program.cs",
+              "ViewState": "AgIAAEgAAACANjMzMzMrwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:01:46.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\PiePursuit\\Program.cs",
-              "RelativeDocumentMoniker": "17.ExamPreparation\\PiePursuit\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\PiePursuit\\Program.cs",
-              "RelativeToolTip": "17.ExamPreparation\\PiePursuit\\Program.cs",
-              "ViewState": "AgIAABsAAAAAaGZmZmYHwCsAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\EscapeTheMaze\\Program.cs",
+              "RelativeDocumentMoniker": "17.ExamPreparation\\EscapeTheMaze\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\EscapeTheMaze\\Program.cs",
+              "RelativeToolTip": "17.ExamPreparation\\EscapeTheMaze\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAZ2ZmZmYOwGAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T16:07:06.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CocktailBar\\Menu.cs",
-              "RelativeDocumentMoniker": "16.ExamPreparation\\CocktailBar\\Menu.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CocktailBar\\Menu.cs",
-              "RelativeToolTip": "16.ExamPreparation\\CocktailBar\\Menu.cs",
-              "ViewState": "AgIAABgAAADAzczMzEwiwC4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:48:07.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cocktail.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CocktailBar\\Cocktail.cs",
-              "RelativeDocumentMoniker": "16.ExamPreparation\\CocktailBar\\Cocktail.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CocktailBar\\Cocktail.cs",
-              "RelativeToolTip": "16.ExamPreparation\\CocktailBar\\Cocktail.cs",
-              "ViewState": "AgIAAAkAAAAAa2ZmZmbwvxYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:47:36.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CocktailBar\\StartUp.cs",
-              "RelativeDocumentMoniker": "16.ExamPreparation\\CocktailBar\\StartUp.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CocktailBar\\StartUp.cs",
-              "RelativeToolTip": "16.ExamPreparation\\CocktailBar\\StartUp.cs",
-              "ViewState": "AgIAADMAAADgzczMzAwmwDoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:46:31.308Z",
+              "WhenOpened": "2024-10-17T16:23:00.573Z",
               "EditorCaption": ""
             }
           ]

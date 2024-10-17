@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\EscapeTheMaze\bin\Debug\net6.0\EscapeTheMaze.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\EscapeTheMaze\bin\Debug\net6.0\EscapeTheMaze.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\EscapeTheMaze\bin\Debug\net6.0\EscapeTheMaze.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\EscapeTheMaze\bin\Debug\net6.0\EscapeTheMaze.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\EscapeTheMaze\bin\Debug\net6.0\EscapeTheMaze.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\EscapeTheMaze\obj\Debug\net6.0\EscapeTheMaze.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\EscapeTheMaze\obj\Debug\net6.0\EscapeTheMaze.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\EscapeTheMaze\obj\Debug\net6.0\EscapeTheMaze.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\EscapeTheMaze\obj\Debug\net6.0\EscapeTheMaze.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\EscapeTheMaze\obj\Debug\net6.0\EscapeTheMaze.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\EscapeTheMaze\obj\Debug\net6.0\EscapeTheMaze.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\EscapeTheMaze\obj\Debug\net6.0\refint\EscapeTheMaze.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\EscapeTheMaze\obj\Debug\net6.0\EscapeTheMaze.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\EscapeTheMaze\obj\Debug\net6.0\EscapeTheMaze.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\EscapeTheMaze\obj\Debug\net6.0\ref\EscapeTheMaze.dll

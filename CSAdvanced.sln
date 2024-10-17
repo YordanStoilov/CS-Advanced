@@ -295,6 +295,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "17.ExamPreparation", "17.Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiePursuit", "17.ExamPreparation\PiePursuit\PiePursuit.csproj", "{A10E8EEB-B20B-4486-9579-79E41095531D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeTheMaze", "17.ExamPreparation\EscapeTheMaze\EscapeTheMaze.csproj", "{F7AF6EF3-072A-444C-A862-EFECF3CAC24C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -817,6 +819,10 @@ Global
 		{A10E8EEB-B20B-4486-9579-79E41095531D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A10E8EEB-B20B-4486-9579-79E41095531D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A10E8EEB-B20B-4486-9579-79E41095531D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7AF6EF3-072A-444C-A862-EFECF3CAC24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AF6EF3-072A-444C-A862-EFECF3CAC24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AF6EF3-072A-444C-A862-EFECF3CAC24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AF6EF3-072A-444C-A862-EFECF3CAC24C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -951,6 +957,7 @@ Global
 		{BEBC3D1A-7815-4EC7-8A74-4768C03182FB} = {A6ED27C9-6B9B-4875-84E2-A7845F241E1E}
 		{15A008CC-3C4D-4CE5-82D1-AB15F8E5F075} = {A6ED27C9-6B9B-4875-84E2-A7845F241E1E}
 		{A10E8EEB-B20B-4486-9579-79E41095531D} = {C0777000-4ACD-4109-92D5-4148D4DBA206}
+		{F7AF6EF3-072A-444C-A862-EFECF3CAC24C} = {C0777000-4ACD-4109-92D5-4148D4DBA206}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65C1283D-830D-40CC-8FAB-35D061333BAA}
