@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\Beesy\bin\Debug\net6.0\Beesy.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\Beesy\bin\Debug\net6.0\Beesy.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\Beesy\bin\Debug\net6.0\Beesy.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\Beesy\bin\Debug\net6.0\Beesy.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\Beesy\bin\Debug\net6.0\Beesy.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\Beesy\obj\Debug\net6.0\Beesy.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\Beesy\obj\Debug\net6.0\Beesy.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\Beesy\obj\Debug\net6.0\Beesy.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\Beesy\obj\Debug\net6.0\Beesy.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\Beesy\obj\Debug\net6.0\Beesy.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\Beesy\obj\Debug\net6.0\Beesy.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\Beesy\obj\Debug\net6.0\refint\Beesy.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\Beesy\obj\Debug\net6.0\Beesy.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\Beesy\obj\Debug\net6.0\Beesy.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\Beesy\obj\Debug\net6.0\ref\Beesy.dll
