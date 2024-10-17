@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\RapidCourier\bin\Debug\net6.0\RapidCourier.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\RapidCourier\bin\Debug\net6.0\RapidCourier.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\RapidCourier\bin\Debug\net6.0\RapidCourier.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\RapidCourier\bin\Debug\net6.0\RapidCourier.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\RapidCourier\bin\Debug\net6.0\RapidCourier.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\RapidCourier\obj\Debug\net6.0\RapidCourier.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\RapidCourier\obj\Debug\net6.0\RapidCourier.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\RapidCourier\obj\Debug\net6.0\RapidCourier.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\RapidCourier\obj\Debug\net6.0\RapidCourier.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\RapidCourier\obj\Debug\net6.0\RapidCourier.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\RapidCourier\obj\Debug\net6.0\RapidCourier.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\RapidCourier\obj\Debug\net6.0\refint\RapidCourier.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\RapidCourier\obj\Debug\net6.0\RapidCourier.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\RapidCourier\obj\Debug\net6.0\RapidCourier.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\15.ExamPreparation\RapidCourier\obj\Debug\net6.0\ref\RapidCourier.dll
