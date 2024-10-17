@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7AF6EF3-072A-444C-A862-EFECF3CAC24C}|17.ExamPreparation\\EscapeTheMaze\\EscapeTheMaze.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\17.exampreparation\\escapethemaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7AF6EF3-072A-444C-A862-EFECF3CAC24C}|17.ExamPreparation\\EscapeTheMaze\\EscapeTheMaze.csproj|solutionrelative:17.exampreparation\\escapethemaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269}|17.ExamPreparation\\DataCenter\\DataCenter.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\17.exampreparation\\datacenter\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269}|17.ExamPreparation\\DataCenter\\DataCenter.csproj|solutionrelative:17.exampreparation\\datacenter\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEBC3D1A-7815-4EC7-8A74-4768C03182FB}|16.ExamPreparation\\CollectingStarsGame\\CollectingStarsGame.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\16.exampreparation\\collectingstarsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEBC3D1A-7815-4EC7-8A74-4768C03182FB}|16.ExamPreparation\\CollectingStarsGame\\CollectingStarsGame.csproj|solutionrelative:16.exampreparation\\collectingstarsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269}|17.ExamPreparation\\DataCenter\\DataCenter.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\17.exampreparation\\datacenter\\rack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269}|17.ExamPreparation\\DataCenter\\DataCenter.csproj|solutionrelative:17.exampreparation\\datacenter\\rack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269}|17.ExamPreparation\\DataCenter\\DataCenter.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\17.exampreparation\\datacenter\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269}|17.ExamPreparation\\DataCenter\\DataCenter.csproj|solutionrelative:17.exampreparation\\datacenter\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CollectingStarsGame\\Program.cs",
-              "RelativeDocumentMoniker": "16.ExamPreparation\\CollectingStarsGame\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\16.ExamPreparation\\CollectingStarsGame\\Program.cs",
-              "RelativeToolTip": "16.ExamPreparation\\CollectingStarsGame\\Program.cs",
-              "ViewState": "AgIAAEgAAACANjMzMzMrwFAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\DataCenter\\Server.cs",
+              "RelativeDocumentMoniker": "17.ExamPreparation\\DataCenter\\Server.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\DataCenter\\Server.cs",
+              "RelativeToolTip": "17.ExamPreparation\\DataCenter\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T15:01:46.15Z",
+              "WhenOpened": "2024-10-17T16:48:28.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rack.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\DataCenter\\Rack.cs",
+              "RelativeDocumentMoniker": "17.ExamPreparation\\DataCenter\\Rack.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\DataCenter\\Rack.cs",
+              "RelativeToolTip": "17.ExamPreparation\\DataCenter\\Rack.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAALwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:48:15.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\EscapeTheMaze\\Program.cs",
-              "RelativeDocumentMoniker": "17.ExamPreparation\\EscapeTheMaze\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\EscapeTheMaze\\Program.cs",
-              "RelativeToolTip": "17.ExamPreparation\\EscapeTheMaze\\Program.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAWwGAAAAAWAAAAAAAAAA==",
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\DataCenter\\StartUp.cs",
+              "RelativeDocumentMoniker": "17.ExamPreparation\\DataCenter\\StartUp.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\DataCenter\\StartUp.cs",
+              "RelativeToolTip": "17.ExamPreparation\\DataCenter\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T16:23:00.573Z",
+              "WhenOpened": "2024-10-17T16:47:41.075Z",
               "EditorCaption": ""
             }
           ]

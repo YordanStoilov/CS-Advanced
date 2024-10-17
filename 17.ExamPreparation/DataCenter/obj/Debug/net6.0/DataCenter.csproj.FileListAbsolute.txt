@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\DataCenter\bin\Debug\net6.0\DataCenter.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\DataCenter\bin\Debug\net6.0\DataCenter.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\DataCenter\bin\Debug\net6.0\DataCenter.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\DataCenter\bin\Debug\net6.0\DataCenter.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\DataCenter\bin\Debug\net6.0\DataCenter.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\DataCenter\obj\Debug\net6.0\DataCenter.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\DataCenter\obj\Debug\net6.0\DataCenter.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\DataCenter\obj\Debug\net6.0\DataCenter.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\DataCenter\obj\Debug\net6.0\DataCenter.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\DataCenter\obj\Debug\net6.0\DataCenter.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\DataCenter\obj\Debug\net6.0\DataCenter.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\DataCenter\obj\Debug\net6.0\refint\DataCenter.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\DataCenter\obj\Debug\net6.0\DataCenter.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\DataCenter\obj\Debug\net6.0\DataCenter.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\17.ExamPreparation\DataCenter\obj\Debug\net6.0\ref\DataCenter.dll
