@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\GroceriesManagement\bin\Debug\net6.0\GroceriesManagement.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\GroceriesManagement\bin\Debug\net6.0\GroceriesManagement.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\GroceriesManagement\bin\Debug\net6.0\GroceriesManagement.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\GroceriesManagement\bin\Debug\net6.0\GroceriesManagement.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\GroceriesManagement\bin\Debug\net6.0\GroceriesManagement.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\GroceriesManagement\obj\Debug\net6.0\refint\GroceriesManagement.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\GroceriesManagement\obj\Debug\net6.0\ref\GroceriesManagement.dll

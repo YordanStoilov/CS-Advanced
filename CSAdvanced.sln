@@ -305,6 +305,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterExtermination", "18.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGambler", "18.ExamPreparation\TheGambler\TheGambler.csproj", "{F8F4F8E1-D5D7-4757-8360-4EA53F88C510}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceriesManagement", "18.ExamPreparation\GroceriesManagement\GroceriesManagement.csproj", "{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -843,6 +845,10 @@ Global
 		{F8F4F8E1-D5D7-4757-8360-4EA53F88C510}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8F4F8E1-D5D7-4757-8360-4EA53F88C510}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8F4F8E1-D5D7-4757-8360-4EA53F88C510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -981,6 +987,7 @@ Global
 		{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269} = {C0777000-4ACD-4109-92D5-4148D4DBA206}
 		{AC6B789E-3D51-4A4E-A745-A079D6FE939C} = {D044831B-534F-4B65-B65B-F6ADE43F6D06}
 		{F8F4F8E1-D5D7-4757-8360-4EA53F88C510} = {D044831B-534F-4B65-B65B-F6ADE43F6D06}
+		{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB} = {D044831B-534F-4B65-B65B-F6ADE43F6D06}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65C1283D-830D-40CC-8FAB-35D061333BAA}

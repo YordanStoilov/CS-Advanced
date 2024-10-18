@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8F4F8E1-D5D7-4757-8360-4EA53F88C510}|18.ExamPreparation\\TheGambler\\TheGambler.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\18.exampreparation\\thegambler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8F4F8E1-D5D7-4757-8360-4EA53F88C510}|18.ExamPreparation\\TheGambler\\TheGambler.csproj|solutionrelative:18.exampreparation\\thegambler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB}|18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\18.exampreparation\\groceriesmanagement\\groceriesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB}|18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.csproj|solutionrelative:18.exampreparation\\groceriesmanagement\\groceriesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7AF6EF3-072A-444C-A862-EFECF3CAC24C}|17.ExamPreparation\\EscapeTheMaze\\EscapeTheMaze.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\17.exampreparation\\escapethemaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7AF6EF3-072A-444C-A862-EFECF3CAC24C}|17.ExamPreparation\\EscapeTheMaze\\EscapeTheMaze.csproj|solutionrelative:17.exampreparation\\escapethemaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB}|18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\18.exampreparation\\groceriesmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB}|18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.csproj|solutionrelative:18.exampreparation\\groceriesmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB}|18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\18.exampreparation\\groceriesmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB}|18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.csproj|solutionrelative:18.exampreparation\\groceriesmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\EscapeTheMaze\\Program.cs",
-              "RelativeDocumentMoniker": "17.ExamPreparation\\EscapeTheMaze\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\EscapeTheMaze\\Program.cs",
-              "RelativeToolTip": "17.ExamPreparation\\EscapeTheMaze\\Program.cs",
-              "ViewState": "AgIAAFQAAAAAYmZmZmYkwFwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\GroceriesManagement\\Product.cs",
+              "RelativeDocumentMoniker": "18.ExamPreparation\\GroceriesManagement\\Product.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\GroceriesManagement\\Product.cs",
+              "RelativeToolTip": "18.ExamPreparation\\GroceriesManagement\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T14:12:11.375Z",
+              "WhenOpened": "2024-10-18T14:47:28.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\TheGambler\\Program.cs",
-              "RelativeDocumentMoniker": "18.ExamPreparation\\TheGambler\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\TheGambler\\Program.cs",
-              "RelativeToolTip": "18.ExamPreparation\\TheGambler\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Title": "GroceriesManagement.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.cs",
+              "RelativeDocumentMoniker": "18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.cs",
+              "RelativeToolTip": "18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.cs",
+              "ViewState": "AgIAAAwAAACQmZmZmdkpwBQAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T14:11:36.161Z",
+              "WhenOpened": "2024-10-18T14:46:44.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\GroceriesManagement\\StartUp.cs",
+              "RelativeDocumentMoniker": "18.ExamPreparation\\GroceriesManagement\\StartUp.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\GroceriesManagement\\StartUp.cs",
+              "RelativeToolTip": "18.ExamPreparation\\GroceriesManagement\\StartUp.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:46:11.068Z",
               "EditorCaption": ""
             }
           ]
