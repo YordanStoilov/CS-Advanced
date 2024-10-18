@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269}|17.ExamPreparation\\DataCenter\\DataCenter.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\17.exampreparation\\datacenter\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269}|17.ExamPreparation\\DataCenter\\DataCenter.csproj|solutionrelative:17.exampreparation\\datacenter\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269}|17.ExamPreparation\\DataCenter\\DataCenter.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\17.exampreparation\\datacenter\\rack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269}|17.ExamPreparation\\DataCenter\\DataCenter.csproj|solutionrelative:17.exampreparation\\datacenter\\rack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269}|17.ExamPreparation\\DataCenter\\DataCenter.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\17.exampreparation\\datacenter\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269}|17.ExamPreparation\\DataCenter\\DataCenter.csproj|solutionrelative:17.exampreparation\\datacenter\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC6B789E-3D51-4A4E-A745-A079D6FE939C}|18.ExamPreparation\\ChickenSnack\\MonsterExtermination.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\18.exampreparation\\chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6B789E-3D51-4A4E-A745-A079D6FE939C}|18.ExamPreparation\\ChickenSnack\\MonsterExtermination.csproj|solutionrelative:18.exampreparation\\chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Server.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\DataCenter\\Server.cs",
-              "RelativeDocumentMoniker": "17.ExamPreparation\\DataCenter\\Server.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\DataCenter\\Server.cs",
-              "RelativeToolTip": "17.ExamPreparation\\DataCenter\\Server.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T16:48:28.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Rack.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\DataCenter\\Rack.cs",
-              "RelativeDocumentMoniker": "17.ExamPreparation\\DataCenter\\Rack.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\DataCenter\\Rack.cs",
-              "RelativeToolTip": "17.ExamPreparation\\DataCenter\\Rack.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAALwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T16:48:15.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\DataCenter\\StartUp.cs",
-              "RelativeDocumentMoniker": "17.ExamPreparation\\DataCenter\\StartUp.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\DataCenter\\StartUp.cs",
-              "RelativeToolTip": "17.ExamPreparation\\DataCenter\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\ChickenSnack\\Program.cs",
+              "RelativeDocumentMoniker": "18.ExamPreparation\\ChickenSnack\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\ChickenSnack\\Program.cs",
+              "RelativeToolTip": "18.ExamPreparation\\ChickenSnack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T16:47:41.075Z",
+              "WhenOpened": "2024-10-18T13:49:19.005Z",
               "EditorCaption": ""
             }
           ]

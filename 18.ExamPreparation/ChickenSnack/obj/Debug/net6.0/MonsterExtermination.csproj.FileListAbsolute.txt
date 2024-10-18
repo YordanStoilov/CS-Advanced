@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\ChickenSnack\bin\Debug\net6.0\MonsterExtermination.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\ChickenSnack\bin\Debug\net6.0\MonsterExtermination.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\ChickenSnack\bin\Debug\net6.0\MonsterExtermination.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\ChickenSnack\bin\Debug\net6.0\MonsterExtermination.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\ChickenSnack\bin\Debug\net6.0\MonsterExtermination.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\ChickenSnack\obj\Debug\net6.0\MonsterExtermination.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\ChickenSnack\obj\Debug\net6.0\MonsterExtermination.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\ChickenSnack\obj\Debug\net6.0\MonsterExtermination.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\ChickenSnack\obj\Debug\net6.0\MonsterExtermination.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\ChickenSnack\obj\Debug\net6.0\MonsterExtermination.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\ChickenSnack\obj\Debug\net6.0\MonsterExtermination.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\ChickenSnack\obj\Debug\net6.0\refint\MonsterExtermination.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\ChickenSnack\obj\Debug\net6.0\MonsterExtermination.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\ChickenSnack\obj\Debug\net6.0\MonsterExtermination.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\ChickenSnack\obj\Debug\net6.0\ref\MonsterExtermination.dll

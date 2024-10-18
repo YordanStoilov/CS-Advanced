@@ -247,57 +247,61 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12.ExamPreparation", "12.Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TempleOfDoom", "12.ExamPreparation\TempleOfDoom\TempleOfDoom.csproj", "{FB2F11DE-82B2-4CF4-8254-27E78434EE25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseInTheKitchen", "12.ExamPreparation\MouseInTheKitchen\MouseInTheKitchen.csproj", "{88587BA4-13EC-4FD1-9EE3-FAEA79E0FB92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MouseInTheKitchen", "12.ExamPreparation\MouseInTheKitchen\MouseInTheKitchen.csproj", "{88587BA4-13EC-4FD1-9EE3-FAEA79E0FB92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomotiveRepairShop", "12.ExamPreparation\AutomotiveRepairShop\AutomotiveRepairShop.csproj", "{90BC125E-236A-4461-9415-9AA1FECCD463}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomotiveRepairShop", "12.ExamPreparation\AutomotiveRepairShop\AutomotiveRepairShop.csproj", "{90BC125E-236A-4461-9415-9AA1FECCD463}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13.ExamPreparation", "13.ExamPreparation", "{27CE49F3-AC01-47A7-93EA-120C7CE55D63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickenSnack", "13.ExamPreparation\ChickenSnack\ChickenSnack.csproj", "{BE4559CC-B8B2-4713-BECF-BD3F8BF22FE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChickenSnack", "13.ExamPreparation\ChickenSnack\ChickenSnack.csproj", "{BE4559CC-B8B2-4713-BECF-BD3F8BF22FE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearSkies", "13.ExamPreparation\ClearSkies\ClearSkies.csproj", "{75B1AF23-A565-4D35-8FEB-FBA0A7C2EE58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClearSkies", "13.ExamPreparation\ClearSkies\ClearSkies.csproj", "{75B1AF23-A565-4D35-8FEB-FBA0A7C2EE58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharkTaxonomy", "13.ExamPreparation\SharkTaxonomy\SharkTaxonomy.csproj", "{AEB04897-ECDC-42B2-AA78-67D01E11E39C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharkTaxonomy", "13.ExamPreparation\SharkTaxonomy\SharkTaxonomy.csproj", "{AEB04897-ECDC-42B2-AA78-67D01E11E39C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "14.Algorithms", "14.Algorithms", "{2B7AB6B6-2023-4C58-9563-AB2955FD65DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveArraySum", "14.Algorithms\RecursiveArraySum\RecursiveArraySum.csproj", "{D4135582-12C0-4B73-A497-D1A170C58C02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveArraySum", "14.Algorithms\RecursiveArraySum\RecursiveArraySum.csproj", "{D4135582-12C0-4B73-A497-D1A170C58C02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFactorial", "14.Algorithms\RecursiveFactorial\RecursiveFactorial.csproj", "{020FE465-9C95-48AF-800D-EB5CD5B09B74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveFactorial", "14.Algorithms\RecursiveFactorial\RecursiveFactorial.csproj", "{020FE465-9C95-48AF-800D-EB5CD5B09B74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfCoins", "14.Algorithms\SumOfCoins\SumOfCoins.csproj", "{6A3404F9-05F8-4EAB-9D7A-0185B3D99687}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfCoins", "14.Algorithms\SumOfCoins\SumOfCoins.csproj", "{6A3404F9-05F8-4EAB-9D7A-0185B3D99687}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetCover", "14.Algorithms\SetCover\SetCover.csproj", "{F0DEB7AE-A81A-4401-BAFD-ECA3068F5E52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetCover", "14.Algorithms\SetCover\SetCover.csproj", "{F0DEB7AE-A81A-4401-BAFD-ECA3068F5E52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "14.Algorithms\MergeSort\MergeSort.csproj", "{BAF0A7B9-C247-41B0-9BB9-C360BB058F93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSort", "14.Algorithms\MergeSort\MergeSort.csproj", "{BAF0A7B9-C247-41B0-9BB9-C360BB058F93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "14.Algorithms\BinarySearch\BinarySearch.csproj", "{D25B59AC-D182-44B4-858D-411D4FEABA9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "14.Algorithms\BinarySearch\BinarySearch.csproj", "{D25B59AC-D182-44B4-858D-411D4FEABA9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quicksort", "14.Algorithms\Quicksort\Quicksort.csproj", "{31AF98E9-6307-4953-B8FD-3388330EC2BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quicksort", "14.Algorithms\Quicksort\Quicksort.csproj", "{31AF98E9-6307-4953-B8FD-3388330EC2BD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15.ExamPreparation", "15.ExamPreparation", "{6218EA3B-9FA8-4CBD-9350-F1E32D322C98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstateAgency", "15.ExamPreparation\EstateAgency\EstateAgency.csproj", "{6E902C6A-C481-4D76-9897-4904B1946B06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstateAgency", "15.ExamPreparation\EstateAgency\EstateAgency.csproj", "{6E902C6A-C481-4D76-9897-4904B1946B06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beesy", "15.ExamPreparation\Beesy\Beesy.csproj", "{A63F5A9E-0D79-44F8-90D0-A39DCC73E5F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beesy", "15.ExamPreparation\Beesy\Beesy.csproj", "{A63F5A9E-0D79-44F8-90D0-A39DCC73E5F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RapidCourier", "15.ExamPreparation\RapidCourier\RapidCourier.csproj", "{6899582B-156E-463A-97AA-CCB06950111B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RapidCourier", "15.ExamPreparation\RapidCourier\RapidCourier.csproj", "{6899582B-156E-463A-97AA-CCB06950111B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "16.ExamPreparation", "16.ExamPreparation", "{A6ED27C9-6B9B-4875-84E2-A7845F241E1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.WildSurvival", "16.ExamPreparation\01.WildSurvival\01.WildSurvival.csproj", "{AB0F15AA-EC21-497C-BCD7-87F333EE0F38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.WildSurvival", "16.ExamPreparation\01.WildSurvival\01.WildSurvival.csproj", "{AB0F15AA-EC21-497C-BCD7-87F333EE0F38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectingStarsGame", "16.ExamPreparation\CollectingStarsGame\CollectingStarsGame.csproj", "{BEBC3D1A-7815-4EC7-8A74-4768C03182FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectingStarsGame", "16.ExamPreparation\CollectingStarsGame\CollectingStarsGame.csproj", "{BEBC3D1A-7815-4EC7-8A74-4768C03182FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CocktailBar", "16.ExamPreparation\CocktailBar\CocktailBar.csproj", "{15A008CC-3C4D-4CE5-82D1-AB15F8E5F075}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CocktailBar", "16.ExamPreparation\CocktailBar\CocktailBar.csproj", "{15A008CC-3C4D-4CE5-82D1-AB15F8E5F075}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "17.ExamPreparation", "17.ExamPreparation", "{C0777000-4ACD-4109-92D5-4148D4DBA206}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiePursuit", "17.ExamPreparation\PiePursuit\PiePursuit.csproj", "{A10E8EEB-B20B-4486-9579-79E41095531D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PiePursuit", "17.ExamPreparation\PiePursuit\PiePursuit.csproj", "{A10E8EEB-B20B-4486-9579-79E41095531D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeTheMaze", "17.ExamPreparation\EscapeTheMaze\EscapeTheMaze.csproj", "{F7AF6EF3-072A-444C-A862-EFECF3CAC24C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EscapeTheMaze", "17.ExamPreparation\EscapeTheMaze\EscapeTheMaze.csproj", "{F7AF6EF3-072A-444C-A862-EFECF3CAC24C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCenter", "17.ExamPreparation\DataCenter\DataCenter.csproj", "{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataCenter", "17.ExamPreparation\DataCenter\DataCenter.csproj", "{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18.ExamPreparation", "18.ExamPreparation", "{D044831B-534F-4B65-B65B-F6ADE43F6D06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterExtermination", "18.ExamPreparation\ChickenSnack\MonsterExtermination.csproj", "{AC6B789E-3D51-4A4E-A745-A079D6FE939C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -829,6 +833,10 @@ Global
 		{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC6B789E-3D51-4A4E-A745-A079D6FE939C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6B789E-3D51-4A4E-A745-A079D6FE939C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6B789E-3D51-4A4E-A745-A079D6FE939C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6B789E-3D51-4A4E-A745-A079D6FE939C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -965,6 +973,7 @@ Global
 		{A10E8EEB-B20B-4486-9579-79E41095531D} = {C0777000-4ACD-4109-92D5-4148D4DBA206}
 		{F7AF6EF3-072A-444C-A862-EFECF3CAC24C} = {C0777000-4ACD-4109-92D5-4148D4DBA206}
 		{C685F8B4-4ED7-4F38-B1FE-96FDA16D1269} = {C0777000-4ACD-4109-92D5-4148D4DBA206}
+		{AC6B789E-3D51-4A4E-A745-A079D6FE939C} = {D044831B-534F-4B65-B65B-F6ADE43F6D06}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65C1283D-830D-40CC-8FAB-35D061333BAA}
