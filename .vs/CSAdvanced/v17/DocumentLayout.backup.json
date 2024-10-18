@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC6B789E-3D51-4A4E-A745-A079D6FE939C}|18.ExamPreparation\\ChickenSnack\\MonsterExtermination.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\18.exampreparation\\chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC6B789E-3D51-4A4E-A745-A079D6FE939C}|18.ExamPreparation\\ChickenSnack\\MonsterExtermination.csproj|solutionrelative:18.exampreparation\\chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8F4F8E1-D5D7-4757-8360-4EA53F88C510}|18.ExamPreparation\\TheGambler\\TheGambler.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\18.exampreparation\\thegambler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F4F8E1-D5D7-4757-8360-4EA53F88C510}|18.ExamPreparation\\TheGambler\\TheGambler.csproj|solutionrelative:18.exampreparation\\thegambler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AF6EF3-072A-444C-A862-EFECF3CAC24C}|17.ExamPreparation\\EscapeTheMaze\\EscapeTheMaze.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\17.exampreparation\\escapethemaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AF6EF3-072A-444C-A862-EFECF3CAC24C}|17.ExamPreparation\\EscapeTheMaze\\EscapeTheMaze.csproj|solutionrelative:17.exampreparation\\escapethemaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\EscapeTheMaze\\Program.cs",
+              "RelativeDocumentMoniker": "17.ExamPreparation\\EscapeTheMaze\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\17.ExamPreparation\\EscapeTheMaze\\Program.cs",
+              "RelativeToolTip": "17.ExamPreparation\\EscapeTheMaze\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAYmZmZmYkwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:12:11.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\ChickenSnack\\Program.cs",
-              "RelativeDocumentMoniker": "18.ExamPreparation\\ChickenSnack\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\ChickenSnack\\Program.cs",
-              "RelativeToolTip": "18.ExamPreparation\\ChickenSnack\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\TheGambler\\Program.cs",
+              "RelativeDocumentMoniker": "18.ExamPreparation\\TheGambler\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\TheGambler\\Program.cs",
+              "RelativeToolTip": "18.ExamPreparation\\TheGambler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T13:49:19.005Z",
+              "WhenOpened": "2024-10-18T14:11:36.161Z",
               "EditorCaption": ""
             }
           ]

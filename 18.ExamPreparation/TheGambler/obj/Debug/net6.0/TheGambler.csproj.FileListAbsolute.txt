@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\TheGambler\bin\Debug\net6.0\TheGambler.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\TheGambler\bin\Debug\net6.0\TheGambler.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\TheGambler\bin\Debug\net6.0\TheGambler.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\TheGambler\bin\Debug\net6.0\TheGambler.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\TheGambler\bin\Debug\net6.0\TheGambler.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\TheGambler\obj\Debug\net6.0\TheGambler.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\TheGambler\obj\Debug\net6.0\TheGambler.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\TheGambler\obj\Debug\net6.0\TheGambler.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\TheGambler\obj\Debug\net6.0\TheGambler.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\TheGambler\obj\Debug\net6.0\TheGambler.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\TheGambler\obj\Debug\net6.0\TheGambler.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\TheGambler\obj\Debug\net6.0\refint\TheGambler.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\TheGambler\obj\Debug\net6.0\TheGambler.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\TheGambler\obj\Debug\net6.0\TheGambler.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\18.ExamPreparation\TheGambler\obj\Debug\net6.0\ref\TheGambler.dll

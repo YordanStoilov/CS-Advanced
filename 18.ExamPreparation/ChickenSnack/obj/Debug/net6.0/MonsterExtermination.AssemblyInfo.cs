@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonsterExtermination")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1451c349f3047a50d108327d548201879090d9a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65ffc66443198528b3038a5d5c96fc3919a1e7e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonsterExtermination")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonsterExtermination")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
