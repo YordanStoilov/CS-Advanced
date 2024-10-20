@@ -88,6 +88,7 @@ while (true)
         else
         {
             time--;
+            continue;
         }
     }
     if (player[0] < 0 || player[1] < 0 || player[0] >= rows || player[1] >= cols)
