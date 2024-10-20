@@ -14,8 +14,8 @@ int killedMonsters = 0;
 
 while (armors.Count > 0 && attacks.Count > 0)
 {
-    int armor = armors.Dequeue();
-    int attack = attacks.Pop();
+    int armor = armors.Peek();
+    int attack = attacks.Peek();
     int difference = attack - armor;
 
     if (difference >= 0)

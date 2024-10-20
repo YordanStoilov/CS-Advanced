@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame\bin\Debug\net6.0\BallGame.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame\bin\Debug\net6.0\BallGame.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame\bin\Debug\net6.0\BallGame.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame\bin\Debug\net6.0\BallGame.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame\bin\Debug\net6.0\BallGame.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame\obj\Debug\net6.0\BallGame.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame\obj\Debug\net6.0\BallGame.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame\obj\Debug\net6.0\BallGame.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame\obj\Debug\net6.0\BallGame.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame\obj\Debug\net6.0\BallGame.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame\obj\Debug\net6.0\BallGame.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame\obj\Debug\net6.0\refint\BallGame.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame\obj\Debug\net6.0\BallGame.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame\obj\Debug\net6.0\BallGame.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame\obj\Debug\net6.0\ref\BallGame.dll

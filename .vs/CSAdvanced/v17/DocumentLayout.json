@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB}|18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\18.exampreparation\\groceriesmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB}|18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.csproj|solutionrelative:18.exampreparation\\groceriesmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D5D4779-8B80-487C-B5F8-B05257571048}|19.RegularExam\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\19.regularexam\\creaturesofthecode\\mythicalcreatureshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D4779-8B80-487C-B5F8-B05257571048}|19.RegularExam\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|solutionrelative:19.regularexam\\creaturesofthecode\\mythicalcreatureshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB}|18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\18.exampreparation\\groceriesmanagement\\groceriesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB}|18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.csproj|solutionrelative:18.exampreparation\\groceriesmanagement\\groceriesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D5D4779-8B80-487C-B5F8-B05257571048}|19.RegularExam\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\19.regularexam\\creaturesofthecode\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D4779-8B80-487C-B5F8-B05257571048}|19.RegularExam\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|solutionrelative:19.regularexam\\creaturesofthecode\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB}|18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\18.exampreparation\\groceriesmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FFA77BB-D377-4192-AFFA-EC2BE6A5E3EB}|18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.csproj|solutionrelative:18.exampreparation\\groceriesmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D5D4779-8B80-487C-B5F8-B05257571048}|19.RegularExam\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\19.regularexam\\creaturesofthecode\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D4779-8B80-487C-B5F8-B05257571048}|19.RegularExam\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|solutionrelative:19.regularexam\\creaturesofthecode\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\GroceriesManagement\\Product.cs",
-              "RelativeDocumentMoniker": "18.ExamPreparation\\GroceriesManagement\\Product.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\GroceriesManagement\\Product.cs",
-              "RelativeToolTip": "18.ExamPreparation\\GroceriesManagement\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MythicalCreaturesHub.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\19.RegularExam\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
+              "RelativeDocumentMoniker": "19.RegularExam\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\19.RegularExam\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
+              "RelativeToolTip": "19.RegularExam\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
+              "ViewState": "AgIAACEAAAAAmpmZmZkFwDcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T14:47:28.096Z",
+              "WhenOpened": "2024-10-20T07:59:36.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GroceriesManagement.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.cs",
-              "RelativeDocumentMoniker": "18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.cs",
-              "RelativeToolTip": "18.ExamPreparation\\GroceriesManagement\\GroceriesManagement.cs",
-              "ViewState": "AgIAAAwAAACQmZmZmdkpwBIAAAAMAAAAAAAAAA==",
+              "Title": "Creature.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\19.RegularExam\\CreaturesOfTheCode\\Creature.cs",
+              "RelativeDocumentMoniker": "19.RegularExam\\CreaturesOfTheCode\\Creature.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\19.RegularExam\\CreaturesOfTheCode\\Creature.cs",
+              "RelativeToolTip": "19.RegularExam\\CreaturesOfTheCode\\Creature.cs",
+              "ViewState": "AgIAAAQAAAAgAAAAAIApwBkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T14:46:44.797Z",
+              "WhenOpened": "2024-10-20T07:58:50.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "StartUp.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\GroceriesManagement\\StartUp.cs",
-              "RelativeDocumentMoniker": "18.ExamPreparation\\GroceriesManagement\\StartUp.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\18.ExamPreparation\\GroceriesManagement\\StartUp.cs",
-              "RelativeToolTip": "18.ExamPreparation\\GroceriesManagement\\StartUp.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBQAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\19.RegularExam\\CreaturesOfTheCode\\StartUp.cs",
+              "RelativeDocumentMoniker": "19.RegularExam\\CreaturesOfTheCode\\StartUp.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\19.RegularExam\\CreaturesOfTheCode\\StartUp.cs",
+              "RelativeToolTip": "19.RegularExam\\CreaturesOfTheCode\\StartUp.cs",
+              "ViewState": "AgIAACoAAACANTMzMzMiwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T14:46:11.068Z",
+              "WhenOpened": "2024-10-20T07:58:30.224Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\CreaturesOfTheCode\bin\Debug\net6.0\CreaturesOfTheCode.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\CreaturesOfTheCode\bin\Debug\net6.0\CreaturesOfTheCode.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\CreaturesOfTheCode\bin\Debug\net6.0\CreaturesOfTheCode.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\CreaturesOfTheCode\bin\Debug\net6.0\CreaturesOfTheCode.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\CreaturesOfTheCode\bin\Debug\net6.0\CreaturesOfTheCode.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\CreaturesOfTheCode\obj\Debug\net6.0\refint\CreaturesOfTheCode.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\CreaturesOfTheCode\obj\Debug\net6.0\CreaturesOfTheCode.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\CreaturesOfTheCode\obj\Debug\net6.0\ref\CreaturesOfTheCode.dll

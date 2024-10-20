@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\Bomb\bin\Debug\net6.0\Bomb.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\Bomb\bin\Debug\net6.0\Bomb.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\Bomb\bin\Debug\net6.0\Bomb.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\Bomb\bin\Debug\net6.0\Bomb.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\Bomb\bin\Debug\net6.0\Bomb.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\Bomb\obj\Debug\net6.0\Bomb.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\Bomb\obj\Debug\net6.0\Bomb.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\Bomb\obj\Debug\net6.0\Bomb.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\Bomb\obj\Debug\net6.0\Bomb.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\Bomb\obj\Debug\net6.0\Bomb.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\Bomb\obj\Debug\net6.0\Bomb.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\Bomb\obj\Debug\net6.0\refint\Bomb.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\Bomb\obj\Debug\net6.0\Bomb.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\Bomb\obj\Debug\net6.0\Bomb.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\Bomb\obj\Debug\net6.0\ref\Bomb.dll

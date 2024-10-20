@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SharkTaxonomy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25019df58e58b4b01f04316a8c7fbabcbc1ef49f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30387b8315f943050e90950b151942f7ee6a026c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SharkTaxonomy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SharkTaxonomy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
