@@ -315,6 +315,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bomb", "19.RegularExam\Bomb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreaturesOfTheCode", "19.RegularExam\CreaturesOfTheCode\CreaturesOfTheCode.csproj", "{6D5D4779-8B80-487C-B5F8-B05257571048}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallGame2", "19.RegularExam\BallGame2\BallGame2.csproj", "{27606D5E-20B0-47B5-88D1-D67A8499593C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -869,6 +871,10 @@ Global
 		{6D5D4779-8B80-487C-B5F8-B05257571048}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D5D4779-8B80-487C-B5F8-B05257571048}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D5D4779-8B80-487C-B5F8-B05257571048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27606D5E-20B0-47B5-88D1-D67A8499593C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27606D5E-20B0-47B5-88D1-D67A8499593C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27606D5E-20B0-47B5-88D1-D67A8499593C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27606D5E-20B0-47B5-88D1-D67A8499593C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1011,6 +1017,7 @@ Global
 		{D52812FC-E466-4683-A811-F73155666C39} = {660376E9-76F0-4543-8DE5-489940AA46A4}
 		{808BE865-C8D3-4F88-94FA-66DDDA0F1F2A} = {660376E9-76F0-4543-8DE5-489940AA46A4}
 		{6D5D4779-8B80-487C-B5F8-B05257571048} = {660376E9-76F0-4543-8DE5-489940AA46A4}
+		{27606D5E-20B0-47B5-88D1-D67A8499593C} = {660376E9-76F0-4543-8DE5-489940AA46A4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65C1283D-830D-40CC-8FAB-35D061333BAA}

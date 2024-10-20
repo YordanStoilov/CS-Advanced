@@ -1,10 +1,10 @@
 ﻿
-
 Stack<int> strengths = new Stack<int>(Console.ReadLine().Split(" ",
     StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
 
 Queue<int> accuracies = new Queue<int>(Console.ReadLine().Split(" ",
     StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
+
 
 int goals = 0;
 
@@ -19,6 +19,7 @@ while (strengths.Any() && accuracies.Any())
     if (sum == 100)
     {
         goals++;
+
     }
     else if (sum < 100)
     {
@@ -37,10 +38,8 @@ while (strengths.Any() && accuracies.Any())
     }
     else
     {
-        if (strength > 10)
-        {
-            strengths.Push(strength - 10);
-        }
+        strengths.Push(strength - 10);
+
         accuracies.Enqueue(accuracy);
     }
 }
@@ -61,6 +60,7 @@ else if (goals == 0)
 {
     Console.WriteLine("Paul failed to score a single goal.");
 }
+
 if (goals > 0)
 {
     Console.WriteLine($"Goals scored: {goals}");

@@ -1,0 +1,15 @@
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame2\obj\Debug\net6.0\BallGame2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame2\obj\Debug\net6.0\BallGame2.AssemblyInfoInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame2\obj\Debug\net6.0\BallGame2.AssemblyInfo.cs
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame2\obj\Debug\net6.0\BallGame2.csproj.CoreCompileInputs.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame2\obj\Debug\net6.0\BallGame2.sourcelink.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame2\bin\Debug\net6.0\BallGame2.exe
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame2\bin\Debug\net6.0\BallGame2.deps.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame2\bin\Debug\net6.0\BallGame2.runtimeconfig.json
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame2\bin\Debug\net6.0\BallGame2.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame2\bin\Debug\net6.0\BallGame2.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame2\obj\Debug\net6.0\BallGame2.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame2\obj\Debug\net6.0\refint\BallGame2.dll
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame2\obj\Debug\net6.0\BallGame2.pdb
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame2\obj\Debug\net6.0\BallGame2.genruntimeconfig.cache
+Z:\Desktop\headrush\Coding\CSAdvancedMain\CSAdvanced\19.RegularExam\BallGame2\obj\Debug\net6.0\ref\BallGame2.dll

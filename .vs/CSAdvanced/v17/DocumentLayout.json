@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D5D4779-8B80-487C-B5F8-B05257571048}|19.RegularExam\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\19.regularexam\\creaturesofthecode\\mythicalcreatureshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D5D4779-8B80-487C-B5F8-B05257571048}|19.RegularExam\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|solutionrelative:19.regularexam\\creaturesofthecode\\mythicalcreatureshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27606D5E-20B0-47B5-88D1-D67A8499593C}|19.RegularExam\\BallGame2\\BallGame2.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\19.regularexam\\ballgame2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27606D5E-20B0-47B5-88D1-D67A8499593C}|19.RegularExam\\BallGame2\\BallGame2.csproj|solutionrelative:19.regularexam\\ballgame2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D5D4779-8B80-487C-B5F8-B05257571048}|19.RegularExam\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\19.regularexam\\creaturesofthecode\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D5D4779-8B80-487C-B5F8-B05257571048}|19.RegularExam\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|solutionrelative:19.regularexam\\creaturesofthecode\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D5D4779-8B80-487C-B5F8-B05257571048}|19.RegularExam\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\19.regularexam\\creaturesofthecode\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D5D4779-8B80-487C-B5F8-B05257571048}|19.RegularExam\\CreaturesOfTheCode\\CreaturesOfTheCode.csproj|solutionrelative:19.regularexam\\creaturesofthecode\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D52812FC-E466-4683-A811-F73155666C39}|19.RegularExam\\BallGame\\BallGame.csproj|z:\\desktop\\headrush\\coding\\csadvancedmain\\csadvanced\\19.regularexam\\ballgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52812FC-E466-4683-A811-F73155666C39}|19.RegularExam\\BallGame\\BallGame.csproj|solutionrelative:19.regularexam\\ballgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MythicalCreaturesHub.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\19.RegularExam\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
-              "RelativeDocumentMoniker": "19.RegularExam\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\19.RegularExam\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
-              "RelativeToolTip": "19.RegularExam\\CreaturesOfTheCode\\MythicalCreaturesHub.cs",
-              "ViewState": "AgIAACEAAAAAmpmZmZkFwDcAAABFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\19.RegularExam\\BallGame2\\Program.cs",
+              "RelativeDocumentMoniker": "19.RegularExam\\BallGame2\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\19.RegularExam\\BallGame2\\Program.cs",
+              "RelativeToolTip": "19.RegularExam\\BallGame2\\Program.cs",
+              "ViewState": "AgIAADUAAACAZmZmZoYwwEYAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T07:59:36.682Z",
+              "WhenOpened": "2024-10-20T08:40:35.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Creature.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\19.RegularExam\\CreaturesOfTheCode\\Creature.cs",
-              "RelativeDocumentMoniker": "19.RegularExam\\CreaturesOfTheCode\\Creature.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\19.RegularExam\\CreaturesOfTheCode\\Creature.cs",
-              "RelativeToolTip": "19.RegularExam\\CreaturesOfTheCode\\Creature.cs",
-              "ViewState": "AgIAAAQAAAAgAAAAAIApwBkAAAAoAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\19.RegularExam\\BallGame\\Program.cs",
+              "RelativeDocumentMoniker": "19.RegularExam\\BallGame\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\19.RegularExam\\BallGame\\Program.cs",
+              "RelativeToolTip": "19.RegularExam\\BallGame\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwDwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T07:58:50.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\19.RegularExam\\CreaturesOfTheCode\\StartUp.cs",
-              "RelativeDocumentMoniker": "19.RegularExam\\CreaturesOfTheCode\\StartUp.cs",
-              "ToolTip": "Z:\\Desktop\\headrush\\Coding\\CSAdvancedMain\\CSAdvanced\\19.RegularExam\\CreaturesOfTheCode\\StartUp.cs",
-              "RelativeToolTip": "19.RegularExam\\CreaturesOfTheCode\\StartUp.cs",
-              "ViewState": "AgIAACoAAACANTMzMzMiwDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T07:58:30.224Z",
+              "WhenOpened": "2024-10-20T08:20:13.455Z",
               "EditorCaption": ""
             }
           ]
